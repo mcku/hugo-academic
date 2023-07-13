@@ -5,19 +5,23 @@
 
 # Appearance
 
+# Minimal (modern)
+# Classic (original Academic v1 style)
+# Rose (traditional serif)
+# Mr Robot (futuristic)
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: cyberpunk
   font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Company
+    site_type: Organization
     local_business_type: ""
-    org_name: ""
+    org_name: "Recon Technology Consulting"
     description: "Recon Technology Consulting's company website."
     twitter: ""
   analytics:
@@ -62,6 +66,8 @@ locale:
 # Site features
 
 features:
+  highlight: true
+  diagram: true
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
@@ -69,25 +75,25 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  repository:
-    url: "https://github.com/<username>/<repository>"
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ""
-    disqus:
-      shortname: ""
-      show_count: true
-    commento:
-      url: ""
-    giscus:
-      repo: ""
-      repo_id: ""
-      category: ""
-      category_id: ""
+  # repository:
+  #   url: "https://github.com/<username>/<repository>"
+  #   content_dir: content
+  #   branch: main
+  # avatar:
+  #   gravatar: false
+  #   shape: circle
+  # comment:
+  #   provider: ""
+  #   disqus:
+  #     shortname: ""
+  #     show_count: true
+  #   commento:
+  #     url: ""
+  #   giscus:
+  #     repo: ""
+  #     repo_id: ""
+  #     category: ""
+  #     category_id: ""
   search:
     provider: wowchemy
     algolia:
@@ -95,10 +101,10 @@ features:
       api_key: ""
       index_name: ""
       show_logo: false
-  map:
-    provider: ""
-    api_key: ""
-    zoom: 15
+  # map:
+  #   provider: "mapbox"
+  #   api_key: ""
+  #   zoom: 15
 
 # Extensions
 
