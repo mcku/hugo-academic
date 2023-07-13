@@ -14,18 +14,26 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Founder
+role: Direktör
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Recon Teknoloji Danışmanlık ve Ticaret Ltd. Şti.
     url: https://www.recon.com.tr
+  - name: Farklı sektörlerde deneyimler
 
 # Short bio (displayed in user profile at end of posts)
 bio: Teknoloji kariyerinde Benjamin Button gibi giderek gençleşiyoruz.
 
 # Interests to show in About widget
 interests:
+  - Açık kaynak projeler
+  - Maliyet etkin çözümler
+  - Dağıtık mimariler
+  - Startup ekosistemleri
+  - Bilgi güvenliği
+  - Go ekosistemi
+  - AWS
 
 # Education to show in About widget
 education:
@@ -48,12 +56,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "/#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/mcku_eng
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/mcku_eng
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://www.researchgate.net/profile/Mustafa-C-Kuscu

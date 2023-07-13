@@ -10,9 +10,9 @@ sections:
       title: Doğru çözümler için iş ortağınız
 
       # image:
-      #   filename: academic.png
+      #   filename: acade/home/user/mcku-projects/2023/recon_web_2023/wowchemy-hugo-themes/modules/wowchemy/i18nmic.png
       cta_alt:
-        label: "Soru sor"
+        label: "Hızlı soru sor"
         url: https://discord.gg/27sGGJYPxe
       cta:
         label: "İletişime geç"
@@ -269,7 +269,7 @@ sections:
         - icon: discord
           icon_pack: fab
           link: "https://discord.gg/27sGGJYPxe"
-          name: Sorular için Discord sunucumuz
+          name: Sorularınız için Discord sunucumuz
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
