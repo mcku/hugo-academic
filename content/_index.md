@@ -18,9 +18,8 @@ sections:
         label: "İletişime geç"
         url: contact/
       text: |-
-
         <br/>
-          Bize hızlıca Discord üzerinden soru sorabilirsiniz.
+          Finansal teknoloji alanındaki deneyimimizle müşterilerimize benzersiz ve özelleştirilebilir çözümler sunmaktayız. 
         <br/>
         <br/>
 
@@ -41,7 +40,7 @@ sections:
     id: about
     content:
       title: Hakkımızda
-      text: Finansal teknoloji alanındaki deneyimimizle müşterilerimize benzersiz ve özelleştirilebilir çözümler sunmaktayız. Regülasyon gereksinimlerini karşılayan güçlü teknoloji altyapımız ve uzman ekibimizle, modern, güvenli ve güvenilir ürünler geliştiriyoruz. Müşterilerimize rekabet avantajı sağlayan yenilikçi ve kullanıcı dostu çözümler geliştirirken müşteri memnuniyetine odaklanmaktayız.
+      text: Regülasyon gereksinimlerini karşılayan güçlü teknoloji altyapımız ve uzman ekibimizle, modern, güvenli ve güvenilir ürünler geliştiriyoruz. Müşterilerimize rekabet avantajı sağlayan yenilikçi ve kullanıcı dostu çözümler geliştirirken müşteri memnuniyetine odaklanmaktayız.
     design:
       columns: 2
 
@@ -53,8 +52,8 @@ sections:
           description: Cloud native ya da on-premise API servisleri
           icon: code-pull-request
           icon_pack: fas
-        - name: İşlevsel modüller
-          description: Regülasyonlara uygun yazılım modülleri
+        - name: İşlevsel modül temini
+          description: Regülasyonlara uygun yazılım modülleri temini
           icon: coins
           icon_pack: fas
         - name: Proje & danışmanlık
@@ -65,7 +64,7 @@ sections:
     id: founder
     content:
       title:
-        Kurucu
+        Bizi tanıyın
         # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       #  yeni eleman alacağımız zaman açılacak

@@ -3,8 +3,9 @@ title: Slides
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
+draft: true
 categories: []
-date: '2019-02-05T00:00:00Z'
+date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
