@@ -4,42 +4,42 @@
   translation: Arayüz yönünü değiştir
 
 - id: table_of_contents
-  translation: Table of Contents
+  translation: İçindekiler
 
 - id: on_this_page
-  translation: On this page
+  translation: Bu sayfada
 
 - id: back_to_top
-  translation: Back to top
+  translation: En yukarıya dön
 
 - id: home
-  translation: Home
+  translation: Ana sayfa
 
 - id: close
-  translation: Close
+  translation: Kapat
 
 - id: languages
-  translation: Languages
+  translation: Diller
 
 # General
 
 - id: related
-  translation: Related
+  translation: İlişkili
 
 - id: minute_read
-  translation: min read
+  translation: dk okuma süresi
 
 - id: previous
-  translation: Previous
+  translation: Önceki
 
 - id: next
-  translation: Next
+  translation: Sonraki
 
 - id: figure
-  translation: "Figure %d:"
+  translation: "Şekil %d:"
 
 - id: edit_page
-  translation: Edit this page
+  translation: Sayfayı düzenle
 
 # Themes
 
@@ -47,24 +47,24 @@
   translation: Display preferences
 
 - id: theme_light
-  translation: Light
+  translation: Açık
 
 - id: theme_dark
-  translation: Dark
+  translation: Koyu
 
 - id: theme_auto
-  translation: Automatic
+  translation: Otomatik
 
 # Buttons
 
 - id: btn_preprint
-  translation: Preprint
+  translation: Ön baskı
 
 - id: btn_pdf
   translation: PDF
 
 - id: btn_cite
-  translation: Cite
+  translation: Referans ver
 
 - id: btn_slides
   translation: Slaytlar
@@ -88,13 +88,13 @@
   translation: Source Document
 
 - id: btn_copy
-  translation: Copy
+  translation: Kopyala
 
 - id: btn_copied
-  translation: Copied
+  translation: Kopyalandı
 
 - id: btn_download
-  translation: Download
+  translation: İndir
 
 # About widget
 
@@ -105,22 +105,22 @@
   translation: Eğitim
 
 - id: user_profile_latest
-  translation: Latest
+  translation: En son
 
 # Accomplishments widget
 
 - id: see_certificate
-  translation: See certificate
+  translation: Sertifikayı gör
 
 # Experience widget
 
 - id: present
-  translation: Present
+  translation: Bugün
 
 # Pages widget
 
 - id: more_pages
-  translation: See all
+  translation: Tamamını gör
 
 - id: more_posts
   translation: Daha fazla blog içeriği
@@ -129,7 +129,7 @@
   translation: Daha fazla konuşma
 
 - id: more_publications
-  translation: Daha fazla yayınlar
+  translation: Daha fazla yayın
 
 # Contact widget
 
@@ -149,7 +149,7 @@
   translation: Gönder
 
 - id: book_appointment
-  translation: Book an appointment
+  translation: Randevu al
 
 # Publication/Event details
 
@@ -166,7 +166,7 @@
   translation: Tarih
 
 - id: last_updated
-  translation: Last updated on
+  translation: Son güncelleme
 
 - id: event
   translation: Etkinlikler
@@ -175,28 +175,28 @@
   translation: Adres
 
 - id: pub_uncat
-  translation: Uncategorized
+  translation: Kategorisi olmayan
 
 - id: pub_conf
-  translation: Conference paper
+  translation: Konferans bildirisi
 
 - id: pub_journal
-  translation: Journal article
+  translation: Derki makalesi
 
 - id: pub_preprint
-  translation: Preprint
+  translation: Ön baskı
 
 - id: pub_report
-  translation: Report
+  translation: Rapor
 
 - id: pub_book
-  translation: Book
+  translation: Kitap
 
 - id: pub_book_section
-  translation: Book section
+  translation: Kitap bölümü
 
 - id: pub_thesis
-  translation: Thesis
+  translation: Tez
 
 - id: pub_patent
   translation: Patent
@@ -218,38 +218,38 @@
   translation: Konuşmalar
 
 - id: projects
-  translation: Projects
+  translation: Projeler
 
 - id: slides
-  translation: Slides
+  translation: Slaytlar
 
 - id: authors
-  translation: Authors
+  translation: Ekip
 
 # Search
 
 - id: search
-  translation: Search
+  translation: Ara
 
 - id: search_placeholder
-  translation: Search...
+  translation: Ara...
 
 - id: search_results
-  translation: results found
+  translation: sonuç bulundu
 
 - id: search_no_results
-  translation: No results found
+  translation: Sonuç bulunamadı
 
 - id: search_common_queries
-  translation: Common searches
+  translation: Sık aramalar
 
 # Error 404
 
 - id: page_not_found
-  translation: Page not found
+  translation: Sayfa bulunamadı
 
 - id: 404_recommendations
-  translation: Perhaps you were looking for one of these?
+  translation: Belki de bunlara bakmıştınız..
 
 # Cookie consent
 
