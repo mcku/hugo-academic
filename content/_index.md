@@ -247,7 +247,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: İletişim & Ulaşım
+      title: İletişim
       subtitle:
       text: |-
         Lütfen mesajınızı iletmek için aşağıdaki formu doldurun. Form üçüncü parti sağlayıcılar üzerinden iletilmektedir. Gizliliğinize dikkat ediniz.
