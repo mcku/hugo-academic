@@ -12,7 +12,7 @@
 {{ $logoMobile := "" }}
 {{ if $has_logo }}
   {{ $logo = (partial "functions/get_logo" (dict  "constraint" "max_height" "size" 36 )) }}
-  {{ $logoMobile = (partial "functions/get_logo" (dict  "constraint" "max_height" "size" 12 )) }}
+  {{ $logoMobile = (partial "functions/get_logo_mobile" (dict  "constraint" "max_height" "size" 40 )) }}
 {{ end }}
 
 <header>
