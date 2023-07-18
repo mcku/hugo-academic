@@ -44,6 +44,9 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+  mobileImage:
+    height: 20px
+    width: 350px
 
 # Site footer
 

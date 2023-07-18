@@ -11,8 +11,8 @@
 {{ $logo := "" }}
 {{ $logoMobile := "" }}
 {{ if $has_logo }}
-  {{ $logo = (partial "functions/get_logo" (dict  "size" 600)) }}
-  {{ $logoMobile = (partial "functions/get_logo" (dict "size" 250)) }}
+  {{ $logo = (partial "functions/get_logo" (dict  "constraint" "max_height" "size" 36 )) }}
+  {{ $logoMobile = (partial "functions/get_logo" (dict  "constraint" "max_height" "size" 12 )) }}
 {{ end }}
 
 <header>
@@ -45,8 +45,8 @@
         <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
         {{- if $has_logo -}}
           <img src="{{ $logoMobile.RelPermalink }}" alt="{{ site.Title }}"
-          {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-          {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+          width="250px"
+          >
         {{- else -}}
           {{- site.Title -}}
         {{- end -}}
