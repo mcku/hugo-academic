@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mustafa Kuşçu | Recon Teknoloji</title>
-    <link>https://example.com/authors/admin/</link>
-      <atom:link href="https://example.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mustafa Kuşçu</description>
+    <title>Fintek | Recon Teknoloji</title>
+    <link>https://example.com/tag/fintek/</link>
+      <atom:link href="https://example.com/tag/fintek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fintek</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>tr</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/authors/admin/avatar_hu209793912f81ec684c03bd7ea0994852_392840_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Mustafa Kuşçu</title>
-      <link>https://example.com/authors/admin/</link>
+      <url>https://example.com/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
+      <title>Fintek</title>
+      <link>https://example.com/tag/fintek/</link>
     </image>
     
     <item>
