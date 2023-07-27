@@ -2,9 +2,10 @@
 title: Writing technical content in Markdown
 date: 2019-07-12
 math: true
+draft: true
 image:
   placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: "Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
 ---
 
 Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
@@ -95,7 +96,7 @@ A more advanced mindmap with formatting, code blocks, and math:
 
 renders as
 
-```markmap
+````markmap
 - Mindmaps
   - Links
     - [Wowchemy Docs](https://wowchemy.com/docs/)
@@ -113,7 +114,7 @@ renders as
       console.log('code block');
       ```
     - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
+````
 
 ### Charts
 
