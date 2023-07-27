@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Recon Teknoloji</title>
-    <link>https://example.com/categories/</link>
-      <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://recon.com.tr/categories/</link>
+      <atom:link href="https://recon.com.tr/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>tr</language>
     <image>
-      <url>https://example.com/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
+      <url>https://recon.com.tr/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
       <title>Categories</title>
-      <link>https://example.com/categories/</link>
+      <link>https://recon.com.tr/categories/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Recon Teknoloji</title>
-    <link>https://example.com/event/</link>
-      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://recon.com.tr/event/</link>
+      <atom:link href="https://recon.com.tr/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>tr</language>
     <image>
-      <url>https://example.com/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
+      <url>https://recon.com.tr/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/event/</link>
+      <link>https://recon.com.tr/event/</link>
     </image>
     
   </channel>
