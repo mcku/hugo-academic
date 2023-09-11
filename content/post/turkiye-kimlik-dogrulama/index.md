@@ -120,13 +120,13 @@ Proto defined 4 methods
 
 Hatadan kaçınmak için SDK olarak kullanılabilir
 
-![](./diagram.svg)
+![](/diagram.svg)
 
 Register
-![](./seqdiagram.svg)
+![](/seqdiagram.svg)
 
 Login
-![](./seqdiagram001.svg)
+![](/seqdiagram001.svg)
 
 SRP'nin en buyuk eleştirisi, karmaşik olduğu. Fakat göründüğü gibi, ufak değişikliklerle SRP akışını kurumunuz icin kolayca uygulanabilir hale getirebilirsiniz.
 
