@@ -100,7 +100,7 @@ Bu sözleşme en son 12/01/2024 tarihinde güncellenmiştir.
 
 ## ÇEREZ (COOKIE) POLİTİKASI {#cerez-cookie}
 
-Çerez Politikamız, [Gizlilik Politikamız]({{< ref "#gizlilik-privacy" >}} "İletişim")ın bir parçasını oluşturur. (Gizlilik Politikamız yazan yere kendi gizlilik politikanızın linkini vermelisiniz.)
+Çerez Politikamız, [Gizlilik Politikamız]({{< ref "#gizlilik-privacy" >}} "İletişim")ın bir parçasını oluşturur.
 
 ### Çerez (Cookie) Nedir?
 
@@ -145,4 +145,4 @@ Google Web sitemizi ziyaret ettiği zamanlarda reklam hizmeti vermek için üç�
 
 Çerez kullanım seçiminin değiştirilmesine ait yöntem, tarayıcı tipine bağlı olarak değişmekte olup, ilgili hizmet sağlayıcıdan dilendiği zaman öğrenilebilmektedir.
 
-Bu politikanın en son güncellendiği tarih: 12/04/2024
+Bu politikanın en son güncellendiği tarih: 12/01/2024
