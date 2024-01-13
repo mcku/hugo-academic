@@ -269,6 +269,14 @@ sections:
           icon_pack: fab
           link: "https://discord.gg/27sGGJYPxe"
           name: Sorularınız için Discord sunucumuz
+        - icon: linkedin
+          icon_pack: fab
+          link: "https://www.linkedin.com/company/recon-technology-consulting"
+          name: LinkedIn sayfamız
+        - icon: facebook
+          icon_pack: fab
+          link: "https://www.facebook.com/people/Recon-Consulting/100076866154734/"
+          name: Facebook sayfamız
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
