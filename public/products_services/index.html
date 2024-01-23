@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: 27 Temmuz 2023 --><html lang="tr" >
+<!-- Last Published: 23 Ocak 2024 --><html lang="tr" >
 
 
 <head>
@@ -239,13 +239,52 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-85T4VZE2QZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-85T4VZE2QZ', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 <script>
   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','G-85T4VZE2QZ');
+  })(window,document,'script','dataLayer','GTM-5BC8KV4W');
 </script>
 
 
@@ -288,8 +327,8 @@
 
 
 
-<link rel="alternate" hreflang="tr" href="https://recon.com.tr/event/" />
-<link rel="canonical" href="https://recon.com.tr/event/" />
+<link rel="alternate" hreflang="tr" href="https://recon.com.tr/products_services/" />
+<link rel="canonical" href="https://recon.com.tr/products_services/" />
 
 
 
@@ -322,11 +361,13 @@
 <meta property="twitter:card" content="summary" />
 <meta property="twitter:image" content="https://recon.com.tr/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png" />
 <meta property="og:site_name" content="Recon Teknoloji" />
-<meta property="og:url" content="https://recon.com.tr/event/" />
-<meta property="og:title" content="Recent &amp; Upcoming Talks | Recon Teknoloji" />
+<meta property="og:url" content="https://recon.com.tr/products_services/" />
+<meta property="og:title" content="Products_services | Recon Teknoloji" />
 <meta property="og:description" content="Recon Technology Consulting&#39;s company website." /><meta property="og:image" content="https://recon.com.tr/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="tr" />
 
   
+    <meta property="og:updated_time" content="2024-01-12T00:00:00&#43;00:00" />
+  
 
 
 
@@ -343,14 +384,14 @@
 
   
   
-    <link rel="alternate" href="/event/index.xml" type="application/rss+xml" title="Recon Teknoloji" />
+    <link rel="alternate" href="/products_services/index.xml" type="application/rss+xml" title="Recon Teknoloji" />
   
 
   
 
 
   
-  <title>Recent &amp; Upcoming Talks | Recon Teknoloji</title>
+  <title>Products_services | Recon Teknoloji</title>
 
   
   
@@ -370,7 +411,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="ef9aefa335e6f17c33364f4f90b69bdf" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
 
   
   
@@ -550,6 +591,43 @@
           
 
           <li class="nav-item">
+            <a class="nav-link " href="/#productservice"><span>Ürün ve Hizmetler</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
             <a class="nav-link " href="/#posts"><span>Haberler</span></a>
           </li>
 
@@ -674,7 +752,7 @@
     
   
 <div class="universal-wrapper pt-3">
-  <h1>Recent &amp; Upcoming Talks</h1>
+  <h1>Products_services</h1>
 
   
 
@@ -684,15 +762,325 @@
 
 
 <div class="universal-wrapper">
-  <div class="row">
-    <div class="col-lg-12">
+  
+
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/products_services/yasal_raporlama/" >Yasal Raporlamada Devrim: Hızlı, Basit, Güvenilir</a>
+    </div>
+
+    
+    <a href="/products_services/yasal_raporlama/"  class="summary-link">
+      <div class="article-style">
+        Fintekler için özel raporlama çözümleri
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
 
       
 
       
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oca 12, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/products_services/yasal_raporlama" >
+    <i class="fas fa-link mr-1"></i>Detay</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/#contact" >
+    <i class="fas fa-microphone mr-1"></i>İletişime geç</a>
+
 
     </div>
+    
+
   </div>
+  <div class="ml-3">
+    
+    
+      
+      <a href="/products_services/yasal_raporlama/" >
+        <img src="/products_services/yasal_raporlama/featured_hu9dc4015b8744b7cb52d9f6a2ee00c22d_642542_150x0_resize_q75_h2_lanczos_3.webp" height="84" width="150"
+            alt="Yasal Raporlamada Devrim: Hızlı, Basit, Güvenilir" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/products_services/finans/" >Finansal otomasyon</a>
+    </div>
+
+    
+    <a href="/products_services/finans/"  class="summary-link">
+      <div class="article-style">
+        Finans operasyonlarınızdaki kontrolü ve verimliliği artırın, hataları azaltın. Finans dünyası ve hayallerinizi bir araya getirecek çözümleri gerçekleştirin.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Ara 27, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/products_services/finans" >
+    <i class="fas fa-link mr-1"></i>Detay</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/#contact" >
+    <i class="fas fa-microphone mr-1"></i>İletişime geç</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      <a href="/products_services/finans/" >
+        <img src="/products_services/finans/featured_hu1adbf61da72337e30155dd12fd298031_2305110_150x0_resize_q75_h2_lanczos_3.webp" height="86" width="150"
+            alt="Finansal otomasyon" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+
+  
+
+  
 
 </div>
   </div>
@@ -723,6 +1111,13 @@
   
 
 
+<p class="powered-by">
+  
+  <a href="/privacy/">Gizlilik İlkeleri</a>
+  
+  
+</p>
+
 
 
 
@@ -750,7 +1145,7 @@
 
   
   <p class="powered-by copyright-license-text">
-    © 2023 Recon Teknoloji. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2024 Recon Teknoloji. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 
