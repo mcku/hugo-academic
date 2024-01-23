@@ -60,14 +60,36 @@ sections:
           description: Sürecin şeffaf takibi
           icon: chart-line
           icon_pack: fas
-  - block: about.biography
-    id: founder
+  - block: portfolio
+    id: productservice
     content:
-      title:
-        Bizi tanıyın
-        # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      #  yeni eleman alacağımız zaman açılacak
+      title: Ürün ve Hizmetlerimiz
+      filters:
+        folders:
+          - products_services
+
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: Tümü
+          tag: "*"
+        - name: Fintek
+          tag: Fintek
+        - name: Cüzdan
+          tag: Cüzdan
+        - name: Raporlama
+          tag: Raporlama
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: "1"
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: true
   # - block: experience
   #   content:
   #     title: Projeler
@@ -169,33 +191,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: "2"
-  # - block: portfolio
-  #   id: projects
-  #   content:
-  #     title: Projects
-  #     filters:
-  #       folders:
-  #         - project
-  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  #     default_button_index: 0
-  #     # Filter toolbar (optional).
-  #     # Add or remove as many filters (`filter_button` instances) as you like.
-  #     # To show all items, set `tag` to "*".
-  #     # To filter by a specific tag, set `tag` to an existing tag name.
-  #     # To remove the toolbar, delete the entire `filter_button` block.
-  #     buttons:
-  #       - name: All
-  #         tag: "*"
-  #       - name: Deep Learning
-  #         tag: Deep Learning
-  #       - name: Other
-  #         tag: Demo
-  #   design:
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: "1"
-  #     view: showcase
-  #     # For Showcase view, flip alternate rows?
-  #     flip_alt_rows: false
   # - block: markdown
   #   content:
   #     title: Gallery
@@ -244,6 +239,28 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: "2"
+  - block: about.biography
+    id: founder
+    content:
+      title:
+        Bizi tanıyın
+        # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      #  yeni eleman alacağımız zaman açılacak
+      design:
+        columns: 2
+  # - block: about.biography
+  #   id: newprospect
+  #   content:
+  #     title:
+  #       # Choose a user profile to display (a folder name within `content/authors/`)
+  #       # Choose a user profile to display (a folder name within `content/authors/`)
+  #       # username: admin
+  #       #  yeni eleman alacağımız zaman açılacak
+  #       # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: siz-olabilirsiniz
+  #     design:
+  #       columns: 2
   - block: contact
     id: contact
     content:
@@ -296,16 +313,4 @@ sections:
   #     text: <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d12048.647299833729!2d29.094512697546392!3d40.97793719958419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDDCsDU4JzMzLjIiTiAyOcKwMDUnNDguMCJF!5e0!3m2!1str!2str!4v1689189249956!5m2!1str!2str" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   #   design:
   #     columns: "2"
-  # - block: about.biography
-  #   id: newprospect
-  #   content:
-  #     title:
-  #       # Choose a user profile to display (a folder name within `content/authors/`)
-  #       # Choose a user profile to display (a folder name within `content/authors/`)
-  #       # username: admin
-  #       #  yeni eleman alacağımız zaman açılacak
-  #       # Choose a user profile to display (a folder name within `content/authors/`)
-  #     username: siz-olabilirsiniz
-  #     design:
-  #       columns: 1
 ---
