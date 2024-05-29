@@ -275,8 +275,8 @@ sections:
       # appointment_url: "https://calendly.com"
 
       address:
-        street: Kozyatağı Mh. Sarıkanarya Sk. ByOffice Kozyatağı No:14/7
-        city: Kadıköy
+        street: "Barbaros Mh. Şebboy Sk. No: 4/1 Dijitalpark Teknokent İç Kapı No:2"
+        city: Ataşehir
         region: İstanbul
         postcode:
         country: Türkiye
