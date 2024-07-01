@@ -270,8 +270,8 @@ sections:
         Lütfen mesajınızı iletmek için aşağıdaki formu doldurun. Form üçüncü parti sağlayıcılar üzerinden iletilmektedir. Gizliliğinize dikkat ediniz.
 
       # Contact (add or remove contact options as necessary)
-      # email: info@recon.com.tr
-      phone: +90 216 906 00 32
+      email: info@recon.com.tr
+      phone: +90 850 309 0 123
       # appointment_url: "https://calendly.com"
 
       address:
@@ -282,10 +282,14 @@ sections:
         country: Türkiye
         country_code: TR
       contact_links:
-        - icon: discord
+        - icon: whatsapp
           icon_pack: fab
-          link: "https://discord.gg/27sGGJYPxe"
-          name: Sorularınız için Discord sunucumuz
+          link: "https://wa.me/message/Q64CBO6X4W3OC1"
+          name: Sorularınız için WhatsApp
+        # - icon: discord
+        #   icon_pack: fab
+        #   link: "https://discord.gg/27sGGJYPxe"
+        #   name: Sorularınız için WhatsApp
         - icon: linkedin
           icon_pack: fab
           link: "https://www.linkedin.com/company/recon-technology-consulting"
