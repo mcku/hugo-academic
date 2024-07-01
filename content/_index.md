@@ -13,7 +13,7 @@ sections:
       #   filename: acade/home/user/mcku-projects/2023/recon_web_2023/wowchemy-hugo-themes/modules/wowchemy/i18nmic.png
       cta_alt:
         label: "Hızlı soru sor"
-        url: https://discord.gg/27sGGJYPxe
+        url: https://wa.me/message/Q64CBO6X4W3OC1
       cta:
         label: "İletişime geç"
         url: "#contact"
