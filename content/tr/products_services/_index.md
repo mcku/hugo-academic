@@ -1,16 +1,16 @@
 ---
 title: Ürün ve Hizmetler
-
 type: landing
+cms_exclude: true
 
 sections:
   - block: portfolio
-    id: productservice
+    headless: true
     content:
       title: Ürün ve Hizmetlerimiz
       filters:
         folders:
-          - data
+          - products_services
 
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
@@ -31,7 +31,8 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: "1"
-      view: showcase
+      # view: showcase
+      view: masonry
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
 ---

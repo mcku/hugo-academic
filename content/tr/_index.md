@@ -31,10 +31,13 @@ sections:
       # <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
+        image:
+          filename: stock/pexels-ivan-card-dark.jpg
+          # filename: stock/photo-agileboard.png
         # gradient_end: "#1976d2"
         # gradient_start: "#004ba0"
-        gradient_start: "#005ba1"
-        gradient_end: "#1717af"
+        # gradient_start: "#005ba1"
+        # gradient_end: "#1717af"
         text_color_light: true
   # - block: markdown
   #   id: about
@@ -44,52 +47,73 @@ sections:
   #   design:
   #     columns: 2
 
-  - block: features
+  - block: markdown
     content:
       title: Faaliyet alanlarımız
+      text: |-
+        * Finansal teknolojiler (sahtecilik tespiti, cüzdan altyapısı, entegrasyonlar)
+        * Güvenli sistem, yazılım ve bilişim mimarisi ve uygulamaları (servisler, UI, API, veritabanı ve diğer bileşenler)
+
+    design:
+      columns: 2
+      # background:
+      # image:
+      # filename: stock/photo-agileboard.png
+      # filename: stock/pexels-ivan-card-dark.jpg
+
+  - block: features
+    content:
+      title: İş modelimiz
       items:
-        - name: Ürün geliştirme
-          description: Cloud native ya da on-premise API servisleri
-          icon: code-pull-request
-          icon_pack: fas
-        - name: İşlevsel modül temini
-          description: Regülasyonlara uygun yazılım modülleri temini
+        - name: Ürün ve çözüm entegrasyonu
+          description: |-
+            Kendi ürünlerimizin ve sağlayıcısı / iş ortağı olduğumuz 3. parti ürünlerin entegrasyonunu gerçekleştiriyoruz. 
+
+            Ürün ve hizmetlerimiz başlığını inceleyin.
           icon: coins
           icon_pack: fas
+        - name: Özel ürün geliştirme
+          description: Özel ürün ve servis talepleri karşılanmaktadır. Cloud native ya da on-premise API servisleri, web yönetim arayüzleriyle beraber geliştirilmektedir. İstenirse kaynak kodu ve esnek lisans seçenekleri sunulabilmektedir.
+          icon: code-pull-request
+          icon_pack: fas
         - name: Proje & danışmanlık
-          description: Sürecin şeffaf takibi
+          description: Yapılan çalışmalar, ortak proje takip ortamları üzerinden, agile ya da hibrit yöntemlerle izlenebilmektedir. Entegrasyon, geliştirme ve test süreçleri ile CI/CD konularında proje için faydalı olacak best-practice'ler ortaya konmaktadır.
           icon: chart-line
           icon_pack: fas
-  - block: portfolio
-    id: productservice
-    content:
-      title: Ürün ve Hizmetlerimiz
-      filters:
-        folders:
-          - products_services/data
-
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: Tümü
-          tag: "*"
-        - name: Fintek
-          tag: Fintek
-        - name: Cüzdan
-          tag: Cüzdan
-        - name: Raporlama
-          tag: Raporlama
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: "1"
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+      background:
+        image:
+          filename: stock/pexels-ivan-card-dark.jpg
+        text_color_light: true
+  # - block: portfolio
+  #   content:
+  #     title: Ürün ve Hizmetlerimiz
+  #     filters:
+  #       folders:
+  #         - products_services/data
+
+  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #     default_button_index: 0
+  #     # Filter toolbar (optional).
+  #     # Add or remove as many filters (`filter_button` instances) as you like.
+  #     # To show all items, set `tag` to "*".
+  #     # To filter by a specific tag, set `tag` to an existing tag name.
+  #     # To remove the toolbar, delete the entire `filter_button` block.
+  #     buttons:
+  #       - name: Tümü
+  #         tag: "*"
+  #       - name: Fintek
+  #         tag: Fintek
+  #       - name: Cüzdan
+  #         tag: Cüzdan
+  #       - name: Raporlama
+  #         tag: Raporlama
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: "1"
+  #     view: showcase
+  #     # For Showcase view, flip alternate rows?
+  #     flip_alt_rows: true
   # - block: experience
   #   content:
   #     title: Projeler
@@ -164,33 +188,33 @@ sections:
   #         url: ""
   #   design:
   #     columns: "2"
-  - block: collection
-    id: posts
-    content:
-      title: Haberler
-      subtitle: "Projeler, Ürünler"
-      text: ""
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - news/post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: "2"
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Haberler
+  #     subtitle: "Projeler, Ürünler"
+  #     text: ""
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - news/post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: "2"
   # - block: markdown
   #   content:
   #     title: Gallery
@@ -239,16 +263,16 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: "2"
-  - block: about.biography
-    id: founder
-    content:
-      title:
-        Bizi tanıyın
-        # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      #  yeni eleman alacağımız zaman açılacak
-      design:
-        columns: 2
+  # - block: about.biography
+  #   id: founder
+  #   content:
+  #     title:
+  #       Bizi tanıyın
+  #       # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: admin
+  #     #  yeni eleman alacağımız zaman açılacak
+  #     design:
+  #       columns: 2
   # - block: about.biography
   #   id: newprospect
   #   content:
@@ -261,55 +285,55 @@ sections:
   #     username: siz-olabilirsiniz
   #     design:
   #       columns: 2
-  - block: contact
-    id: contact
-    content:
-      title: İletişim
-      subtitle:
-      text: |-
-        Lütfen mesajınızı iletmek için aşağıdaki formu doldurun. Form üçüncü parti sağlayıcılar üzerinden iletilmektedir. Gizliliğinize dikkat ediniz.
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: İletişim
+  #     subtitle:
+  #     text: |-
+  #       Lütfen mesajınızı iletmek için aşağıdaki formu doldurun. Form üçüncü parti sağlayıcılar üzerinden iletilmektedir. Gizliliğinize dikkat ediniz.
 
-      # Contact (add or remove contact options as necessary)
-      email: info@recon.com.tr
-      phone: +90 850 309 0 123
-      # appointment_url: "https://calendly.com"
+  #     # Contact (add or remove contact options as necessary)
+  #     email: info@recon.com.tr
+  #     phone: +90 850 309 0 123
+  #     # appointment_url: "https://calendly.com"
 
-      address:
-        street: "Barbaros Mh. Şebboy Sk. No: 4/1 Dijitalpark Teknokent İç Kapı No:2"
-        city: Ataşehir
-        region: İstanbul
-        postcode:
-        country: Türkiye
-        country_code: TR
-      contact_links:
-        - icon: whatsapp
-          icon_pack: fab
-          link: "https://wa.me/message/Q64CBO6X4W3OC1"
-          name: Sorularınız için WhatsApp
-        # - icon: discord
-        #   icon_pack: fab
-        #   link: "https://discord.gg/27sGGJYPxe"
-        #   name: Sorularınız için WhatsApp
-        - icon: linkedin
-          icon_pack: fab
-          link: "https://www.linkedin.com/company/recon-technology-consulting"
-          name: LinkedIn sayfamız
-        - icon: facebook
-          icon_pack: fab
-          link: "https://www.facebook.com/people/Recon-Consulting/100076866154734/"
-          name: Facebook sayfamız
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: formspree
-        formspree:
-          id: xzblpywv
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: "2"
+  #     address:
+  #       street: "Barbaros Mh. Şebboy Sk. No: 4/1 Dijitalpark Teknokent İç Kapı No:2"
+  #       city: Ataşehir
+  #       region: İstanbul
+  #       postcode:
+  #       country: Türkiye
+  #       country_code: TR
+  #     contact_links:
+  #       - icon: whatsapp
+  #         icon_pack: fab
+  #         link: "https://wa.me/message/Q64CBO6X4W3OC1"
+  #         name: Sorularınız için WhatsApp
+  #       # - icon: discord
+  #       #   icon_pack: fab
+  #       #   link: "https://discord.gg/27sGGJYPxe"
+  #       #   name: Sorularınız için WhatsApp
+  #       - icon: linkedin
+  #         icon_pack: fab
+  #         link: "https://www.linkedin.com/company/recon-technology-consulting"
+  #         name: LinkedIn sayfamız
+  #       - icon: facebook
+  #         icon_pack: fab
+  #         link: "https://www.facebook.com/people/Recon-Consulting/100076866154734/"
+  #         name: Facebook sayfamız
+  #     # Automatically link email and phone or display as text?
+  #     autolink: true
+  #     # Email form provider
+  #     form:
+  #       provider: formspree
+  #       formspree:
+  #         id: xzblpywv
+  #       netlify:
+  #         # Enable CAPTCHA challenge to reduce spam?
+  #         captcha: false
+  #   design:
+  #     columns: "2"
   # - block: markdown
   #   id: ulasim
   #   content:

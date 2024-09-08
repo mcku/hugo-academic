@@ -14,25 +14,24 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Direktör
+role: Kurucu
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Recon Teknoloji Danışmanlık ve Ticaret Ltd. Şti.
     url: https://www.recon.com.tr
-  - name: Farklı sektörlerde deneyimler
+  - name: Finans Teknolojileri
 
 # Short bio (displayed in user profile at end of posts)
-bio: Teknoloji kariyerinde Benjamin Button gibi giderek gençleşiyoruz.
+bio:
 
 # Interests to show in About widget
 interests:
+  - Finansal teknolojiler
+  - Sahtecilik tespiti
   - Açık kaynak projeler
-  - Maliyet etkin çözümler
-  - Dağıtık mimariler
-  - Startup ekosistemleri
+  - Dağıtık mimariler ve Go
   - Bilgi güvenliği
-  - Go ekosistemi
   - AWS
 
 # Education to show in About widget
@@ -55,7 +54,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "/#contact"
+    link: "/contact"
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/mcku_eng

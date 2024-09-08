@@ -8,7 +8,7 @@ main:
     url: about
     weight: 10
   - name: Ürün ve Hizmetler
-    url: products_services
+    url: products_services_select
     weight: 20
   - name: Haberler
     url: news

@@ -5,7 +5,7 @@ tags:
   - Fintek
 date: "2023-12-27T00:00:00Z"
 
-# draft: true
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -14,15 +14,6 @@ image:
   caption:
   focal_point: Smart
 
-links:
-  - icon: link
-    icon_pack: fas
-    name: Detay
-    url: /products_services/finans
-  - icon: microphone
-    icon_pack: fas
-    name: İletişime geç
-    url: /#contact
 url_code: ""
 url_pdf: ""
 url_slides: ""

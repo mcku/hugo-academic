@@ -15,15 +15,6 @@ image:
   caption:
   focal_point: Smart
 
-links:
-  - icon: link
-    icon_pack: fas
-    name: Detay
-    url: /products_services/yasal_raporlama
-  - icon: microphone
-    icon_pack: fas
-    name: İletişime geç
-    url: /#contact
 url_code: ""
 url_pdf: ""
 url_slides: ""
