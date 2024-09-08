@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cüzdan | Recon Technology Consulting</title>
+    <link>https://recon.com.tr/tag/cuzdan/</link>
+      <atom:link href="https://recon.com.tr/tag/cuzdan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cüzdan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://recon.com.tr/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
+      <title>Cüzdan</title>
+      <link>https://recon.com.tr/tag/cuzdan/</link>
+    </image>
+    
+    <item>
+      <title>Dijital cüzdan entegrasyon çözümleri</title>
+      <link>https://recon.com.tr/products_services/wallet/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/products_services/wallet/</guid>
+      <description>&lt;p&gt;RECON olarak dijital cüzdanların hayatımızda giderek daha fazla yer alacağını biliyoruz. Bu amaçla dijital cüzdan ekosistemi API&amp;rsquo;lerine entegre olmak isteyen, servislerini modernize etmek isteyen kuruluşlara aşağıdaki hizmetleri sunuyoruz.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Banka entegrasyonları, hesap hareketleri ve transferler, kart hareketleri&lt;/li&gt;
+&lt;li&gt;TC Kimlik / KPS / NVİ entegrasyonları&lt;/li&gt;
+&lt;li&gt;KYC / KYB / AML / Adres doğrulama (yurt içi ve yurt dışı)&lt;/li&gt;
+&lt;li&gt;IBAN doğrulama&lt;/li&gt;
+&lt;li&gt;BKM BIN sorgulama&lt;/li&gt;
+&lt;li&gt;Ulusal ve uluslararası para transferi kuruluşlarına entegrasyon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ağırlıklı olarak finans sektöründeki lisanslı kuruluşlara hizmet vermekteyiz ve yenileriyle çalışmak istiyoruz.&lt;/p&gt;
+&lt;p&gt;Öte yandan, fintek ekosistemine entegre olmak isteyen, banka ve finteklerle kapsamlı ve özel bir yol haritası geliştirmiş olan, kendi bileşen tercihlerini detaylı olarak yapmak isteyen firmalara ihtiyaç duydukları hizmetleri sunabiliriz.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

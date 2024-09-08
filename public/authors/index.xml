@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recon Technology Consulting</title>
+    <link>https://recon.com.tr/authors/</link>
+      <atom:link href="https://recon.com.tr/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recon Technology Consulting</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://recon.com.tr/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
+      <title>Recon Technology Consulting</title>
+      <link>https://recon.com.tr/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

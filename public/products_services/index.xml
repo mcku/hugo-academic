@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ürün ve Hizmetler | Recon Technology Consulting</title>
+    <link>https://recon.com.tr/products_services/</link>
+      <atom:link href="https://recon.com.tr/products_services/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ürün ve Hizmetler</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://recon.com.tr/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
+      <title>Ürün ve Hizmetler</title>
+      <link>https://recon.com.tr/products_services/</link>
+    </image>
+    
+    <item>
+      <title>Finansal sahtecilik tespit aracı</title>
+      <link>https://recon.com.tr/products_services/wallet_fraud/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/products_services/wallet_fraud/</guid>
+      <description>&lt;h2 id=&#34;dijital-cüzdan-için-sahtecilik-tespiti&#34;&gt;Dijital Cüzdan için Sahtecilik Tespiti&lt;/h2&gt;
+&lt;p&gt;Dijital cüzdanlardaki müşteri bakiyelerinin korunması amacıyla, MASAK kriterlerine uygun ve kural tabanlı bir ürün geliştirmekteyiz. Çeşitli lisanslı elektronik para kuruluşları ile yapılan görüşmeler ve Dijitalpark Teknokent&amp;rsquo;teki proje çalışmalarımız kapsamında ortaya çıkan yaklaşımlar ürüne yansıtılmaktadır.&lt;/p&gt;
+&lt;p&gt;Ürünümüz kendi tasarımımız ve yazılımımız olduğu için özelleştirmeye açıktır.&lt;/p&gt;
+&lt;h3 id=&#34;hemen-kullanılabilir-mi&#34;&gt;Hemen kullanılabilir mi?&lt;/h3&gt;
+&lt;p&gt;Dijital Cüzdan Sahtecililik Tespiti ürünümüzü erken aşamada test etmek ve nihai hale geldiğinde kullanmak için bizimle iletişime geçebilirsiniz.&lt;/p&gt;
+&lt;h3 id=&#34;yapay-zeka-desteği-var-mı&#34;&gt;Yapay zeka desteği var mı?&lt;/h3&gt;
+&lt;p&gt;Henüz makine öğrenmesi ve yapay zeka desteği bulunmamaktadır. Fakat önümüzdeki dönemde bu özelliklerin eklenmesi planlanıyor.&lt;/p&gt;
+&lt;h3 id=&#34;kullanımı-ve-özellikleri&#34;&gt;Kullanımı ve özellikleri&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Gerçekleşen işlemler sırasında sahtecilik tespit sistemine iletilecek mesajlar, anlık olarak değerlendirilerek yanıtlanmaktadır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Senaryo yönetimi, web arayüz üzerinden, özgün yöntemlerle sağlanmaktadır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tespit edilen işlemlere yönelik alınacak aksiyonlar tanımlanabilmektedir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;İşlemler ayrı bir havuza düşmekte ve vaka dosyası oluşturularak operatörler tarafından web üzerinden değerlendirilmektedir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;İşlem kontrol akışı ve senaryolar dinamik olarak güncellenmeye açıktır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fraud veritabanı tamamen şifreli olarak tutulmaktadır (encryption at rest). Regülasyonlara ve gizlilik gereksinimlerine uyum sağlanabilir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Web arayüzünde, yetki yönetimi, Active Directory (LDAP) ile giriş, girişçi-onaycı (maker-checker) kontrol yapısı sağlanabilmektedir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;uyumluluk&#34;&gt;Uyumluluk&lt;/h3&gt;
+&lt;p&gt;Konteyner platformlarına uygundur. TCMB, MASAK ve BDDK regülasyonlarıyla uyumlu olarak işletilebilir.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BTRANS raporlama otomasyonu</title>
+      <link>https://recon.com.tr/products_services/btrans_reporting/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/products_services/btrans_reporting/</guid>
+      <description>&lt;h2 id=&#34;btrans-raporlamasının-zorlukları&#34;&gt;BTRANS raporlamasının zorlukları&lt;/h2&gt;
+&lt;p&gt;BTRANS raporlarının günlük olarak iletilmesi gereksinimi, raporlama sürecinin otomatize edilmesi ihtiyacını doğurmuştur.
+Raporların manuel olarak veritabanından ya da rapor servislerinden çekilmesi, kurum sunucularına yüklenmesi ve kontrol edilmesi rutinleri oldukça net olarak tanımlanmıştır.&lt;/p&gt;
+&lt;p&gt;BTRANS otomasyon çözümü ile, önceki güne ait raporlar sabah hazırlanmış olacaktır.
+GİB&amp;rsquo;e ait veri kontrol standartlarına göre kontrolleri yapılarak, yanlış verilerin gönderilmesinin önüne geçilmeye çalışılır. Oluşan verilerde hata bulunuyorsa, dosyalar GİB&amp;rsquo;e gitmeden önce hatalar fark edilebilmekte ve kaynağında düzeltilmesi mümkün olmaktadır.&lt;/p&gt;
+&lt;p&gt;Web arayüzü üzerinden rapor ön izlemesi yapılabilmektedir.&lt;/p&gt;
+&lt;p&gt;Dosyalar Parquet formatında oluşturulur ve otomatik olarak SFTP sunucularına iletilir.&lt;/p&gt;
+&lt;p&gt;Servisler tamamen BTRANS&amp;rsquo;a veri gönderme yükümlülüğü olan kuruluşların kullanımına yöneliktir.&lt;/p&gt;
+&lt;h2 id=&#34;hemen-kullanılabilir-mi&#34;&gt;Hemen kullanılabilir mi?&lt;/h2&gt;
+&lt;p&gt;Evet, kullanılabilir. Firmanızın sunucularında kurulumlar yapılarak devreye alınmaktadır.&lt;/p&gt;
+&lt;h2 id=&#34;web-arayüzü-var-mı&#34;&gt;Web arayüzü var mı?&lt;/h2&gt;
+&lt;p&gt;Evet, web arayüzü vardır. Yetki yönetimi, girişçi-onaycı (maker-checker) kurgu, Active Directory(LDAP) ile kullanıcı girişi sağlanabilmektedir. Tüm kullanıcı işlemlerinin denetim izi tutulmaktadır.&lt;/p&gt;
+&lt;h2 id=&#34;iletişime-geçin&#34;&gt;İletişime geçin&lt;/h2&gt;
+&lt;p&gt;BTRANS raporlama süreçlerinizi RECON ile kolaylaştırmaya bugün başlayın. Daha fazla bilgi için iletişim seçeneklerinden biriyle &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;bize ulaşın&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dijital cüzdan entegrasyon çözümleri</title>
+      <link>https://recon.com.tr/products_services/wallet/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/products_services/wallet/</guid>
+      <description>&lt;p&gt;RECON olarak dijital cüzdanların hayatımızda giderek daha fazla yer alacağını biliyoruz. Bu amaçla dijital cüzdan ekosistemi API&amp;rsquo;lerine entegre olmak isteyen, servislerini modernize etmek isteyen kuruluşlara aşağıdaki hizmetleri sunuyoruz.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Banka entegrasyonları, hesap hareketleri ve transferler, kart hareketleri&lt;/li&gt;
+&lt;li&gt;TC Kimlik / KPS / NVİ entegrasyonları&lt;/li&gt;
+&lt;li&gt;KYC / KYB / AML / Adres doğrulama (yurt içi ve yurt dışı)&lt;/li&gt;
+&lt;li&gt;IBAN doğrulama&lt;/li&gt;
+&lt;li&gt;BKM BIN sorgulama&lt;/li&gt;
+&lt;li&gt;Ulusal ve uluslararası para transferi kuruluşlarına entegrasyon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ağırlıklı olarak finans sektöründeki lisanslı kuruluşlara hizmet vermekteyiz ve yenileriyle çalışmak istiyoruz.&lt;/p&gt;
+&lt;p&gt;Öte yandan, fintek ekosistemine entegre olmak isteyen, banka ve finteklerle kapsamlı ve özel bir yol haritası geliştirmiş olan, kendi bileşen tercihlerini detaylı olarak yapmak isteyen firmalara ihtiyaç duydukları hizmetleri sunabiliriz.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yasal Raporlamada Devrim: Hızlı, Basit, Güvenilir</title>
+      <link>https://recon.com.tr/products_services/legal_reporting/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/products_services/legal_reporting/</guid>
+      <description>&lt;h2 id=&#34;neden-recon&#34;&gt;Neden RECON?&lt;/h2&gt;
+&lt;p&gt;Finansal teknoloji sektöründe, yasal raporlama her geçen gün daha karmaşık hale geliyor. Biz, RECON, bu süreci sizin için kolaylaştırmak adına buradayız. Yasal raporlama alanında uzmanlaşmış bir ekip olarak, teknoloji ve bilgi birikimimizi kullanarak, sizlere hızlı, güvenilir ve tamamen uyumlu raporlama hizmetleri sunuyoruz.&lt;/p&gt;
+&lt;h2 id=&#34;özelliklerimiz&#34;&gt;Özelliklerimiz:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hızlı Raporlama: Zamanınız değerli. Bu yüzden, yasal raporlama süreçlerinizi hızlandırıyoruz, böylece işinize daha fazla zaman ayırabilirsiniz.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tam Uyum: En son düzenlemeler ve standartlar göz önünde bulundurularak hazırlanan raporlarımız, yasal gerekliliklere tam uyum sağlar.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Veri Güvenliği: Müşterilerimizin verilerinin güvenliğini sağlamak bizim için en önemli öncelik. En güncel güvenlik protokollerini kullanarak verilerinizi koruyoruz.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kullanıcı Dostu Arayüz: Raporlama sürecini, anlaşılır ve kolay kullanımlı bir arayüzle basitleştiriyoruz.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nasıl-çalışırız&#34;&gt;Nasıl çalışırız?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;İlk Adım - İhtiyaç Analizi: İşletmenizin özel ihtiyaçlarını anlamak için sizinle detaylı bir görüşme yaparız.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Raporlama Süreci: En son teknolojileri kullanarak, verilerinizi hızlı ve etkili bir şekilde işleyecek çözümü sağlarız.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Son Kontrol ve Teslimat: Raporlarınız, yasal standartlara uygun olarak hazırlanır ve sizin onayınıza sunulur. Dilerseniz otomatik olarak ilgili mercilere iletilir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;iletişime-geçin&#34;&gt;İletişime geçin&lt;/h2&gt;
+&lt;p&gt;Yasal raporlama süreçlerinizi RECON ile basitleştirmeye bugün başlayın. Daha fazla bilgi için iletişim seçeneklerinden biriyle &lt;a href=&#34;https://recon.com.tr/#contact&#34;&gt;bize ulaşın&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

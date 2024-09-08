@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fraud | Recon Technology Consulting</title>
+    <link>https://recon.com.tr/tag/fraud/</link>
+      <atom:link href="https://recon.com.tr/tag/fraud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fraud</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://recon.com.tr/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
+      <title>Fraud</title>
+      <link>https://recon.com.tr/tag/fraud/</link>
+    </image>
+    
+    <item>
+      <title>Finansal sahtecilik tespit aracı</title>
+      <link>https://recon.com.tr/products_services/wallet_fraud/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/products_services/wallet_fraud/</guid>
+      <description>&lt;h2 id=&#34;dijital-cüzdan-için-sahtecilik-tespiti&#34;&gt;Dijital Cüzdan için Sahtecilik Tespiti&lt;/h2&gt;
+&lt;p&gt;Dijital cüzdanlardaki müşteri bakiyelerinin korunması amacıyla, MASAK kriterlerine uygun ve kural tabanlı bir ürün geliştirmekteyiz. Çeşitli lisanslı elektronik para kuruluşları ile yapılan görüşmeler ve Dijitalpark Teknokent&amp;rsquo;teki proje çalışmalarımız kapsamında ortaya çıkan yaklaşımlar ürüne yansıtılmaktadır.&lt;/p&gt;
+&lt;p&gt;Ürünümüz kendi tasarımımız ve yazılımımız olduğu için özelleştirmeye açıktır.&lt;/p&gt;
+&lt;h3 id=&#34;hemen-kullanılabilir-mi&#34;&gt;Hemen kullanılabilir mi?&lt;/h3&gt;
+&lt;p&gt;Dijital Cüzdan Sahtecililik Tespiti ürünümüzü erken aşamada test etmek ve nihai hale geldiğinde kullanmak için bizimle iletişime geçebilirsiniz.&lt;/p&gt;
+&lt;h3 id=&#34;yapay-zeka-desteği-var-mı&#34;&gt;Yapay zeka desteği var mı?&lt;/h3&gt;
+&lt;p&gt;Henüz makine öğrenmesi ve yapay zeka desteği bulunmamaktadır. Fakat önümüzdeki dönemde bu özelliklerin eklenmesi planlanıyor.&lt;/p&gt;
+&lt;h3 id=&#34;kullanımı-ve-özellikleri&#34;&gt;Kullanımı ve özellikleri&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Gerçekleşen işlemler sırasında sahtecilik tespit sistemine iletilecek mesajlar, anlık olarak değerlendirilerek yanıtlanmaktadır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Senaryo yönetimi, web arayüz üzerinden, özgün yöntemlerle sağlanmaktadır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tespit edilen işlemlere yönelik alınacak aksiyonlar tanımlanabilmektedir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;İşlemler ayrı bir havuza düşmekte ve vaka dosyası oluşturularak operatörler tarafından web üzerinden değerlendirilmektedir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;İşlem kontrol akışı ve senaryolar dinamik olarak güncellenmeye açıktır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fraud veritabanı tamamen şifreli olarak tutulmaktadır (encryption at rest). Regülasyonlara ve gizlilik gereksinimlerine uyum sağlanabilir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Web arayüzünde, yetki yönetimi, Active Directory (LDAP) ile giriş, girişçi-onaycı (maker-checker) kontrol yapısı sağlanabilmektedir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;uyumluluk&#34;&gt;Uyumluluk&lt;/h3&gt;
+&lt;p&gt;Konteyner platformlarına uygundur. TCMB, MASAK ve BDDK regülasyonlarıyla uyumlu olarak işletilebilir.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

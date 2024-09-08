@@ -12,137 +12,138 @@ header:
   image: ""
 ---
 
-Gizlilik ilkelerimiz, [Gizlilik Politikası](#gizlilik-privacy) hem de [Çerez Politikası](#cerez-cookie) metinlerinden oluşmaktadır.
+Our privacy principles consist of both [Privacy Policy](#gizlilik-privacy) and [Cookie Policy](#cerez-cookie) texts.
 
-## GİZLİLİK VE KİŞİSEL VERİLERİ KORUMA POLİTİKASI {#gizlilik-privacy}
+## PRIVACY AND PERSONAL DATA PROTECTION POLICY {#gizlilik-privacy}
 
-recon.com.tr olarak kişisel verilerinizin güvenliği hususuna azami hassasiyet göstermekteyiz. Kişisel verileriniz 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”)’na uygun olarak işlenmekte ve muhafaza edilmektedir.
+At recon.com.tr, we prioritize the security of your personal data. Your personal data is processed and stored in compliance with Law No. 6698 on the Protection of Personal Data ("KVKK").
 
-### 1. Kişisel Verilerinizin Ne Şekilde İşlenebileceği
+### 1. How Your Personal Data May Be Processed
 
-6698 sayılı KVKK uyarınca, recon.com.tr ile paylaştığınız kişisel verileriniz, tamamen veya kısmen, otomatik olarak veyahut herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilerek, kaydedilerek, depolanarak, değiştirilerek, yeniden düzenlenerek, kısacası veriler üzerinde gerçekleştirilen her türlü işleme konu olarak tarafımızdan işlenebilecektir. KVKK kapsamında veriler üzerinde gerçekleştirilen her türlü işlem “kişisel verilerin işlenmesi” olarak kabul edilmektedir.
+In accordance with the KVKK No. 6698, your personal data shared with recon.com.tr can be processed by us in whole or in part, automatically or through non-automated methods, provided that it is part of any data recording system, by obtaining, recording, storing, modifying, reorganizing, in short, by subjecting it to any kind of processing on data. Any operation performed on data within the scope of KVKK is considered as “processing of personal data.”
 
-### 2. Kişisel Verilerinizin İşlenme Amaçları Ve Hukuki Sebepleri
+### 2. Purposes and Legal Grounds for Processing Your Personal Data
 
-Paylaştığınız kişisel veriler,
+The personal data you share will be processed for the following purposes:
 
-Müşterilerimize verdiğimiz hizmetlerin gereklerini, sözleşmenin ve teknolojinin gereklerine uygun şekilde yapabilmek, sunulan ürün ve hizmetlerimizi geliştirebilmek için;
-Kamu güvenliğine ilişkin hususlarda ve hukuki uyuşmazlıklarda, talep halinde ve mevzuat gereği savcılıklara, mahkemelere ve ilgili kamu görevlilerine bilgi verebilmek için;
-Üyelerimize geniş kapsamda çeşitli imkânlar sunabilmek veya bu imkânları sunabilecek kişi veya kurumlarla yasal çerçevede paylaşabilmek için;
-Reklam tercihlerini analiz etmek için,
-6698 sayılı KVKK ve ilgili ikincil düzenlemelere uygun olarak işlenecektir.
+- To fulfill the requirements of the services we provide to our customers, in compliance with the contractual and technological needs;
+- To provide information to public authorities, courts, and relevant officials, when requested and required by legislation, in matters related to public security and legal disputes;
+- To offer a wide range of opportunities to our members or share these opportunities with individuals or institutions capable of offering them within the legal framework;
+- To analyze advertising preferences.
 
-### 3. Kişisel Verilerinizin Aktarılabileceği Üçüncü Kişi Veya Kuruluşlar Hakkında Bilgilendirme
+Your personal data will be processed in accordance with KVKK No. 6698 and the relevant secondary regulations.
 
-Yukarıda belirtilen amaçlarla, recon.com.tr ile paylaştığınız kişisel verilerinizin aktarılabileceği kişi / kuruluşlar; ana hissedarlarımız, hissedarlarımız, reklam verenler, doğrudan veya dolaylı yurt içi / yurt dışı iştiraklerimiz; başta recon.com.tr altyapısını kullanan üye firmalar ve bunlarla sınırlı olmamak üzere sunulan hizmet ile ilgili kişi ve kuruluşlar olmak üzere, faaliyetlerimizi yürütmek üzere ve/veya Veri İşleyen sıfatı ile hizmet aldığımız, iş birliği yaptığımız, program ortağı kuruluşları, yurtiçi / yurtdışı kuruluşlar ve diğer 3. kişiler ve kuruluşlardır.
+### 3. Information Regarding the Transfer of Your Personal Data to Third Parties or Institutions
 
-Reklam amaçlı kullanılacak çerezlere ilişkin düzenlemelerimiz “ recon.com.tr [Çerez Politikası](#cerez-cookie)” olup, şu anda okuduğunuz “Gizlilik ve Kişisel Verilerin Korunması Politikası”nın bir parçasını oluşturmaktadır. Çerez Politikamız hakkında bilgi edinmek için lütfen [tıklayın](#cerez-cookie).
+For the purposes mentioned above, the personal data you share with recon.com.tr may be transferred to the following individuals/institutions: our main shareholders, shareholders, advertisers, direct or indirect domestic/foreign affiliates; companies using recon.com.tr's infrastructure, and other related persons and organizations. In addition, your personal data may be shared with third-party companies, organizations, or individuals we collaborate with, either domestically or abroad, for services we provide or receive under the title of Data Processor.
 
-### 4. Kişisel Verilerinizin Toplanma Şekli
+Regulations regarding cookies used for advertising purposes are outlined in the recon.com.tr [Cookie Policy](#cerez-cookie), which forms part of the “Privacy and Personal Data Protection Policy” that you are currently reading. For more information on our Cookie Policy, please click [here](#cerez-cookie).
 
-Kişisel verileriniz,
+### 4. How Your Personal Data is Collected
 
-recon.com.tr internet sitesi ve mobil uygulamalarındaki formlar ile ad, soyad, adres, telefon, iş veya özel e-posta adresi gibi bilgiler ile; kullanıcı adı ve şifresi kullanılarak giriş yapılan sayfalardaki tercihleri, gerçekleştirilen işlemlerin IP kayıtları, tarayıcı tarafından toplanan çerez verileri ile gezinme süre ve detaylarını içeren veriler, konum verileri şeklinde;
-recon.com.tr ile ticari ilişki kurmak, iş başvurusu yapmak, teklif vermek gibi amaçlarla, kartvizit, özgeçmiş (cv), teklif vermek ve sair yollarla kişisel verilerini paylaşan kişilerden alınan, fiziki veya sanal bir ortamda, yüz yüze ya da mesafeli, sözlü veya yazılı ya da elektronik ortamdan;
-Ayrıca farklı kanallardan dolaylı yoldan elde edilen, web sitesi, blog, yarışma, anket, oyun, kampanya ve benzeri amaçlı kullanılan (mikro) web sitelerinden ve sosyal medyadan elde edilen veriler, e-bülten okuma veya tıklama hareketleri, kamuya açık veri tabanlarının sunduğu veriler, sosyal medya platformları (Facebook, Twitter, Google, Instagram, Snapchat vs) gibi sosyal paylaşım sitelerinden paylaşıma açık profil ve verilerden; işlenebilmekte ve toplanabilmektedir.
+Your personal data can be collected through:
 
-### 5. KVKK Yürürlüğe Girmeden Önce Elde Edilen Kişisel Verileriniz
+- Forms on the recon.com.tr website and mobile applications, including details such as name, surname, address, phone number, business or private email address, and user preferences made during login to pages with a username and password. Data on the performed transactions' IP records, cookie data collected by the browser, browsing time and details, and location data;
+- Individuals sharing personal data with recon.com.tr for commercial purposes, job applications, or offers via business cards, CVs, or other means, either in physical or virtual environments, face-to-face, remotely, verbally, in writing, or electronically;
+- Additionally, data obtained indirectly from other channels such as websites, blogs, competitions, surveys, campaigns, or similar (micro) websites and social media platforms (Facebook, Twitter, Google, Instagram, Snapchat, etc.).
 
-recon.com.tr, KVKK’nun yürürlük tarihi olan 7 Nisan 2016 tarihinden önce yayım hayatına başlamadığı için bu tarihten önce depoladığımız bir kişisel veri bulunmamaktadır.
+### 5. Personal Data Obtained Before the Implementation of KVKK
 
-### 6. Kişisel Verilerinizin Aktarılması
+As recon.com.tr started its operations after the effective date of KVKK (April 7, 2016), no personal data was stored prior to this date.
 
-Türkiye’de işlenerek veya Türkiye dışında işlenip muhafaza edilmek üzere, yukarıda sayılan yöntemlerden herhangi birisi ile toplanmış kişisel verileriniz KVKK kapsamında kalmak kaydıyla ve sözleşme amaçlarına uygun olarak yurtdışında bulunan (Kişisel Veriler Kurulu tarafından akredite edilen ve kişisel verilerin korunması hususunda yeterli korumanın bulunduğu ülkelere) hizmet aracılarına da aktarılabilecektir.
+### 6. Transfer of Personal Data
 
-Kişisel Verileriniz;
+Your personal data collected through any of the methods mentioned above, processed in Turkey or transferred abroad for storage, may be transferred to service providers (accredited by the Personal Data Board and providing adequate protection for personal data), provided it remains within the scope of the KVKK and is in compliance with the purposes of the contract.
 
-- Ürün ve hizmetlerin sunulması ve tanıtılması için işbirliği yapılan ve/veya hizmet alınan iş ortaklarımız,
-- Acil yardım çağrısı halinde konumunuzu tespit edecek olan yetkili mercilere,
-- Düzenleyici ve denetleyici kurumlar ile mahkeme ve icra müdürlükleri gibi sair resmi kurumlara, kişisel verilerinizi talep etmeye yetkili olan diğer kamu kurum veya kuruluşlarına,
-- recon.com.tr ile ticari ilişki içinde bulunan ve telefon numaranıza sahip tüzel kişilere,
-  Gerekli görüldüğü durumlarda aktarılabilecektir.
+Your personal data may be transferred to:
 
-### 7. Kişisel Verilerin Saklanması Ve Korunması
+- Our business partners with whom we collaborate or receive services to promote and provide our products and services;
+- Authorized authorities responsible for determining your location in case of emergency calls;
+- Regulatory and supervisory bodies, courts, enforcement offices, and other official institutions;
+- Legal entities with whom recon.com.tr has a commercial relationship and who possess your phone number.
 
-recon.com.tr, kişisel verilerinizin barındığı sistemleri ve veri tabanlarını, KVKK’nun 12. Maddesi gereği kişisel verilerin hukuka aykırı olarak işlenmesini önlemekle, yetkisiz kişilerin erişimlerini engellemekle; muhafazalarını sağlamak amacıyla hash, şifreleme, işlem kaydı, erişim yönetimi gibi yazılımsal tedbirleri ve fiziksel güvenlik önlemleri almakla mükelleftir. Kişisel verilerin yasal olmayan yollarla başkaları tarafından elde edilmesinin öğrenilmesi halinde durum derhal, yasal düzenlemeye uygun ve yazılı olarak Kişisel Verileri Koruma Kurulu’na bildirilecektir.
+### 7. Retention and Protection of Personal Data
 
-### 8. Kişisel Verilerin Güncel Ve Doğru Tutulması
+Recon.com.tr is responsible for protecting the systems and databases where your personal data is stored, preventing unauthorized access, and ensuring data security as required by Article 12 of the KVKK. In the event that personal data is obtained by others through unlawful means, recon.com.tr will immediately inform the Personal Data Protection Board in writing and take appropriate legal actions.
 
-KVKK’nun 4. maddesi uyarınca recon.com.tr’nin kişisel verilerinizi doğru ve güncel olarak tutma yükümlülüğü bulunmaktadır. Bu kapsamda recon.com.tr’nin yürürlükteki mevzuattan doğan yükümlülüklerini yerine getirebilmesi için üyelerimizin doğru ve güncel verilerini paylaşması veya web sitesi / mobil uygulama üzerinden güncellemesi gerekmektedir.
+### 8. Keeping Personal Data Up to Date
 
-### 9. 6698 Sayılı Kvkk Uyarınca Kişisel Veri Sahibinin Hakları
+In accordance with Article 4 of the KVKK, recon.com.tr is obliged to keep your personal data accurate and up to date. Members are required to share or update their correct and current data through the website or mobile application to ensure recon.com.tr can fulfill its legal obligations.
 
-6698 sayılı KVKK 11.maddesi 07 Ekim 2016 tarihinde yürürlüğe girmiş olup ilgili madde gereğince, Kişisel Veri Sahibi’nin bu tarihten sonraki hakları aşağıdaki gibidir:
+### 9. Rights of Personal Data Owners Under KVKK
 
-Kişisel Veri Sahibi, recon.com.tr’ye (veri sorumlusu) başvurarak kendisiyle ilgili;
+As of October 7, 2016, in accordance with Article 11 of the KVKK, Personal Data Owners have the following rights:
 
-- Kişisel veri işlenip işlenmediğini öğrenme,
-- Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
-- Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
-- Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
-- Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme,
-- KVKK’nun 7. maddesinde öngörülen şartlar çerçevesinde kişisel verilerin silinmesini veya yok edilmesini isteme,
-- Kişisel verilerin düzeltilmesi, silinmesi, yok edilmesi halinde bu işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere de bildirilmesini isteme,
-- İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
-- Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme, haklarına sahiptir.
+- To learn whether their personal data has been processed,
+- To request information if their personal data has been processed,
+- To learn the purpose of processing their personal data and whether it is being used in line with the intended purpose,
+- To know third parties to whom personal data is transferred domestically or abroad,
+- To request the correction of incomplete or inaccurate personal data,
+- To request the deletion or destruction of personal data under the conditions set out in Article 7 of the KVKK,
+- To request notification of any correction, deletion, or destruction of personal data to third parties to whom it has been transferred,
+- To object to any unfavorable results arising from exclusively automated systems analyzing their data,
+- To request compensation for damages incurred due to the unlawful processing of personal data.
 
-### 10. İletişim ve Başvuru Yöntemi
+### 10. Contact and Application Methods
 
-recon.com.tr tarafından atanacak Veri Sorumlusu Temsilcisi, yasal altyapı sağlandığında Veri Sorumluları Sicilinde ve bu belgenin bulunduğu internet adresinde ilan edilecektir.
+The Data Controller Representative to be appointed by recon.com.tr will be announced in the Data Controllers Registry when the legal infrastructure is provided and published at this address.
 
-Kişisel Veri Sahipleri, sorularını, görüşlerini veya taleplerini info@recon.com.tr e-posta adresine yöneltebilirler.
+Personal Data Owners can direct their questions, opinions, or requests to the email address info@recon.com.tr.
 
-recon.com.tr iletilen taleplere, gerekçeli olmak ve 30 gün içinde cevap vermek kaydıyla olumlu/olumsuz yanıtını, yazılı veya dijital ortamdan verebilir. Taleplere ilişkin gerekli işlemlerin ücretsiz olması esastır. Ancak işlemlerin bir maliyet gerektirmesi halinde, recon.com.tr, ücret talebinde bulunma hakkını saklı tutar. Bu ücretler, Kişisel Verilerin Korunması Kurulu tarafından, Kişisel Verilerin korunması Kanunu’nun 13. maddesine göre belirlenen tarife üzerinden belirlenir.
+Recon.com.tr will respond to inquiries, either positively or negatively, within 30 days of receiving the request, providing a reasoned response in writing or electronically. The main principle is that the necessary actions for requests are free of charge. However, if the processing of requests incurs a cost, recon.com.tr reserves the right to charge a fee. These fees will be determined based on the tariff set by the Personal Data Protection Board under Article 13 of the Law on the Protection of Personal Data.
 
-Web sayfamızda, uygulamalarımızda ve diğer sair kanallarımızda kişisel verilerinizi paylaşarak Kişisel Veriler Politikamızı ve politikamızda yer alan işlenme, işlenme yöntemleri, verilerin aktarılması, satışı ve diğer ilgili hususlar hakkındaki şartları, Bir sosyal medya uygulaması olan recon.com.tr ile paylaşılan verilerin web sayfasında, uygulamalarda ve sosyal medya kanallarında kullanılmasını, bildirimlerde ve önerilerde bulunulmasını, üyelerin yararına olması şartıyla ticari anlamda üçüncü kişilerle paylaşılabileceğini ve yine bunun için kabulde bulunduğunuzu, yasal haklarınızı kullanmadan önce recon.com.tr’ye başvuruda bulunacağınızı KVKK’da büyük öneme haiz, belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rıza şeklinde tanımlanan açık bir rıza ile kabul ettiğinizi beyan etmiş olursunuz.
+By sharing your personal data on our website, applications, and other channels, you acknowledge that you have given explicit consent based on informed and voluntary consent defined as having a specific focus under KVKK.
 
-Bu sözleşme en son 12/01/2024 tarihinde güncellenmiştir.
+This policy was last updated on 01/12/2024.
 
-## ÇEREZ (COOKIE) POLİTİKASI {#cerez-cookie}
+## COOKIE POLICY {#cerez-cookie}
 
-Çerez Politikamız, [Gizlilik Politikamız]({{< ref "#gizlilik-privacy" >}} "İletişim")ın bir parçasını oluşturur.
+Our Cookie Policy is part of our [Privacy Policy](#gizlilik-privacy).
 
-### Çerez (Cookie) Nedir?
+### What Are Cookies?
 
-Günümüzde neredeyse her web sitesi çerez kullanmaktadır. Size daha iyi, hızlı ve güvenli bir deneyim sağlamak için, çoğu internet sitesi gibi biz de çerezler kullanıyoruz. Çerez, bir web sitesini ziyaret ettiğinizde cihazınıza (örneğin; bilgisayar veya cep telefonu) depolanan küçük bir metin dosyasıdır. Çerezler, bir web sitesini ilk ziyaretiniz sırasında tarayıcınız aracılığıyla cihazınıza depolanabilirler. Aynı siteyi aynı cihazla tekrar ziyaret ettiğinizde tarayıcınız cihazınızda site adına kayıtlı bir çerez olup olmadığını kontrol eder. Eğer kayıt var ise, kaydın içindeki veriyi ziyaret etmekte olduğunuz web sitesine iletir. Bu sayede web sitesi, sizin siteyi daha önce ziyaret ettiğinizi anlar ve size iletilecek içeriği de ona göre tayin eder.
+Cookies are small data files placed on your computer, mobile phone, tablet, or other devices through your browser by the website you visit. Cookies allow the website to recognize the user’s device, store certain information (e.g., user preferences), and enhance the user’s experience. Cookies generally do not contain personal data unless it is directly identifiable to the user.
 
-### Çerezler Neden Kullanılır?
+### Why Are Cookies Used?
 
-Bazı çerezler, daha önceki ziyaretlerinizde kullandığınız tercihlerin web sitesi tarafından hatırlanmasını sağlayarak, sonraki ziyaretlerinizin çok daha kullanıcı dostu ve kişiselleştirilmiş bir deneyim sunmasını sağlar.
+Recon.com.tr uses cookies for the following purposes:
 
-Ayrıca, web sitesinde bulunan üçüncü taraflara ait linkler, bu üçüncü taraflara ait gizlilik politikalarına tabi olmakla birlikte, gizlilik uygulamalarına ait sorumluluk recon.com.tr’ye ait olmamaktadır ve bu bağlamda ilgili link kapsamındaki site ziyaret edildiğinde siteye ait gizlilik politikasının okunması önerilmektedir.
+- To enhance the website’s performance and make its use more efficient,
+- To analyze visitor trends and behavior on the website, enabling us to improve the user experience,
+- To store user preferences and settings (e.g., remembering your language preference or login information for future visits),
+- To improve the security of the website and protect user data,
+- To display relevant advertisements or content to users based on their interests.
 
-### Çerez Türleri
+### Types of Cookies Used
 
-Ana kullanım amacı kullanıcılara kolaylık sağlamak olan çerezler, temel olarak 4 ana grupta toplanmaktadır:
+Recon.com.tr may use different types of cookies:
 
-- Oturum Çerezleri: Internet sayfaları arasında bilgi taşınması ve kullanıcı tarafından girilen bilgilerin sistemsel olarak hatırlanması gibi çeşitli özelliklerden faydalanmaya olanak sağlayan çerezlerdir ve internet sitesine ait fonksiyonların düzgün bir şekilde işleyebilmesi için gereklidir.
+- **Session Cookies**: These cookies are temporary and are deleted when the user closes the browser. They help keep the website running smoothly during the visit.
+- **Performance Cookies**: Help improve website performance by collecting data about user interaction.
+- **Functional Cookies**: Remember user preferences and settings.
+- **Advertising and Third-Party Cookies**: These cookies are placed by third-party services used by the website (e.g., social media platforms or advertisers). These cookies allow third parties to collect data about users and track their behavior across multiple websites.
 
-- Performans Çerezleri: Sayfaların ziyaret edilme frekansı, olası hata iletileri, kullanıcıların ilgili sayfada harcadıkları toplam zaman ile birlikte siteyi kullanım desenleri konularında bilgi toplayan çerezlerdir ve internet sitesinin performansını arttırma amacıyla kullanılmaktadır.
-- Fonksiyonel Çerezler: Kullanıcıya kolaylık sağlanması amacıyla önceden seçili olan seçeneklerin hatırlatılmasını sağlayan çerezlerdir ve internet sitesi kapsamında kullanıcılara gelişmiş Internet özellikleri sağlanmasını hedeflemektedir.
-- Reklam Ve Üçüncü Taraf Çerezleri: Üçüncü parti tedarikçilere ait çerezlerdir ve internet sitesindeki bazı fonksiyonların kullanımına ve reklam takibinin yapılmasına olanak sağlamaktadır.
+## Cookie Usage Purposes
 
-### Çerezlerin Kullanım Amaçları
+The purposes of using cookies by recon.com.tr are as follows:
 
-recon.com.tr tarafından kullanılmakta olan çerezlere ait kullanım amaçları aşağıdaki gibidir:
+For security purposes: recon.com.tr may use cookies to enable functionalities on this site or detect irregular behavior, ensuring the administration and security of its systems.
+For functionality purposes: recon.com.tr may use cookies to facilitate the use of its systems and provide user-specific features, such as remembering users' information and past choices.
+For performance purposes: recon.com.tr may use cookies to assess and analyze user behavior and interactions with sent messages to improve and measure the performance of its systems.
+For advertising purposes: recon.com.tr may use cookies to deliver advertisements and similar content based on users' interests, either through its own or third-party systems. These cookies may also measure the effectiveness of advertisements or analyze click behavior.
 
-- Güvenlik amaçlı kullanımlar: recon.com.tr, sistemlerinin idaresi ve güvenliğinin sağlanması amacıyla, bu sitedeki fonksiyonlardan yararlanmayı sağlayan veyahut düzensiz davranışları tespit eden çerezler kullanabilmektedir.
-- İşlevselliğe yönelik kullanımlar: recon.com.tr, sistemlerinin kullanımını kolaylaştırmak ve kullanıcı özelinde kullanım özellikleri sağlamak amacıyla, kullanıcıların bilgilerini ve geçmiş seçimlerini hatırlatan çerezler kullanabilmektedir.
-- Performansa yönelik kullanımlar: recon.com.tr, sistemlerinin performansının artırılması ve ölçülmesi amacıyla, gönderilen iletilerle olan etkileşimi ve kullanıcı davranışlarını değerlendiren ve analiz eden çerezler kullanabilmektedir.
-- Reklam amaçlı kullanımlar: recon.com.tr, kendine veya üçüncü taraflara ait sistemlerin üzerinden kullanıcıların ilgi alanları kapsamında reklam ve benzeri içeriklerin iletilmesi amacıyla, bu reklamların etkinliğini ölçen veya tıklanma durumunu analiz eden çerezler kullanabilmektedir.
+## Use of Cookies for Advertising Purposes
 
-### Reklam Amaçlı Çerez Kullanımımız
+Recon.com.tr uses the Google AdSense advertising system. This system includes the DoubleClick DART cookie used in ads displayed on publisher websites through Google’s AdSense for Content.
 
-recon.com.tr Google Adsense reklam sistemi kullanmaktadır. Bu sistem Google tarafından İçerik için AdSense reklamlarının görüntülendiği yayıncı web sitelerinde sunulan reklamlarda kullanalan DoubleClick DART çerezi içerir.
+As a third-party vendor, Google uses cookies to serve ads on our site. These cookies allow Google to serve ads to users based on their visits to our site and other sites on the Internet. You can opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-Üçüncü taraf satıcı olarak Google, sitemizde reklam yayınlamak için çerezlerden yararlanır. Bu çerezlerini kullanarak kullanıcılarınıza, sitenize ve İnternet’teki diğer sitelere yaptıkları ziyaretlere dayalı reklamlar sunar. Google reklam ve içerik ağı gizlilik politikasını ziyaret ederek DART çerezinin kullanılmasını engelleyebilirsiniz.
+Google may use third-party advertising companies to serve ads when you visit our website. These companies may use information (excluding your name, address, email address, or phone number) from your visits to this and other websites to provide advertisements about products and services of interest to you. To learn more about this practice, your options to prevent the use of such information by these companies, and to find more details, you can consult the NAI Self-Regulatory principles for publishers (PDF), Appendix A.
 
-Google Web sitemizi ziyaret ettiği zamanlarda reklam hizmeti vermek için üçüncü taraf reklam şirketlerini kullanmaktadır. Söz konusu şirketler, bu sitelere ve diğer web sitelerine yaptığınız ziyaretlerden elde ettikleri (adınız, adresiniz, e-posta adresiniz veya telefon numaranız dışındaki) bilgileri ilginizi çekecek ürün ve hizmetlerin reklamını size göstermek için kullanabilir. Bu uygulama hakkında bilgi edinmek için ve söz konusu bilgilerin bu şirketler tarafından kullanılmasını engellemek üzere seçeneklerinizin neler olduğunu öğrenmek ve daha fazla bilgi için NAI Self-Regulatory principles for publishers (PDF) belgesinin A Eki’nden yararlanabilirsiniz.
+## Controlling and Deleting Cookies
 
-### Çerezleri Kontrol Etme ve Silme
+You can change your preferences regarding the use of cookies, or block or delete them by changing your browser settings. Many browsers offer options to control cookies, such as accepting or rejecting them, accepting only certain types of cookies, or notifying you when a website wants to store cookies on your device. It is also possible to delete cookies that have been previously saved in your browser. Cookie control or deletion processes may vary depending on the browser you are using. You can find instructions on how to allow, block, or delete cookies for some popular browsers via the links below.
 
-Çerezlerin kullanımına ilişkin tercihlerinizi değiştirmek ya da çerezleri engellemek veya silmek için tarayıcınızın ayarlarını değiştirmeniz yeterlidir. Birçok tarayıcı çerezleri kontrol edebilmeniz için size çerezleri kabul etme veya reddetme, yalnızca belirli türdeki çerezleri kabul etme ya da bir web sitesi cihazınıza çerez depolamayı talep ettiğinde tarayıcı tarafından uyarılma seçeneği sunar. Aynı zamanda daha önce tarayıcınıza kaydedilmiş çerezlerin silinmesi de mümkündür. Çerezleri kontrol edilmesine veya silinmesine ilişkin işlemler kullandığınız tarayıcıya göre değişebilmektedir. Bazı popüler tarayıcıların çerezlere izin verme ya da çerezleri engelleme veya silme talimatlarına aşağıdaki linklerden ulaşılması mümkündür.
+The method to change cookie usage preferences depends on your browser type and can be learned from the relevant service provider at any time.
 
-Çerez kullanım seçiminin değiştirilmesine ait yöntem, tarayıcı tipine bağlı olarak değişmekte olup, ilgili hizmet sağlayıcıdan dilendiği zaman öğrenilebilmektedir.
-
-Bu politikanın en son güncellendiği tarih: 12/01/2024
+This policy was last updated on 12/01/2024.
