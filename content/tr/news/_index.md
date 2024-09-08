@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Haberler
 cms_exclude: true
 
 # View.
