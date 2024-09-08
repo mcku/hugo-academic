@@ -11,8 +11,8 @@
 {{ $logo := "" }}
 {{ $logoMobile := "" }}
 {{ if $has_logo }}
-  {{ $logo = (partial "blox-core/functions/get_logo" (dict "constraint" "max_height" "size" 36)) }}
-  {{ $logoMobile = (partial "functions/get_logo_mobile" (dict "constraint" "max_height" "size" 40)) }}
+  {{ $logo = (partial "functions/get_logo" (dict  "constraint" "max_height" "size" 36 )) }}
+  {{ $logoMobile = (partial "functions/get_logo_mobile" (dict  "constraint" "max_height" "size" 40 )) }}
 {{ end }}
 
 <header>
@@ -44,12 +44,9 @@
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
         <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
         {{- if $has_logo -}}
-         <img src="{{ $logoMobile.RelPermalink }}" alt="{{ site.Title }}"
+          <img src="{{ $logoMobile.RelPermalink }}" alt="{{ site.Title }}"
           width="250px"
           >
-          {{/* <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
-          {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-          {{with site.Params.header.image.height}}height="{{.}}"{{end}}> */}}
         {{- else -}}
           {{- site.Title -}}
         {{- end -}}

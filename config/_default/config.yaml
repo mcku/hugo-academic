@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Recon Teknoloji # Website name
+title: Recon Technology Consulting # Website name
 baseURL: "https://recon.com.tr/" # Website URL
 
 ############################
@@ -19,13 +19,13 @@ removePathAccents: true
 ## MODULES
 ############################
 
-module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-  replacements: "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify -> wowchemy-hugo-themes/modules/wowchemy-plugin-netlify, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal -> wowchemy-hugo-themes/modules/wowchemy-plugin-reveal, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 -> wowchemy-hugo-themes/modules/wowchemy, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo -> wowchemy-hugo-themes/modules/wowchemy-seo, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core -> wowchemy-hugo-themes/modules/wowchemy-core"
- # replacements: "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify -> wowchemy-hugo-themes/modules/wowchemy-plugin-netlify, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms -> wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal -> wowchemy-hugo-themes/modules/wowchemy-plugin-reveal, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 -> wowchemy-hugo-themes/modules/wowchemy, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo -> wowchemy-hugo-themes/modules/wowchemy-seo, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core -> wowchemy-hugo-themes/modules/wowchemy-core"
+# module:
+#   imports:
+#     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+#     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+#     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+#   replacements: "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify -> wowchemy-hugo-themes/modules/wowchemy-plugin-netlify, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal -> wowchemy-hugo-themes/modules/wowchemy-plugin-reveal, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 -> wowchemy-hugo-themes/modules/wowchemy, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo -> wowchemy-hugo-themes/modules/wowchemy-seo, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core -> wowchemy-hugo-themes/modules/wowchemy-core"
+# replacements: "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify -> wowchemy-hugo-themes/modules/wowchemy-plugin-netlify, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms -> wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal -> wowchemy-hugo-themes/modules/wowchemy-plugin-reveal, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 -> wowchemy-hugo-themes/modules/wowchemy, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo -> wowchemy-hugo-themes/modules/wowchemy-seo, github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core -> wowchemy-hugo-themes/modules/wowchemy-core"
 
 ############################
 ## ADVANCED

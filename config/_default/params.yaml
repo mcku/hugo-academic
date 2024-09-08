@@ -47,12 +47,15 @@ header:
   mobileImage:
     height: 20px
     width: 350px
+  image:
+    width: 250px
 
 # Site footer
 
 footer:
   copyright:
     notice: "© {year} Recon Teknoloji. This work is licensed under {license}"
+    show_translations: true
     license:
       enable: true
       allow_derivatives: false
