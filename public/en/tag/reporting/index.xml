@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reporting | Recon Technology Consulting</title>
+    <link>https://recon.com.tr/en/tag/reporting/</link>
+      <atom:link href="https://recon.com.tr/en/tag/reporting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reporting</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://recon.com.tr/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
+      <title>Reporting</title>
+      <link>https://recon.com.tr/en/tag/reporting/</link>
+    </image>
+    
+    <item>
+      <title>BTRANS reporting automation</title>
+      <link>https://recon.com.tr/en/products_services/btrans_reporting/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/en/products_services/btrans_reporting/</guid>
+      <description>&lt;h2 id=&#34;challenges-of-btrans-reporting&#34;&gt;Challenges of BTRANS reporting&lt;/h2&gt;
+&lt;p&gt;The requirement to submit BTRANS reports daily has created a need for automating the reporting process. The routine for manually retrieving reports from the database or report services, uploading them to institutional servers, and verifying them is clearly defined.&lt;/p&gt;
+&lt;p&gt;With the BTRANS automation solution, the reports for the previous day will be prepared by the morning. According to the data control standards of the Turkish Revenue Administration (GİB), checks are performed to prevent the submission of incorrect data. If errors are found in the generated data, they can be identified before the files are sent to GİB, allowing for corrections at the source.&lt;/p&gt;
+&lt;p&gt;Reports can be previewed via a web interface.&lt;/p&gt;
+&lt;p&gt;Files are generated in Parquet format and automatically sent to SFTP servers.&lt;/p&gt;
+&lt;p&gt;This service is designed exclusively for organizations obligated to send data to BTRANS.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-ready-to-use&#34;&gt;Is it ready to use?&lt;/h2&gt;
+&lt;p&gt;Yes, it is ready to use. Installations are carried out on your company’s servers for deployment.&lt;/p&gt;
+&lt;h2 id=&#34;is-there-a-web-interface&#34;&gt;Is there a web interface?&lt;/h2&gt;
+&lt;p&gt;Yes, there is a web interface. It features authority management, maker-checker workflow, and user login with Active Directory (LDAP). All user actions are logged for auditing purposes.&lt;/p&gt;
+&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch&lt;/h2&gt;
+&lt;p&gt;Simplify your BTRANS reporting processes with RECON today. For more information, reach out to us using one of the &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;contact options&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast, simple, reliable regulatory reporting</title>
+      <link>https://recon.com.tr/en/products_services/legal_reporting/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/en/products_services/legal_reporting/</guid>
+      <description>&lt;h2 id=&#34;why-recon&#34;&gt;Why RECON?&lt;/h2&gt;
+&lt;p&gt;In the financial technology sector, regulatory reporting is becoming more complex every day. We, at RECON, are here to simplify this process for you. As a team specialized in regulatory reporting, we use our technology and expertise to offer you fast, reliable, and fully compliant reporting services.&lt;/p&gt;
+&lt;h2 id=&#34;our-features&#34;&gt;Our features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fast Reporting: Your time is valuable. That&amp;rsquo;s why we accelerate your regulatory reporting processes, allowing you to dedicate more time to your business.&lt;/li&gt;
+&lt;li&gt;Full Compliance: Our reports, prepared with the latest regulations and standards in mind, ensure full compliance with legal requirements.&lt;/li&gt;
+&lt;li&gt;Data Security: Ensuring the security of our clients&amp;rsquo; data is our top priority. We protect your data using the most up-to-date security protocols.&lt;/li&gt;
+&lt;li&gt;User-Friendly Interface: We simplify the reporting process with an intuitive and easy-to-use interface.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-we-work&#34;&gt;How we work&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;First Step - Needs Analysis: We conduct a detailed interview with you to understand your business&amp;rsquo;s specific needs.&lt;/li&gt;
+&lt;li&gt;Reporting Process: Using the latest technologies, we provide a solution that will process your data quickly and effectively.&lt;/li&gt;
+&lt;li&gt;Final Check and Delivery: Your reports are prepared in accordance with legal standards and submitted for your approval. If desired, they can be automatically sent to relevant authorities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch&lt;/h2&gt;
+&lt;p&gt;Start simplifying your regulatory reporting processes with RECON today. For more information, &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;contact us&lt;/a&gt; through one of our communication options.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

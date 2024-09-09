@@ -129,7 +129,7 @@ GİB&amp;rsquo;e ait veri kontrol standartlarına göre kontrolleri yapılarak, 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;iletişime-geçin&#34;&gt;İletişime geçin&lt;/h2&gt;
-&lt;p&gt;Yasal raporlama süreçlerinizi RECON ile basitleştirmeye bugün başlayın. Daha fazla bilgi için iletişim seçeneklerinden biriyle &lt;a href=&#34;https://recon.com.tr/#contact&#34;&gt;bize ulaşın&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Yasal raporlama süreçlerinizi RECON ile basitleştirmeye bugün başlayın. Daha fazla bilgi için iletişim seçeneklerinden biriyle &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;bize ulaşın&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -254,7 +254,7 @@ Gerekli görüldüğü durumlarda aktarılabilecektir.&lt;/li&gt;
 &lt;p&gt;Ürüne ilişkin kontroller ve yazılım test aşamaları oldukça kapsamlı olarak yapıldığından, ilk andan itibaren sorunsuz devam etmekteyiz.&lt;/p&gt;
 &lt;p&gt;Ekibimizin banka ve fintek deneyimiyle, yüksek hacim ve finansal verilerin doğru işlenmesi, yük altında çalışabilen servislerin doğru bir şekilde tasarlanması ve olası sorunlardan doğru mühendislik yaklaşımlarıyla baştan kaçınılmış olması önemli bir avantajdır.&lt;/p&gt;
 &lt;h2 id=&#34;sonuç&#34;&gt;Sonuç&lt;/h2&gt;
-&lt;p&gt;Finansal ekosisteme katkıda bulunurken ve ödeme hizmetleri ve elektronik para kurluşlarının asıl işlerine odaklanmalarına yardımcı olmaya çalışıyoruz. BTRANS raporlama modülünü en uygun maliyetlerle ve güvenle kullanabilirsiniz. Daha fazla bilgi için &lt;a href=&#34;https://recon.com.tr/#contact&#34; title=&#34;İletişim&#34;&gt;iletişime&lt;/a&gt; geçin.&lt;/p&gt;
+&lt;p&gt;Finansal ekosisteme katkıda bulunurken ve ödeme hizmetleri ve elektronik para kurluşlarının asıl işlerine odaklanmalarına yardımcı olmaya çalışıyoruz. BTRANS raporlama modülünü en uygun maliyetlerle ve güvenle kullanabilirsiniz. Daha fazla bilgi için &lt;a href=&#34;https://recon.com.tr/contact/&#34; title=&#34;İletişim&#34;&gt;iletişime&lt;/a&gt; geçin.&lt;/p&gt;
 </description>
     </item>
     
@@ -271,6 +271,76 @@ Gerekli görüldüğü durumlarda aktarılabilecektir.&lt;/li&gt;
       <link>https://recon.com.tr/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://recon.com.tr/contact/</guid>
+      <description>  &lt;!-- - block: contact
+    content:
+      title: Contact
+      text: |-
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+      email: test@example.org
+      phone: 888 888 88 88
+      address:
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: &#39;94305&#39;
+        country: United States
+        country_code: US
+      coordinates:
+        latitude: &#39;37.4275&#39;
+        longitude: &#39;-122.1697&#39;
+      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      office_hours:
+        - &#39;Monday 10:00 to 13:00&#39;
+        - &#39;Wednesday 09:00 to 10:00&#39;
+      appointment_url: &#39;https://calendly.com&#39;
+      #contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: &#39;https://discourse.gohugo.io&#39;
+    
+      # Automatically link email and phone or display as text?
+      autolink: true
+    
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: &#39;1&#39;
+
+  - block: markdown
+    content:
+      title:
+      subtitle: &#39;&#39;
+      text:
+    design:
+      columns: &#39;1&#39;
+      background:
+        image: 
+          filename: contact.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: [&#39;20px&#39;, &#39;0&#39;, &#39;20px&#39;, &#39;0&#39;]
+      css_class: fullscreen
+--- --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>İletişim</title>
+      <link>https://recon.com.tr/contactcaptcha/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/contactcaptcha/</guid>
       <description>  &lt;!-- - block: contact
     content:
       title: Contact

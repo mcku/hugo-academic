@@ -2,6 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://recon.com.tr/en/products_services/wallet_fraud/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/products_services/wallet_fraud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/products_services/wallet_fraud/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/tag/fraud/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/tag/fraud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/tag/fraud/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/tags/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/tags/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/products_services/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/products_services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/products_services/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/products_services/btrans_reporting/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/products_services/btrans_reporting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/products_services/btrans_reporting/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/tag/reporting/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://recon.com.tr/en/products_services/wallet/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/products_services/wallet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/products_services/wallet/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/tag/wallet/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://recon.com.tr/en/products_services/legal_reporting/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/products_services/legal_reporting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/products_services/legal_reporting/"
+                />
+  </url><url>
     <loc>https://recon.com.tr/en/privacy/</loc>
     <lastmod>2024-01-12T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -28,6 +134,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://recon.com.tr/en/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/contact/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/contact/"
                 />
   </url><url>
     <loc>https://recon.com.tr/en/authors/</loc>
@@ -69,6 +189,19 @@
                 href="https://recon.com.tr/en/authors/admin/"
                 />
   </url><url>
+    <loc>https://recon.com.tr/en/products_services_select/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/products_services_select/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/products_services_select/"
+                />
+  </url><url>
     <loc>https://recon.com.tr/en/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -80,19 +213,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://recon.com.tr/en/publication_types/"
-                />
-  </url><url>
-    <loc>https://recon.com.tr/en/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://recon.com.tr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://recon.com.tr/en/tags/"
                 />
   </url>
 </urlset>

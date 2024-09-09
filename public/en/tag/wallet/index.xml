@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wallet | Recon Technology Consulting</title>
+    <link>https://recon.com.tr/en/tag/wallet/</link>
+      <atom:link href="https://recon.com.tr/en/tag/wallet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wallet</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://recon.com.tr/media/logo_hua0d4bcd88493a45bb45cbc94ac69c97d_10056_300x300_fit_lanczos_3.png</url>
+      <title>Wallet</title>
+      <link>https://recon.com.tr/en/tag/wallet/</link>
+    </image>
+    
+    <item>
+      <title>Digital wallet integration solutions</title>
+      <link>https://recon.com.tr/en/products_services/wallet/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/en/products_services/wallet/</guid>
+      <description>&lt;p&gt;At RECON, we know that digital wallets will increasingly become a part of our lives. To this end, we offer the following services to organizations that want to integrate with digital wallet ecosystem APIs and modernize their services:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bank integrations, account transactions and transfers, card transactions&lt;/li&gt;
+&lt;li&gt;Turkish ID / KPS / NVI integrations&lt;/li&gt;
+&lt;li&gt;KYC / KYB / AML / Address verification (domestic and international)&lt;/li&gt;
+&lt;li&gt;IBAN validation&lt;/li&gt;
+&lt;li&gt;BKM BIN query&lt;/li&gt;
+&lt;li&gt;Integration with national and international money transfer organizations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We primarily serve licensed institutions in the finance sector and are looking to work with new ones.&lt;/p&gt;
+&lt;p&gt;On the other hand, we can provide necessary services to companies that want to integrate into the fintech ecosystem, have developed a comprehensive and customized roadmap with banks and fintechs, and wish to make their own detailed component choices.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
