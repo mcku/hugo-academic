@@ -14,24 +14,24 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Kurucu
+role: Founder
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Recon Teknoloji Danışmanlık ve Ticaret Ltd. Şti.
+  - name: Recon Technology Consulting and Trade Limited (Recon Teknoloji Danışmanlık ve Ticaret Ltd. Şti.)
     url: https://www.recon.com.tr
-  - name: Finans Teknolojileri
+  - name: Financial Technologies
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 # Interests to show in About widget
 interests:
-  - Finansal teknolojiler
-  - Sahtecilik tespiti
-  - Açık kaynak projeler
-  - Dağıtık mimariler ve Go
-  - Bilgi güvenliği
+  - Financial technologies
+  - Fraud detection
+  - Open source projects
+  - Distributed architecture and Go
+  - Information security
   - AWS
 
 # Education to show in About widget

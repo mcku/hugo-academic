@@ -44,4 +44,4 @@ Güvenlik ve uyumluluk bizim için en önemli önceliktir. En son düzenlemelere
 
 ## Sizi arayalım
 
-[Bize ulaşın](/#contact), sizi arayalım, finansal operasyonlarınızı dönüştürecek yenilikçi çözümlerimiz hakkında daha fazla bilgi alın. RECON ile finansal geleceğinizi bugünden şekillendirin!
+[Bize ulaşın](/contact), sizi arayalım, finansal operasyonlarınızı dönüştürecek yenilikçi çözümlerimiz hakkında daha fazla bilgi alın. RECON ile finansal geleceğinizi bugünden şekillendirin!

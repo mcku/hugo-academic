@@ -63,4 +63,4 @@ Ekibimizin banka ve fintek deneyimiyle, yüksek hacim ve finansal verilerin doğ
 
 ## Sonuç
 
-Finansal ekosisteme katkıda bulunurken ve ödeme hizmetleri ve elektronik para kurluşlarının asıl işlerine odaklanmalarına yardımcı olmaya çalışıyoruz. BTRANS raporlama modülünü en uygun maliyetlerle ve güvenle kullanabilirsiniz. Daha fazla bilgi için [iletişime]({{< ref "/#contact" >}} "İletişim") geçin.
+Finansal ekosisteme katkıda bulunurken ve ödeme hizmetleri ve elektronik para kurluşlarının asıl işlerine odaklanmalarına yardımcı olmaya çalışıyoruz. BTRANS raporlama modülünü en uygun maliyetlerle ve güvenle kullanabilirsiniz. Daha fazla bilgi için [iletişime]({{< ref "/contact" >}} "İletişim") geçin.

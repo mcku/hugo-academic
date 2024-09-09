@@ -51,4 +51,4 @@ Finansal teknoloji sektöründe, yasal raporlama her geçen gün daha karmaşık
 
 ## İletişime geçin
 
-Yasal raporlama süreçlerinizi RECON ile basitleştirmeye bugün başlayın. Daha fazla bilgi için iletişim seçeneklerinden biriyle [bize ulaşın](/#contact).
+Yasal raporlama süreçlerinizi RECON ile basitleştirmeye bugün başlayın. Daha fazla bilgi için iletişim seçeneklerinden biriyle [bize ulaşın](/contact).

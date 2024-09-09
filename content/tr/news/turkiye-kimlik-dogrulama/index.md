@@ -136,4 +136,4 @@ Unutmayın, bu dönüşümü yapmak kullanıcı parolalarının özetlerinin ver
 
 ## Sonuç
 
-Finansal ekosisteme katkıda bulunurken ve ödeme hizmetleri ve elektronik para kurluşlarının asıl işlerine odaklanmalarına yardımcı olmaya çalışıyoruz. SRP kimlik doğrulama modülünü en uygun maliyetlerle ve güvenle kullanabilirsiniz. Daha fazla bilgi için [iletişime]({{< ref "/#contact" >}} "İletişim") geçin.
+Finansal ekosisteme katkıda bulunurken ve ödeme hizmetleri ve elektronik para kurluşlarının asıl işlerine odaklanmalarına yardımcı olmaya çalışıyoruz. SRP kimlik doğrulama modülünü en uygun maliyetlerle ve güvenle kullanabilirsiniz. Daha fazla bilgi için [iletişime]({{< ref "/contact" >}} "İletişim") geçin.
