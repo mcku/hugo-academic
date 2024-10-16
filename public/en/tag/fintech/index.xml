@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fintech | Recon Technology Consulting</title>
-    <link>http://localhost:1313/en/tag/fintech/</link>
-      <atom:link href="http://localhost:1313/en/tag/fintech/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://recon.com.tr/en/tag/fintech/</link>
+      <atom:link href="https://recon.com.tr/en/tag/fintech/index.xml" rel="self" type="application/rss+xml" />
     <description>Fintech</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu15455760525912019561.png</url>
+      <url>https://recon.com.tr/media/logo_hu15455760525912019561.png</url>
       <title>Fintech</title>
-      <link>http://localhost:1313/en/tag/fintech/</link>
+      <link>https://recon.com.tr/en/tag/fintech/</link>
     </image>
     
     <item>
       <title>Yasal raporlama işlemlerini kolaylaştırıyoruz</title>
-      <link>http://localhost:1313/en/news/btrans-raporlama/</link>
+      <link>https://recon.com.tr/en/news/btrans-raporlama/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/news/btrans-raporlama/</guid>
+      <guid>https://recon.com.tr/en/news/btrans-raporlama/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In Türkiye, TCMB-licensed payment services and electronic money institutions are required to regularly produce various reports. Given the operational workload of payment services and the regulatory intensity of the legislation, the already limited profitability imposes a heavy additional burden and responsibilities on companies in the face of high costs and difficulties to fulfill new reporting requirements.&lt;/p&gt;
 &lt;h2 id=&#34;reporting&#34;&gt;Reporting&lt;/h2&gt;
@@ -29,7 +29,7 @@
 &lt;p&gt;Our product&amp;rsquo;s controls and software testing phases are carried out comprehensively, allowing for smooth operation from the very beginning.&lt;/p&gt;
 &lt;p&gt;With our team&amp;rsquo;s banking and fintech experience, accurate processing of high volumes of financial data, design of services capable of operating under load, and preventative engineering approaches toward potential issues provide a significant advantage.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;We aim to contribute to the financial ecosystem and help payment services and electronic money institutions focus on their core business. You can use the BTRANS reporting module with confidence and at the best possible cost. For more information, please &lt;a href=&#34;http://localhost:1313/en/contact/&#34; title=&#34;Contact&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We aim to contribute to the financial ecosystem and help payment services and electronic money institutions focus on their core business. You can use the BTRANS reporting module with confidence and at the best possible cost. For more information, please &lt;a href=&#34;https://recon.com.tr/en/contact/&#34; title=&#34;Contact&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ürün ve Hizmetler | Recon Technology Consulting</title>
-    <link>http://localhost:1313/products_services/</link>
-      <atom:link href="http://localhost:1313/products_services/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://recon.com.tr/products_services/</link>
+      <atom:link href="https://recon.com.tr/products_services/index.xml" rel="self" type="application/rss+xml" />
     <description>Ürün ve Hizmetler</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu15455760525912019561.png</url>
+      <url>https://recon.com.tr/media/logo_hu15455760525912019561.png</url>
       <title>Ürün ve Hizmetler</title>
-      <link>http://localhost:1313/products_services/</link>
+      <link>https://recon.com.tr/products_services/</link>
     </image>
     
     <item>
       <title>Finansal sahtecilik tespit aracı</title>
-      <link>http://localhost:1313/products_services/wallet_fraud/</link>
+      <link>https://recon.com.tr/products_services/wallet_fraud/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products_services/wallet_fraud/</guid>
+      <guid>https://recon.com.tr/products_services/wallet_fraud/</guid>
       <description>&lt;h2 id=&#34;dijital-cüzdan-için-sahtecilik-tespiti&#34;&gt;Dijital Cüzdan için Sahtecilik Tespiti&lt;/h2&gt;
 &lt;p&gt;Dijital cüzdanlardaki müşteri bakiyelerinin korunması amacıyla, MASAK kriterlerine uygun ve kural tabanlı bir ürün geliştirmekteyiz. Çeşitli lisanslı elektronik para kuruluşları ile yapılan görüşmeler ve Dijitalpark Teknokent&amp;rsquo;teki proje çalışmalarımız kapsamında ortaya çıkan yaklaşımlar ürüne yansıtılmaktadır.&lt;/p&gt;
 &lt;p&gt;Ürünümüz kendi tasarımımız ve yazılımımız olduğu için özelleştirmeye açıktır.&lt;/p&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>BTRANS raporlama otomasyonu</title>
-      <link>http://localhost:1313/products_services/btrans_reporting/</link>
+      <link>https://recon.com.tr/products_services/btrans_reporting/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products_services/btrans_reporting/</guid>
+      <guid>https://recon.com.tr/products_services/btrans_reporting/</guid>
       <description>&lt;h2 id=&#34;btrans-raporlamasının-zorlukları&#34;&gt;BTRANS raporlamasının zorlukları&lt;/h2&gt;
 &lt;p&gt;BTRANS raporlarının günlük olarak iletilmesi gereksinimi, raporlama sürecinin otomatize edilmesi ihtiyacını doğurmuştur.
 Raporların manuel olarak veritabanından ya da rapor servislerinden çekilmesi, kurum sunucularına yüklenmesi ve kontrol edilmesi rutinleri oldukça net olarak tanımlanmıştır.&lt;/p&gt;
@@ -71,15 +71,15 @@ GİB&amp;rsquo;e ait veri kontrol standartlarına göre kontrolleri yapılarak, 
 &lt;h2 id=&#34;web-arayüzü-var-mı&#34;&gt;Web arayüzü var mı?&lt;/h2&gt;
 &lt;p&gt;Evet, web arayüzü vardır. Yetki yönetimi, girişçi-onaycı (maker-checker) kurgu, Active Directory(LDAP) ile kullanıcı girişi sağlanabilmektedir. Tüm kullanıcı işlemlerinin denetim izi tutulmaktadır.&lt;/p&gt;
 &lt;h2 id=&#34;iletişime-geçin&#34;&gt;İletişime geçin&lt;/h2&gt;
-&lt;p&gt;BTRANS raporlama süreçlerinizi RECON ile kolaylaştırmaya bugün başlayın. Daha fazla bilgi için iletişim seçeneklerinden biriyle &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;bize ulaşın&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;BTRANS raporlama süreçlerinizi RECON ile kolaylaştırmaya bugün başlayın. Daha fazla bilgi için iletişim seçeneklerinden biriyle &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;bize ulaşın&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dijital cüzdan entegrasyon çözümleri</title>
-      <link>http://localhost:1313/products_services/wallet/</link>
+      <link>https://recon.com.tr/products_services/wallet/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products_services/wallet/</guid>
+      <guid>https://recon.com.tr/products_services/wallet/</guid>
       <description>&lt;p&gt;RECON olarak dijital cüzdanların hayatımızda giderek daha fazla yer alacağını biliyoruz. Bu amaçla dijital cüzdan ekosistemi API&amp;rsquo;lerine entegre olmak isteyen, servislerini modernize etmek isteyen kuruluşlara aşağıdaki hizmetleri sunuyoruz.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Banka entegrasyonları, hesap hareketleri ve transferler, kart hareketleri&lt;/li&gt;
@@ -96,9 +96,9 @@ GİB&amp;rsquo;e ait veri kontrol standartlarına göre kontrolleri yapılarak, 
     
     <item>
       <title>Yasal Raporlamada Devrim: Hızlı, Basit, Güvenilir</title>
-      <link>http://localhost:1313/products_services/legal_reporting/</link>
+      <link>https://recon.com.tr/products_services/legal_reporting/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products_services/legal_reporting/</guid>
+      <guid>https://recon.com.tr/products_services/legal_reporting/</guid>
       <description>&lt;h2 id=&#34;neden-recon&#34;&gt;Neden RECON?&lt;/h2&gt;
 &lt;p&gt;Finansal teknoloji sektöründe, yasal raporlama her geçen gün daha karmaşık hale geliyor. Biz, RECON, bu süreci sizin için kolaylaştırmak adına buradayız. Yasal raporlama alanında uzmanlaşmış bir ekip olarak, teknoloji ve bilgi birikimimizi kullanarak, sizlere hızlı, güvenilir ve tamamen uyumlu raporlama hizmetleri sunuyoruz.&lt;/p&gt;
 &lt;h2 id=&#34;özelliklerimiz&#34;&gt;Özelliklerimiz:&lt;/h2&gt;
@@ -129,7 +129,7 @@ GİB&amp;rsquo;e ait veri kontrol standartlarına göre kontrolleri yapılarak, 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;iletişime-geçin&#34;&gt;İletişime geçin&lt;/h2&gt;
-&lt;p&gt;Yasal raporlama süreçlerinizi RECON ile basitleştirmeye bugün başlayın. Daha fazla bilgi için iletişim seçeneklerinden biriyle &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;bize ulaşın&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Yasal raporlama süreçlerinizi RECON ile basitleştirmeye bugün başlayın. Daha fazla bilgi için iletişim seçeneklerinden biriyle &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;bize ulaşın&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

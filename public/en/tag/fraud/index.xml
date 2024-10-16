@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fraud | Recon Technology Consulting</title>
-    <link>http://localhost:1313/en/tag/fraud/</link>
-      <atom:link href="http://localhost:1313/en/tag/fraud/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://recon.com.tr/en/tag/fraud/</link>
+      <atom:link href="https://recon.com.tr/en/tag/fraud/index.xml" rel="self" type="application/rss+xml" />
     <description>Fraud</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu15455760525912019561.png</url>
+      <url>https://recon.com.tr/media/logo_hu15455760525912019561.png</url>
       <title>Fraud</title>
-      <link>http://localhost:1313/en/tag/fraud/</link>
+      <link>https://recon.com.tr/en/tag/fraud/</link>
     </image>
     
     <item>
       <title>Financial fraud detection tool</title>
-      <link>http://localhost:1313/en/products_services/wallet_fraud/</link>
+      <link>https://recon.com.tr/en/products_services/wallet_fraud/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/products_services/wallet_fraud/</guid>
+      <guid>https://recon.com.tr/en/products_services/wallet_fraud/</guid>
       <description>&lt;h2 id=&#34;fraud-detection-for-digital-wallets&#34;&gt;Fraud detection for digital wallets&lt;/h2&gt;
 &lt;p&gt;We are developing a rule-based product that complies with MASAK (Financial Crimes Investigation Board) criteria to protect customer balances in digital wallets. Approaches emerging from discussions with various licensed electronic money institutions and our project work at Dijitalpark Technopark are reflected in the product.&lt;/p&gt;
 &lt;p&gt;As our product is our own design and software, it is open to customization.&lt;/p&gt;

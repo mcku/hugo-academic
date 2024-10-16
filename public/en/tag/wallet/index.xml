@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wallet | Recon Technology Consulting</title>
-    <link>http://localhost:1313/en/tag/wallet/</link>
-      <atom:link href="http://localhost:1313/en/tag/wallet/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://recon.com.tr/en/tag/wallet/</link>
+      <atom:link href="https://recon.com.tr/en/tag/wallet/index.xml" rel="self" type="application/rss+xml" />
     <description>Wallet</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu15455760525912019561.png</url>
+      <url>https://recon.com.tr/media/logo_hu15455760525912019561.png</url>
       <title>Wallet</title>
-      <link>http://localhost:1313/en/tag/wallet/</link>
+      <link>https://recon.com.tr/en/tag/wallet/</link>
     </image>
     
     <item>
       <title>Digital wallet integration solutions</title>
-      <link>http://localhost:1313/en/products_services/wallet/</link>
+      <link>https://recon.com.tr/en/products_services/wallet/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/products_services/wallet/</guid>
+      <guid>https://recon.com.tr/en/products_services/wallet/</guid>
       <description>&lt;p&gt;At RECON, we know that digital wallets will increasingly become a part of our lives. To this end, we offer the following services to organizations that want to integrate with digital wallet ecosystem APIs and modernize their services:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Bank integrations, account transactions and transfers, card transactions&lt;/li&gt;
