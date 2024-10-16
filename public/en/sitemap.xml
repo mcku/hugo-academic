@@ -122,6 +122,66 @@
                 href="https://recon.com.tr/en/privacy/"
                 />
   </url><url>
+    <loc>https://recon.com.tr/en/news/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/news/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/authors/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/authors/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/tag/fintech/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://recon.com.tr/en/authors/admin/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/authors/admin/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/news/btrans-raporlama/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/news/btrans-raporlama/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/news/btrans-raporlama/"
+                />
+  </url><url>
     <loc>https://recon.com.tr/en/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -150,19 +210,6 @@
                 href="https://recon.com.tr/en/contact/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/authors/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://recon.com.tr/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://recon.com.tr/en/authors/"
-                />
-  </url><url>
     <loc>https://recon.com.tr/en/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -174,19 +221,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://recon.com.tr/en/categories/"
-                />
-  </url><url>
-    <loc>https://recon.com.tr/en/authors/admin/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://recon.com.tr/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://recon.com.tr/en/authors/admin/"
                 />
   </url><url>
     <loc>https://recon.com.tr/en/products_services_select/</loc>

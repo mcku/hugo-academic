@@ -1,6 +1,7 @@
+HUGO=hugo134
 build:
 	rm -rf public
-	hugo122
+	$(HUGO)
 
 serve: 
-	hugo122 server
+	$(HUGO) server
