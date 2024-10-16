@@ -1,6 +1,6 @@
 ---
-title: We simplify legal reporting processes
-subtitle: For electronic money and payment service institutions
+title: Yasal raporlama işlemlerini kolaylaştırıyoruz
+subtitle: Elektronik para ve ödeme hizmetleri kuruluşları için
 
 # Summary for listings and search engines
 summary:

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Haberler | Recon Technology Consulting</title>
+    <title>News | Recon Technology Consulting</title>
     <link>https://recon.com.tr/en/news/</link>
       <atom:link href="https://recon.com.tr/en/news/index.xml" rel="self" type="application/rss+xml" />
-    <description>Haberler</description>
+    <description>News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://recon.com.tr/media/logo_hu15455760525912019561.png</url>
-      <title>Haberler</title>
+      <title>News</title>
       <link>https://recon.com.tr/en/news/</link>
     </image>
     
     <item>
-      <title>Yasal raporlama işlemlerini kolaylaştırıyoruz</title>
+      <title>We simplify legal reporting processes</title>
       <link>https://recon.com.tr/en/news/btrans-raporlama/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://recon.com.tr/en/news/btrans-raporlama/</guid>

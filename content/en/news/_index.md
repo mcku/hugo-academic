@@ -1,5 +1,5 @@
 ---
-title: Haberler
+title: News
 cms_exclude: true
 
 # View.
