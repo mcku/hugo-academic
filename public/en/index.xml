@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recon Technology Consulting</title>
-    <link>https://recon.com.tr/en/</link>
-      <atom:link href="https://recon.com.tr/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/</link>
+      <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Recon Technology Consulting</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://recon.com.tr/media/logo_hu15455760525912019561.png</url>
+      <url>http://localhost:1313/media/logo_hu15455760525912019561.png</url>
       <title>Recon Technology Consulting</title>
-      <link>https://recon.com.tr/en/</link>
+      <link>http://localhost:1313/en/</link>
     </image>
     
     <item>
       <title>Financial fraud detection tool</title>
-      <link>https://recon.com.tr/en/products_services/wallet_fraud/</link>
+      <link>http://localhost:1313/en/products_services/wallet_fraud/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/en/products_services/wallet_fraud/</guid>
+      <guid>http://localhost:1313/en/products_services/wallet_fraud/</guid>
       <description>&lt;h2 id=&#34;fraud-detection-for-digital-wallets&#34;&gt;Fraud detection for digital wallets&lt;/h2&gt;
 &lt;p&gt;We are developing a rule-based product that complies with MASAK (Financial Crimes Investigation Board) criteria to protect customer balances in digital wallets. Approaches emerging from discussions with various licensed electronic money institutions and our project work at Dijitalpark Technopark are reflected in the product.&lt;/p&gt;
 &lt;p&gt;As our product is our own design and software, it is open to customization.&lt;/p&gt;
@@ -41,9 +41,9 @@
     
     <item>
       <title>BTRANS reporting automation</title>
-      <link>https://recon.com.tr/en/products_services/btrans_reporting/</link>
+      <link>http://localhost:1313/en/products_services/btrans_reporting/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/en/products_services/btrans_reporting/</guid>
+      <guid>http://localhost:1313/en/products_services/btrans_reporting/</guid>
       <description>&lt;h2 id=&#34;challenges-of-btrans-reporting&#34;&gt;Challenges of BTRANS reporting&lt;/h2&gt;
 &lt;p&gt;The requirement to submit BTRANS reports daily has created a need for automating the reporting process. The routine for manually retrieving reports from the database or report services, uploading them to institutional servers, and verifying them is clearly defined.&lt;/p&gt;
 &lt;p&gt;With the BTRANS automation solution, the reports for the previous day will be prepared by the morning. According to the data control standards of the Turkish Revenue Administration (GİB), checks are performed to prevent the submission of incorrect data. If errors are found in the generated data, they can be identified before the files are sent to GİB, allowing for corrections at the source.&lt;/p&gt;
@@ -55,15 +55,15 @@
 &lt;h2 id=&#34;is-there-a-web-interface&#34;&gt;Is there a web interface?&lt;/h2&gt;
 &lt;p&gt;Yes, there is a web interface. It features authority management, maker-checker workflow, and user login with Active Directory (LDAP). All user actions are logged for auditing purposes.&lt;/p&gt;
 &lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch&lt;/h2&gt;
-&lt;p&gt;Simplify your BTRANS reporting processes with RECON today. For more information, reach out to us using one of the &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;contact options&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Simplify your BTRANS reporting processes with RECON today. For more information, reach out to us using one of the &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contact options&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Digital wallet integration solutions</title>
-      <link>https://recon.com.tr/en/products_services/wallet/</link>
+      <link>http://localhost:1313/en/products_services/wallet/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/en/products_services/wallet/</guid>
+      <guid>http://localhost:1313/en/products_services/wallet/</guid>
       <description>&lt;p&gt;At RECON, we know that digital wallets will increasingly become a part of our lives. To this end, we offer the following services to organizations that want to integrate with digital wallet ecosystem APIs and modernize their services:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Bank integrations, account transactions and transfers, card transactions&lt;/li&gt;
@@ -80,9 +80,9 @@
     
     <item>
       <title>Fast, simple, reliable regulatory reporting</title>
-      <link>https://recon.com.tr/en/products_services/legal_reporting/</link>
+      <link>http://localhost:1313/en/products_services/legal_reporting/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/en/products_services/legal_reporting/</guid>
+      <guid>http://localhost:1313/en/products_services/legal_reporting/</guid>
       <description>&lt;h2 id=&#34;why-recon&#34;&gt;Why RECON?&lt;/h2&gt;
 &lt;p&gt;In the financial technology sector, regulatory reporting is becoming more complex every day. We, at RECON, are here to simplify this process for you. As a team specialized in regulatory reporting, we use our technology and expertise to offer you fast, reliable, and fully compliant reporting services.&lt;/p&gt;
 &lt;h2 id=&#34;our-features&#34;&gt;Our features:&lt;/h2&gt;
@@ -99,15 +99,15 @@
 &lt;li&gt;Final Check and Delivery: Your reports are prepared in accordance with legal standards and submitted for your approval. If desired, they can be automatically sent to relevant authorities.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch&lt;/h2&gt;
-&lt;p&gt;Start simplifying your regulatory reporting processes with RECON today. For more information, &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;contact us&lt;/a&gt; through one of our communication options.&lt;/p&gt;
+&lt;p&gt;Start simplifying your regulatory reporting processes with RECON today. For more information, &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contact us&lt;/a&gt; through one of our communication options.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>https://recon.com.tr/en/privacy/</link>
+      <link>http://localhost:1313/en/privacy/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0100</pubDate>
-      <guid>https://recon.com.tr/en/privacy/</guid>
+      <guid>http://localhost:1313/en/privacy/</guid>
       <description>&lt;p&gt;Our privacy principles consist of both &lt;a href=&#34;#gizlilik-privacy&#34;&gt;Privacy Policy&lt;/a&gt; and &lt;a href=&#34;#cerez-cookie&#34;&gt;Cookie Policy&lt;/a&gt; texts.&lt;/p&gt;
 &lt;h2 id=&#34;gizlilik-privacy&#34;&gt;PRIVACY AND PERSONAL DATA PROTECTION POLICY&lt;/h2&gt;
 &lt;p&gt;At recon.com.tr, we prioritize the security of your personal data. Your personal data is processed and stored in compliance with Law No. 6698 on the Protection of Personal Data (&amp;ldquo;KVKK&amp;rdquo;).&lt;/p&gt;
@@ -206,9 +206,9 @@ For advertising purposes: recon.com.tr may use cookies to deliver advertisements
     
     <item>
       <title>Yasal raporlama işlemlerini kolaylaştırıyoruz</title>
-      <link>https://recon.com.tr/en/news/btrans-raporlama/</link>
+      <link>http://localhost:1313/en/news/btrans-raporlama/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/en/news/btrans-raporlama/</guid>
+      <guid>http://localhost:1313/en/news/btrans-raporlama/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In Türkiye, TCMB-licensed payment services and electronic money institutions are required to regularly produce various reports. Given the operational workload of payment services and the regulatory intensity of the legislation, the already limited profitability imposes a heavy additional burden and responsibilities on companies in the face of high costs and difficulties to fulfill new reporting requirements.&lt;/p&gt;
 &lt;h2 id=&#34;reporting&#34;&gt;Reporting&lt;/h2&gt;
@@ -221,23 +221,23 @@ For advertising purposes: recon.com.tr may use cookies to deliver advertisements
 &lt;p&gt;Our product&amp;rsquo;s controls and software testing phases are carried out comprehensively, allowing for smooth operation from the very beginning.&lt;/p&gt;
 &lt;p&gt;With our team&amp;rsquo;s banking and fintech experience, accurate processing of high volumes of financial data, design of services capable of operating under load, and preventative engineering approaches toward potential issues provide a significant advantage.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;We aim to contribute to the financial ecosystem and help payment services and electronic money institutions focus on their core business. You can use the BTRANS reporting module with confidence and at the best possible cost. For more information, please &lt;a href=&#34;https://recon.com.tr/en/contact/&#34; title=&#34;Contact&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We aim to contribute to the financial ecosystem and help payment services and electronic money institutions focus on their core business. You can use the BTRANS reporting module with confidence and at the best possible cost. For more information, please &lt;a href=&#34;http://localhost:1313/en/contact/&#34; title=&#34;Contact&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://recon.com.tr/en/contact/</link>
+      <link>http://localhost:1313/en/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/en/contact/</guid>
+      <guid>http://localhost:1313/en/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Products and Services</title>
-      <link>https://recon.com.tr/en/products_services_select/</link>
+      <link>http://localhost:1313/en/products_services_select/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/en/products_services_select/</guid>
+      <guid>http://localhost:1313/en/products_services_select/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reporting | Recon Technology Consulting</title>
-    <link>https://recon.com.tr/en/tag/reporting/</link>
-      <atom:link href="https://recon.com.tr/en/tag/reporting/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tag/reporting/</link>
+      <atom:link href="http://localhost:1313/en/tag/reporting/index.xml" rel="self" type="application/rss+xml" />
     <description>Reporting</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://recon.com.tr/media/logo_hu15455760525912019561.png</url>
+      <url>http://localhost:1313/media/logo_hu15455760525912019561.png</url>
       <title>Reporting</title>
-      <link>https://recon.com.tr/en/tag/reporting/</link>
+      <link>http://localhost:1313/en/tag/reporting/</link>
     </image>
     
     <item>
       <title>BTRANS reporting automation</title>
-      <link>https://recon.com.tr/en/products_services/btrans_reporting/</link>
+      <link>http://localhost:1313/en/products_services/btrans_reporting/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/en/products_services/btrans_reporting/</guid>
+      <guid>http://localhost:1313/en/products_services/btrans_reporting/</guid>
       <description>&lt;h2 id=&#34;challenges-of-btrans-reporting&#34;&gt;Challenges of BTRANS reporting&lt;/h2&gt;
 &lt;p&gt;The requirement to submit BTRANS reports daily has created a need for automating the reporting process. The routine for manually retrieving reports from the database or report services, uploading them to institutional servers, and verifying them is clearly defined.&lt;/p&gt;
 &lt;p&gt;With the BTRANS automation solution, the reports for the previous day will be prepared by the morning. According to the data control standards of the Turkish Revenue Administration (GİB), checks are performed to prevent the submission of incorrect data. If errors are found in the generated data, they can be identified before the files are sent to GİB, allowing for corrections at the source.&lt;/p&gt;
@@ -28,15 +28,15 @@
 &lt;h2 id=&#34;is-there-a-web-interface&#34;&gt;Is there a web interface?&lt;/h2&gt;
 &lt;p&gt;Yes, there is a web interface. It features authority management, maker-checker workflow, and user login with Active Directory (LDAP). All user actions are logged for auditing purposes.&lt;/p&gt;
 &lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch&lt;/h2&gt;
-&lt;p&gt;Simplify your BTRANS reporting processes with RECON today. For more information, reach out to us using one of the &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;contact options&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Simplify your BTRANS reporting processes with RECON today. For more information, reach out to us using one of the &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contact options&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fast, simple, reliable regulatory reporting</title>
-      <link>https://recon.com.tr/en/products_services/legal_reporting/</link>
+      <link>http://localhost:1313/en/products_services/legal_reporting/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/en/products_services/legal_reporting/</guid>
+      <guid>http://localhost:1313/en/products_services/legal_reporting/</guid>
       <description>&lt;h2 id=&#34;why-recon&#34;&gt;Why RECON?&lt;/h2&gt;
 &lt;p&gt;In the financial technology sector, regulatory reporting is becoming more complex every day. We, at RECON, are here to simplify this process for you. As a team specialized in regulatory reporting, we use our technology and expertise to offer you fast, reliable, and fully compliant reporting services.&lt;/p&gt;
 &lt;h2 id=&#34;our-features&#34;&gt;Our features:&lt;/h2&gt;
@@ -53,7 +53,7 @@
 &lt;li&gt;Final Check and Delivery: Your reports are prepared in accordance with legal standards and submitted for your approval. If desired, they can be automatically sent to relevant authorities.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch&lt;/h2&gt;
-&lt;p&gt;Start simplifying your regulatory reporting processes with RECON today. For more information, &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;contact us&lt;/a&gt; through one of our communication options.&lt;/p&gt;
+&lt;p&gt;Start simplifying your regulatory reporting processes with RECON today. For more information, &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contact us&lt;/a&gt; through one of our communication options.&lt;/p&gt;
 </description>
     </item>
     

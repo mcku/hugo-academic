@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cüzdan | Recon Technology Consulting</title>
-    <link>https://recon.com.tr/tag/cuzdan/</link>
-      <atom:link href="https://recon.com.tr/tag/cuzdan/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/cuzdan/</link>
+      <atom:link href="http://localhost:1313/tag/cuzdan/index.xml" rel="self" type="application/rss+xml" />
     <description>Cüzdan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://recon.com.tr/media/logo_hu15455760525912019561.png</url>
+      <url>http://localhost:1313/media/logo_hu15455760525912019561.png</url>
       <title>Cüzdan</title>
-      <link>https://recon.com.tr/tag/cuzdan/</link>
+      <link>http://localhost:1313/tag/cuzdan/</link>
     </image>
     
     <item>
       <title>Dijital cüzdan entegrasyon çözümleri</title>
-      <link>https://recon.com.tr/products_services/wallet/</link>
+      <link>http://localhost:1313/products_services/wallet/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/products_services/wallet/</guid>
+      <guid>http://localhost:1313/products_services/wallet/</guid>
       <description>&lt;p&gt;RECON olarak dijital cüzdanların hayatımızda giderek daha fazla yer alacağını biliyoruz. Bu amaçla dijital cüzdan ekosistemi API&amp;rsquo;lerine entegre olmak isteyen, servislerini modernize etmek isteyen kuruluşlara aşağıdaki hizmetleri sunuyoruz.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Banka entegrasyonları, hesap hareketleri ve transferler, kart hareketleri&lt;/li&gt;

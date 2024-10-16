@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Recon Technology Consulting</title>
-    <link>https://recon.com.tr/publication_types/</link>
-      <atom:link href="https://recon.com.tr/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/</link>
+      <atom:link href="http://localhost:1313/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language>
     <image>
-      <url>https://recon.com.tr/media/logo_hu15455760525912019561.png</url>
+      <url>http://localhost:1313/media/logo_hu15455760525912019561.png</url>
       <title>Publication_types</title>
-      <link>https://recon.com.tr/publication_types/</link>
+      <link>http://localhost:1313/publication_types/</link>
     </image>
     
   </channel>

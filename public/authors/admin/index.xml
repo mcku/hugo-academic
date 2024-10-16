@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mustafa Kuşçu | Recon Technology Consulting</title>
-    <link>https://recon.com.tr/authors/admin/</link>
-      <atom:link href="https://recon.com.tr/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/admin/</link>
+      <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Mustafa Kuşçu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://recon.com.tr/authors/admin/avatar_hu13187832061163885988.png</url>
+      <url>http://localhost:1313/authors/admin/avatar_hu13187832061163885988.png</url>
       <title>Mustafa Kuşçu</title>
-      <link>https://recon.com.tr/authors/admin/</link>
+      <link>http://localhost:1313/authors/admin/</link>
     </image>
     
     <item>
       <title>We simplify legal reporting processes</title>
-      <link>https://recon.com.tr/news/btrans-raporlama/</link>
+      <link>http://localhost:1313/news/btrans-raporlama/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/news/btrans-raporlama/</guid>
+      <guid>http://localhost:1313/news/btrans-raporlama/</guid>
       <description>&lt;h2 id=&#34;giriş&#34;&gt;Giriş&lt;/h2&gt;
 &lt;p&gt;Ülkemizde TCMB lisanslı ödeme hizmetleri ve elektronik para kuruluşlarının düzenli olarak yapmaları gereken çeşitli raporlamalar bulunmaktadır.
 Ödeme hizmetlerinin operasyonel iş yükü ve mevzuatın regülasyon yoğunluğu göz önünde bulundurulunduğunda, zaten kısıtlı olan karlılık, yüksek maliyetler ve zorluklar karşısında, yeni raporlamaları gerçekleştirmek firmalar üzerinde ağır ek yük ve sorumluluklar doğurmaktadır.&lt;/p&gt;
@@ -30,7 +30,7 @@
 &lt;p&gt;Ürüne ilişkin kontroller ve yazılım test aşamaları oldukça kapsamlı olarak yapıldığından, ilk andan itibaren sorunsuz devam etmekteyiz.&lt;/p&gt;
 &lt;p&gt;Ekibimizin banka ve fintek deneyimiyle, yüksek hacim ve finansal verilerin doğru işlenmesi, yük altında çalışabilen servislerin doğru bir şekilde tasarlanması ve olası sorunlardan doğru mühendislik yaklaşımlarıyla baştan kaçınılmış olması önemli bir avantajdır.&lt;/p&gt;
 &lt;h2 id=&#34;sonuç&#34;&gt;Sonuç&lt;/h2&gt;
-&lt;p&gt;Finansal ekosisteme katkıda bulunurken ve ödeme hizmetleri ve elektronik para kurluşlarının asıl işlerine odaklanmalarına yardımcı olmaya çalışıyoruz. BTRANS raporlama modülünü en uygun maliyetlerle ve güvenle kullanabilirsiniz. Daha fazla bilgi için &lt;a href=&#34;https://recon.com.tr/contact/&#34; title=&#34;İletişim&#34;&gt;iletişime&lt;/a&gt; geçin.&lt;/p&gt;
+&lt;p&gt;Finansal ekosisteme katkıda bulunurken ve ödeme hizmetleri ve elektronik para kurluşlarının asıl işlerine odaklanmalarına yardımcı olmaya çalışıyoruz. BTRANS raporlama modülünü en uygun maliyetlerle ve güvenle kullanabilirsiniz. Daha fazla bilgi için &lt;a href=&#34;http://localhost:1313/contact/&#34; title=&#34;İletişim&#34;&gt;iletişime&lt;/a&gt; geçin.&lt;/p&gt;
 </description>
     </item>
     

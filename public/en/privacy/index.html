@@ -3,7 +3,7 @@
 <!-- Last Published: October 16, 2024 --><html lang="en-us" >
 
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
 
   
   
@@ -212,7 +212,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.24f1c8ae0cd5c0fa944251f6b12d119d.css" />
+  <link rel="stylesheet" href="/css/wowchemy.css" />
 
   
   
@@ -239,53 +239,6 @@
 
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-85T4VZE2QZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-85T4VZE2QZ', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-
-
-<script>
-  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-5BC8KV4W');
-</script>
 
 
 
@@ -330,10 +283,10 @@ At recon.com.tr, we prioritize the security of your personal data. Your personal
 
 
 
-  <link rel="alternate" hreflang="tr" href="https://recon.com.tr/privacy/" />
+  <link rel="alternate" hreflang="tr" href="http://localhost:1313/privacy/" />
 
-<link rel="alternate" hreflang="en-us" href="https://recon.com.tr/en/privacy/" />
-<link rel="canonical" href="https://recon.com.tr/en/privacy/" />
+<link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/privacy/" />
+<link rel="canonical" href="http://localhost:1313/en/privacy/" />
 
 
 
@@ -364,7 +317,7 @@ At recon.com.tr, we prioritize the security of your personal data. Your personal
 
 
 <meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="https://recon.com.tr/media/logo_hu15455760525912019561.png" />
+<meta property="twitter:image" content="http://localhost:1313/media/logo_hu15455760525912019561.png" />
 
 
 
@@ -372,11 +325,11 @@ At recon.com.tr, we prioritize the security of your personal data. Your personal
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Recon Technology Consulting" />
-<meta property="og:url" content="https://recon.com.tr/en/privacy/" />
+<meta property="og:url" content="http://localhost:1313/en/privacy/" />
 <meta property="og:title" content="Privacy | Recon Technology Consulting" />
 <meta property="og:description" content="Our privacy principles consist of both Privacy Policy and Cookie Policy texts.
 PRIVACY AND PERSONAL DATA PROTECTION POLICY
-At recon.com.tr, we prioritize the security of your personal data. Your personal data is processed and stored in compliance with Law No. 6698 on the Protection of Personal Data (&ldquo;KVKK&rdquo;)." /><meta property="og:image" content="https://recon.com.tr/media/logo_hu15455760525912019561.png" /><meta property="og:locale" content="en-us" />
+At recon.com.tr, we prioritize the security of your personal data. Your personal data is processed and stored in compliance with Law No. 6698 on the Protection of Personal Data (&ldquo;KVKK&rdquo;)." /><meta property="og:image" content="http://localhost:1313/media/logo_hu15455760525912019561.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -441,7 +394,7 @@ At recon.com.tr, we prioritize the security of your personal data. Your personal
   
   
   
-  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
+  <script src="/js/wowchemy-init.min.js"></script>
 
   
 
@@ -514,7 +467,7 @@ At recon.com.tr, we prioritize the security of your personal data. Your personal
       
       <div class="d-none d-lg-inline-flex" >
         <a class="navbar-brand" href="/en/"><img src="/media/logo_hu15914038193637763781.png" alt="Recon Technology Consulting"
-            width="250px"
+            width="36px"
             ></a>
       </div>
       
@@ -714,7 +667,7 @@ At recon.com.tr, we prioritize the security of your personal data. Your personal
               <span>English</span>
             </div>
             
-            <a class="dropdown-item" href="https://recon.com.tr/privacy/">
+            <a class="dropdown-item" href="http://localhost:1313/privacy/">
               <span>Türkçe</span>
             </a>
             
@@ -988,7 +941,7 @@ For advertising purposes: recon.com.tr may use cookies to deliver advertisements
   
 
 
-<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
+<script src="/js/vendor-bundle.min.js"></script>
 
 
 
@@ -1067,7 +1020,7 @@ For advertising purposes: recon.com.tr may use cookies to deliver advertisements
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.js" type="module"></script>
 
 
 
@@ -1081,7 +1034,7 @@ For advertising purposes: recon.com.tr may use cookies to deliver advertisements
   
 
 
-<script src="/en/js/wowchemy.min.0d344310ba75ea019adb1e7aa1de0b6a.js"></script>
+<script src="/en/js/wowchemy.min.js"></script>
 
 
 

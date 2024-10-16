@@ -2,251 +2,251 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://recon.com.tr/en/products_services/wallet_fraud/</loc>
+    <loc>http://localhost:1313/en/products_services/wallet_fraud/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/products_services/wallet_fraud/"
+                href="http://localhost:1313/products_services/wallet_fraud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/products_services/wallet_fraud/"
+                href="http://localhost:1313/en/products_services/wallet_fraud/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/tag/fraud/</loc>
+    <loc>http://localhost:1313/en/tag/fraud/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/tag/fraud/"
+                href="http://localhost:1313/tag/fraud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/tag/fraud/"
+                href="http://localhost:1313/en/tag/fraud/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/products_services/</loc>
+    <loc>http://localhost:1313/en/products_services/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/products_services/"
+                href="http://localhost:1313/products_services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/products_services/"
+                href="http://localhost:1313/en/products_services/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/products_services/btrans_reporting/</loc>
+    <loc>http://localhost:1313/en/products_services/btrans_reporting/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/products_services/btrans_reporting/"
+                href="http://localhost:1313/products_services/btrans_reporting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/products_services/btrans_reporting/"
+                href="http://localhost:1313/en/products_services/btrans_reporting/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/tag/reporting/</loc>
+    <loc>http://localhost:1313/en/tag/reporting/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://recon.com.tr/en/products_services/wallet/</loc>
+    <loc>http://localhost:1313/en/products_services/wallet/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/products_services/wallet/"
+                href="http://localhost:1313/products_services/wallet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/products_services/wallet/"
+                href="http://localhost:1313/en/products_services/wallet/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/tag/wallet/</loc>
+    <loc>http://localhost:1313/en/tag/wallet/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://recon.com.tr/en/products_services/legal_reporting/</loc>
+    <loc>http://localhost:1313/en/products_services/legal_reporting/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/products_services/legal_reporting/"
+                href="http://localhost:1313/products_services/legal_reporting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/products_services/legal_reporting/"
+                href="http://localhost:1313/en/products_services/legal_reporting/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/privacy/</loc>
+    <loc>http://localhost:1313/en/privacy/</loc>
     <lastmod>2024-01-12T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/privacy/"
+                href="http://localhost:1313/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/privacy/"
+                href="http://localhost:1313/en/privacy/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/news/</loc>
+    <loc>http://localhost:1313/en/news/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/news/"
+                href="http://localhost:1313/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/news/"
+                href="http://localhost:1313/en/news/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/authors/</loc>
+    <loc>http://localhost:1313/en/authors/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/authors/"
+                href="http://localhost:1313/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/authors/"
+                href="http://localhost:1313/en/authors/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/tag/fintech/</loc>
+    <loc>http://localhost:1313/en/tag/fintech/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://recon.com.tr/en/authors/admin/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://recon.com.tr/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://recon.com.tr/en/authors/admin/"
-                />
-  </url><url>
-    <loc>https://recon.com.tr/en/news/btrans-raporlama/</loc>
+    <loc>http://localhost:1313/en/authors/admin/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/news/btrans-raporlama/"
+                href="http://localhost:1313/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/news/btrans-raporlama/"
+                href="http://localhost:1313/en/authors/admin/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/</loc>
+    <loc>http://localhost:1313/en/news/btrans-raporlama/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/news/btrans-raporlama/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/news/btrans-raporlama/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/contact/</loc>
+    <loc>http://localhost:1313/en/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/contact/"
+                href="http://localhost:1313/en/contact/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/products_services_select/</loc>
+    <loc>http://localhost:1313/en/products_services_select/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/products_services_select/"
+                href="http://localhost:1313/products_services_select/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/products_services_select/"
+                href="http://localhost:1313/en/products_services_select/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/en/publication_types/</loc>
+    <loc>http://localhost:1313/en/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://recon.com.tr/publication_types/"
+                href="http://localhost:1313/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://recon.com.tr/en/publication_types/"
+                href="http://localhost:1313/en/publication_types/"
                 />
   </url>
 </urlset>
