@@ -49,7 +49,7 @@ header:
     width: 350px
   image:
     width: 630px
-    width: 36px
+    height: 36px
 
 # Site footer
 
