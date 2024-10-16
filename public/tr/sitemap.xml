@@ -203,6 +203,16 @@
     <loc>https://recon.com.tr/about/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/about/"
+                />
   </url><url>
     <loc>https://recon.com.tr/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
