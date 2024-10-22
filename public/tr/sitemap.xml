@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://recon.com.tr/slides/btrans-sunum-1/</loc>
+    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://recon.com.tr/slides/btrans-sunum-2/</loc>
+    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://recon.com.tr/slides/</loc>
+    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://recon.com.tr/products_services/wallet_fraud/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -97,10 +109,6 @@
                 hreflang="tr"
                 href="https://recon.com.tr/products_services/wallet/"
                 />
-  </url><url>
-    <loc>https://recon.com.tr/slides/</loc>
-    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://recon.com.tr/products_services/legal_reporting/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
