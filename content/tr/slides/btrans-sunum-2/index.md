@@ -1,7 +1,7 @@
 ---
 title: ReportRecon resmi raporlama çözümü
 summary: Raporların hazırlanması, gönderilmesi ve akıbet takibi
-draft: false
+draft: true
 authors: []
 tags: []
 categories: []
@@ -32,9 +32,9 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 # Kurumsal Raporlama İhtiyacı
 
-- Regülasyona tabi kuruluşlar için zorunlu raporlamalar <!-- .element: class="fragment" -->
-- Düzenleyici kurumlarla günlük veri paylaşımı <!-- .element: class="fragment" -->
-- Kapsamlı içerik doğrulama gereksinimleri <!-- .element: class="fragment" -->
+- Regülasyona tabi kuruluşlar için zorunlu raporlamalar
+- Düzenleyici kurumlarla günlük veri paylaşımı
+- Kapsamlı içerik doğrulama gereksinimleri
 
 ---
 
