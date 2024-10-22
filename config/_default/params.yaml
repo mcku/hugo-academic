@@ -1,6 +1,4 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -55,7 +53,7 @@ header:
 
 footer:
   copyright:
-    notice: "© {year} Recon Teknoloji. This work is licensed under {license}"
+    notice: "© {year} Recon Technology Consulting. This work is licensed under {license}"
     show_translations: true
     license:
       enable: true
@@ -127,3 +125,10 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+slides:
+  reveal_options:
+    menu_enabled: true
+    embedded: true
+# enableReveal: true
+

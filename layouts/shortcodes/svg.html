@@ -1,0 +1,10 @@
+{{/* see 
+https://discourse.gohugo.io/t/embedding-inline-svg-in-content-markdown/7511/6
+
+usage: 
+{{< svg "triangle.svg" >}}
+ */}}
+
+<figure>
+{{ readFile (print "assets/media/" (index .Params 0)) | safeHTML }}
+</figure>
