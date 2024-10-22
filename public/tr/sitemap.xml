@@ -6,13 +6,33 @@
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://recon.com.tr/slides/btrans-sunum-2/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://recon.com.tr/slides/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/slides/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/slides/finance-malware/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/slides/finance-malware/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/slides/finance-malware/"
+                />
   </url><url>
     <loc>https://recon.com.tr/products_services/wallet_fraud/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>

@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://recon.com.tr/en/slides/finance-malware/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/slides/finance-malware/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/slides/finance-malware/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/en/slides/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/slides/"
+                />
+  </url><url>
     <loc>https://recon.com.tr/en/products_services/wallet_fraud/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>

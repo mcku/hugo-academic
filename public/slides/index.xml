@@ -238,10 +238,10 @@
     </item>
     
     <item>
-      <title>ReportRecon resmi raporlama çözümü</title>
-      <link>https://recon.com.tr/slides/btrans-sunum-2/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://recon.com.tr/slides/btrans-sunum-2/</guid>
+      <title>Entegre Finansal Sahtecilik Tespiti ve Finansal Siber Güvenlik</title>
+      <link>https://recon.com.tr/slides/finance-malware/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/slides/finance-malware/</guid>
       <description>
 &lt;section data-noprocess data-shortcode-slide
   
@@ -252,29 +252,102 @@
       data-background-gradient=&#34;linear-gradient(to bottom, #283048, #655348)&#34;
   &gt;
 
-&lt;h1 id=&#34;reportrecon&#34;&gt;ReportRecon&lt;/h1&gt;
-&lt;h2 id=&#34;profesyonel-resmi-raporlama-çözümü&#34;&gt;Profesyonel Resmi Raporlama Çözümü&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Raporlama süreçlerinizde mükemmel uyum&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;finansal-işlemleri-zararlı-yazılım-etkilerine-karşı-koruma&#34;&gt;Finansal işlemleri zararlı yazılım etkilerine karşı koruma&lt;/h3&gt;
+&lt;!-- [INETCO](https://inetco.com/) |  --&gt;
+&lt;p&gt;Gelişmiş sürekli tehditler (APT) özelinde bir inceleme&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://recon.com.tr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;️&#34;
+           src=&#34;https://recon.com.tr/media/logo_oneline.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ &lt;/a&gt;
+&lt;a href=&#34;https://recon.com.tr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://recon.com.tr&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;kurumsal-raporlama-ihtiyacı&#34;&gt;Kurumsal Raporlama İhtiyacı&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Regülasyona tabi kuruluşlar için zorunlu raporlamalar &lt;!-- .element: class=&#34;fragment&#34; --&gt;&lt;/li&gt;
-&lt;li&gt;Düzenleyici kurumlarla günlük veri paylaşımı &lt;!-- .element: class=&#34;fragment&#34; --&gt;&lt;/li&gt;
-&lt;li&gt;Kapsamlı içerik doğrulama gereksinimleri &lt;!-- .element: class=&#34;fragment&#34; --&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate=&#34;true&#34;
+  
+      
+      data-background-gradient=&#34;linear-gradient(to bottom, #283048, #655348)&#34;
+  &gt;
+
+&lt;h2 id=&#34;apt-tehdidi&#34;&gt;APT Tehdidi&lt;/h2&gt;
+&lt;p&gt;Çeşitli siber saldırganlar ve APT grupları tarafından, önemli telekom altyapılarına ve finansal sistemlere sızılarak, büyük zararlar oluşturabilecek uzun süreli saldırılar.&lt;/p&gt;
+&lt;!-- [Advanced Persistent Threat https://en.wikipedia.org/wiki/Advanced_persistent_threat ](https://tr.wikipedia.org/wiki/Advanced_persistent_threat) --&gt;
+&lt;p&gt;Advanced Persistent Threat / Gelişmiş Sürekli Tehdit&lt;/p&gt;
+&lt;div class=&#34;reveal r-hstack&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://tr.wikipedia.org/wiki/Geli%C5%9Fmi%C5%9F_s%C3%BCrekli_tehdit&#34;&gt; 👉 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;️&#34;
+           src=&#34;https://recon.com.tr/media/icons/custom/wikipedia_white.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;raporlama-süreçlerinde-hassasiyet&#34;&gt;Raporlama Süreçlerinde Hassasiyet&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Veri hazırlama sürecinde yüksek dikkat ihtiyacı &lt;!-- .element: class=&#34;fragment fade-up&#34; --&gt;&lt;/li&gt;
-&lt;li&gt;Detaylı kontrol gereksinimleri &lt;!-- .element: class=&#34;fragment fade-up&#34; --&gt;&lt;/li&gt;
-&lt;li&gt;Kurum validasyonlarına tam uyumluluk zorunluluğu &lt;!-- .element: class=&#34;fragment fade-up&#34; --&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate=&#34;true&#34;
+  
+      
+      data-background-gradient=&#34;linear-gradient(to bottom, #283048, #655348)&#34;
+  &gt;
+
+&lt;h4 id=&#34;apt-örneği-fastcash-saklı-kobra&#34;&gt;APT örneği: FastCash (Saklı Kobra)&lt;/h4&gt;
+&lt;p&gt;ATM&amp;rsquo;lerden ISO 8583 üzerinden yetkisiz para çekmeyi sağlayan&lt;/p&gt;
+&lt;p&gt;Uzak doğu kökenli bir grup tarafından geliştirilmektedir&lt;/p&gt;
+&lt;p&gt;2018&amp;rsquo;de tespit edilmiştir&lt;/p&gt;
+&lt;p&gt;2016&amp;rsquo;dan beri faal olduğu düşünülmektedir&lt;/p&gt;
+&lt;p&gt;Zararlı yazılım olarak ATM switch&amp;rsquo;e bulaşır.&lt;/p&gt;
+&lt;p&gt;Gelen istekleri yetkisiz olarak onaylar.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;uyumsuzluk-riskleri&#34;&gt;Uyumsuzluk Riskleri&lt;/h1&gt;
+&lt;h4 id=&#34;apt-örneği-fastcash-saklı-kobra-1&#34;&gt;APT örneği: FastCash (Saklı Kobra)&lt;/h4&gt;
+&lt;p&gt;2018&amp;rsquo;den itibaren anti virüs yazılımları tarafından tespit edilmeye başlanmıştır&lt;/p&gt;
+&lt;img src=&#34;https://recon.com.tr/fastcash_crop.png&#34;  style=&#34;height: 80vw%; width: 60%; padding: 10px;&#34;&gt;
+&lt;p&gt;Symantec bülteni: &lt;a href=&#34;https://www.security.com/threat-intelligence/fastcash-lazarus-atm-malware&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.security.com/threat-intelligence/fastcash-lazarus-atm-malware&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;15 Ekim 2024&amp;rsquo;te FASTCash kötü amaçlı yazılımının yeni bir Linux varyantı keşfedildi.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Standart dışı veri formatları&lt;/li&gt;
-&lt;li&gt;Manuel kontrol süreçlerinin yarattığı iş yükü&lt;/li&gt;
-&lt;li&gt;SFTP aktarımlarında yaşanan zorluklar&lt;/li&gt;
+&lt;li&gt;Kuzey Koreli tehdit aktörleri&lt;/li&gt;
+&lt;li&gt;Bankacılık sistemlerini hedef alıyor&lt;/li&gt;
+&lt;li&gt;Bankalar arası ödeme anahtarlarını ele geçiriyor&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 
@@ -287,26 +360,77 @@
       data-background=&#34;#9A4042&#34;
   &gt;
 
-&lt;h1 id=&#34;manuel-süreçlerin-zorlukları&#34;&gt;Manuel Süreçlerin Zorlukları&lt;/h1&gt;
-&lt;div class=&#34;r-hstack&#34;&gt;
-&lt;span class=&#34;fragment fade-in&#34; &gt;
-  &lt;ul&gt;
-&lt;li&gt;Günlük SFTP kontrolleri&lt;/li&gt;
-&lt;li&gt;Hata düzeltme süreçleri&lt;/li&gt;
-&lt;li&gt;Düzeltilen kayıtların takibi&lt;/li&gt;
-&lt;li&gt;Müşteri süreçlerinde olası aksamalar&lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;h2 id=&#34;span-stylecolorredproblemspan&#34;&gt;&lt;span style=&#34;color:red;&#34;&gt;PROBLEM&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;
+&lt;span style=&#34;color:red;&#34;&gt;💀 Finansal ağda gün yüzüne çıkmamış APT zararlı yazılımları olabilir.&lt;/span&gt;
+&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Bilinen zararlı yazılımlar bir şekilde tespit edilebilir fakat henüz bilinmeyenler ne olacak?
 &lt;/span&gt;
-&lt;/div&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;veri-saklama-gereksinimleri&#34;&gt;Veri Saklama Gereksinimleri&lt;/h1&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;
+&lt;span style=&#34;color:orange;&#34;&gt; 👮 Soru: Bilinmeyen/tanınmayan zararlı yazılımları, aktive olduklarında farkedip durdurabilir miyiz? &lt;/span&gt;
+&lt;p&gt;
+&lt;/span&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;em&gt;Bilinen yöntemler ve sorunlar&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Siber güvenlik açısından&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;10 yıllık yasal saklama süresi&lt;/li&gt;
-&lt;li&gt;Mali denetim gereksinimleri&lt;/li&gt;
-&lt;li&gt;Kolay erişilebilir arşivleme ihtiyacı&lt;/li&gt;
-&lt;li&gt;İtiraz süreçleri için kanıt niteliği&lt;/li&gt;
+&lt;li&gt;ATM ağının izole olması yeterli değildir. Gelişmiş siber saldırılar bu izolasyonu aşabilmektedir.&lt;/li&gt;
+&lt;li&gt;Siber güvenlik ürününün bildiği tanımlayabildiği zararlı yazılımlar tespit edilebilir.
+Siber güvenlik yazılımı sadece tanımlayabildiği zararlı yazılımları tespit edebilir.
+Fastcash&amp;rsquo;in tespit edilmesi 2 yıl sürdü&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Bilinen zararlı yazılımlar bu şekilde tespit edilebilir fakat henüz bilinmeyenler ne olacak?
+APT&amp;rsquo;ler sahada aktifken tespit edilmemiş birçok tehdit söz konusu olabilir.&lt;/p&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;konvansiyonel-yaklaşım-1---siber-güvenlik&#34;&gt;Konvansiyonel Yaklaşım 1 - Siber güvenlik&lt;/h4&gt;
+&lt;p&gt;&lt;span style=&#34;color:orange;&#34;&gt; Siber güvenlik ürünleriyle zararlı yazılım mücadelesi&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;🚫 Üretici tarafından zararlı yazılım imzasının hazırlanmasını beklemek gerekir.&lt;/p&gt;
+&lt;p&gt;🚫 İmzası mevcut olsa bile zararlı yazılımın hızla yeni varyantları ortaya çıkabilmektedir.&lt;/p&gt;
+&lt;p&gt;🚫 Birden fazla ürün için bu imzaları tanımlamak yorucu bir iştir.&lt;/p&gt;
+&lt;p&gt;🚫 Siber güvenlik ürünlerinin finanslar protokollere olan desteği sınırlıdır.&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;em&gt;Siber güvenlik ürünleri ile neden olmaz&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bu tür ürünler siber güvenliğe odaklanmış olduğundan, finansal işlemlerin durum takibini yapmak için yüksek efor gerekir&lt;/li&gt;
+&lt;li&gt;Siber güvenliğin amacı iç ve dış ağlardan gelen, bilinen tehditleri karşılamak,&lt;/li&gt;
+&lt;li&gt;ISO 8583, ATM, mobil protokollerindeki hareketlerden sonuç çıkarmak siber güvenliğin görev alanı değil&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;konvansiyonel-yaklaşım-2---log-analizi&#34;&gt;Konvansiyonel Yaklaşım 2 - Log analizi&lt;/h4&gt;
+&lt;p&gt;&lt;span style=&#34;color:orange;&#34;&gt;Logları toplamak ve analiz ederek anomalileri yakalamaya çalışmak&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;🚫 Büyük resmi görmek için ağ trafiğine bakmak ve mümkün olduğunca fazla sunucudan log toplamak ve aralarında ilişki kurmaya çalışmak&lt;/p&gt;
+&lt;p&gt;🚫 Zararlı yazılımlar sistemsel açıkları kullandıkları için, her zaman log üretmeyebilirler&lt;/p&gt;
+&lt;p&gt;❔🚫 Ağ trafiği analizi önemlidir fakat, yerel çalışacak zararlıları tespit edemez.&lt;/p&gt;
+&lt;p&gt;🚫 Finansal uygulama sunucularından hem de siber güvenlik sistemlerinden log toplamak:&lt;/p&gt;
+&lt;p&gt;🌋 Performans kaybı ve log aktarım gecikmeleri yaşanabilir.&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;em&gt;Log analiz yaklaşımı ile neden olmaz&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uygulama sunucularından detay durum bilgilerini almak&lt;/li&gt;
+&lt;li&gt;Bu bilgileri bir merkezi log sunucusunda toplamak&lt;/li&gt;
+&lt;li&gt;Değerlendirmek ve alarm üretmek gerekli&lt;/li&gt;
+&lt;li&gt;Birden fazla ağ cihazına farklı katmanlarda engelleyici kural tanımı yaptırmak çok zor&lt;/li&gt;
+&lt;li&gt;Ağdaki bilgiler şifreli olduğundan, bu bilgileri doğrudan kullanmak mümkün değildir&lt;/li&gt;
+&lt;li&gt;Sadece trafiğe bakarak yakalamak çok zor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;konvansiyonel-yaklaşım-3---finansal-fraud-motoru-kullanımı&#34;&gt;Konvansiyonel Yaklaşım 3 - Finansal fraud motoru kullanımı&lt;/h4&gt;
+&lt;p&gt;Finansal uygulamaların mesajlaşmalarına entegre olarak, online işlem sırasında sahteciliği tespit etme aşamasında zararlı yazılımı yakalamaya çalışmak&lt;/p&gt;
+&lt;p&gt;🚫 Finansal sistemin ilettiği sınırlı bilgiyi kullanarak zararlı tespiti yapmak mümkün değil.&lt;/p&gt;
+&lt;p&gt;🚫 Fraud bileşeniyle diğer siber güvenlik bileşenlerinin entegre olması çok zor&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;konvansiyonel-yaklaşım-3---finansal-fraud-motoru-kullanımı-atm&#34;&gt;Konvansiyonel Yaklaşım 3 - Finansal fraud motoru kullanımı (ATM)&lt;/h4&gt;
+&lt;p&gt;🌋 ATM ağından gelen mesaj trafiğini anlık olarak izlemek mümkün olsa da
+ATM mesajlarını sunuculardan gelen onay mesajıyla eşleştirmek
+Böyle bir onay gelmeden ATM para verdiyse alarm üretmek&lt;/p&gt;
+&lt;p&gt;🌋 Klasik yöntemlerle bunu yapmak için tüm sunucularda loglamayı açmak gerekir. Bu ise yavaşlamaya, log artışına neden olur.&lt;/p&gt;
+&lt;p&gt;Konvansiyonel yaklaşım çok zorlanacaktır&lt;/p&gt;
+&lt;p&gt;🤔 Alternatif?&lt;/p&gt;
 &lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
@@ -315,96 +439,69 @@
       data-auto-animate=&#34;true&#34;
   
       
-      data-background=&#34;#4A90E2&#34;
+      data-transition=&#34;zoom&#34;
   &gt;
 
-&lt;h1 id=&#34;veri-izleme-gereksinimleri&#34;&gt;Veri İzleme Gereksinimleri&lt;/h1&gt;
+&lt;h3 id=&#34;öneri-farklı-bakış-açısı&#34;&gt;Öneri: Farklı bakış açısı&lt;/h3&gt;
+&lt;p&gt;Havalimanı 360 derece yolcu güvenliği analojisi&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Otomatik durum (status) takibi&lt;/li&gt;
-&lt;li&gt;Hatalı kayıtların tespiti&lt;/li&gt;
-&lt;li&gt;Kaynakta düzeltme imkanı&lt;/li&gt;
-&lt;li&gt;Düzeltme kayıtlarının yönetimi&lt;/li&gt;
+&lt;li&gt;Havaalanının otoparkında, giriş kapısında, biletleme, güvenlik kapısı, pasaport kontrolü, uçağa gidiş gibi, her aşamada kontroller yapılır.&lt;/li&gt;
+&lt;li&gt;Herhangi bir adımın ya da işlem detayının atlanması mümkün olmamalıdır.&lt;/li&gt;
+&lt;li&gt;Her aşamayı takip ve eşleştirme sağlayan bir sistem kurulur.&lt;/li&gt;
+&lt;li&gt;Tüm aşamalar kayıt altında ve kontrollüdür.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-auto-animate=&#34;true&#34;
-  &gt;
-
-&lt;h1 id=&#34;neden-otomasyon-gerekli&#34;&gt;Neden Otomasyon Gerekli?&lt;/h1&gt;
+&lt;h4 id=&#34;çözüm-360-derece-yaklaşımı&#34;&gt;Çözüm: 360 derece yaklaşımı&lt;/h4&gt;
+&lt;p&gt;&lt;span style=&#34;color:green;&#34;&gt; Farklı bir bakış açısı gereklidir:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;✅ Tüm bileşenlerin eşzamanlı olarak ve performans kaybı yaşamadan gerçek zamanlı olarak izlenmesi&lt;/p&gt;
+&lt;p&gt;✅ Büyük resme bakarak hazırlanacak senaryo setleri&lt;/p&gt;
+&lt;p&gt;🌠 Bonus: Makine öğrenmesi ve yapay zeka algoritmaları ile tüm akışlardaki anomalilerin tespit edilmesi&lt;/p&gt;
+&lt;p&gt;✅ Finansal protokolleri analiz etmek ve anomalileri finansal katmanda yakalamak&lt;/p&gt;
+&lt;p&gt;✅ Verileri performans kaybı yaşamadan toplamak&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;360-derece-finansal-sistem-koruması---1&#34;&gt;360 derece finansal sistem koruması - 1&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Çift yönlü veri akışı&lt;/li&gt;
-&lt;li&gt;Sürekli güncelleme ihtiyacı&lt;/li&gt;
-&lt;li&gt;Manuel süreçlerin yetersizliği&lt;/li&gt;
-&lt;li&gt;Operasyonel verimlilik&lt;/li&gt;
+&lt;li&gt;Finansal işlemlerde tüm aşamalardaki hareketler kayıt altına alınır&lt;/li&gt;
+&lt;li&gt;POS, ATM, internet, mobil, switch, otorizasyon, ve entegrasyon protokollerindeki aktivitelerin takibi&lt;/li&gt;
+&lt;li&gt;Her aşamada kontrol ve takip sağlanır&lt;/li&gt;
+&lt;li&gt;Manuel senaryolar ve kural setleri tanımlanabilir&lt;/li&gt;
+&lt;li&gt;Makine öğrenmesi ve yapay zeka motoru kullanılır&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;div class=&#34;mermaid&#34;&gt;    graph LR
-    A[Manuel Süreç] --&gt; B[Zaman Kaybı]
-    A --&gt; C[Hatalar]
-    A --&gt; D[Stres]
-    E[ReportRecon] --&gt; F[Otomasyon]
-    F --&gt; G[15dk İş]
-    F --&gt; H[%99.9 Doğruluk]
-    F --&gt; I[Huzurlu Ekip]
-    style A fill:#9A4042,stroke:#333,stroke-width:4px
-    style E fill:#4CAF50,stroke:#333,stroke-width:4px
-&lt;/div&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-auto-animate=&#34;true&#34;
-  &gt;
-
-&lt;h1 id=&#34;reportrecon-çözümü&#34;&gt;ReportRecon Çözümü&lt;/h1&gt;
-&lt;div class=&#34;r-hstack justify-center&#34;&gt;
-&lt;p&gt;✓ Günlük otomatik rapor oluşturma&lt;/p&gt;
-&lt;p&gt;✓ Validasyon kontrolleri&lt;/p&gt;
-&lt;p&gt;✓ Web tabanlı önizleme&lt;/p&gt;
-&lt;p&gt;✓ Otomatik SFTP entegrasyonu&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;reportrecon-avantajları&#34;&gt;ReportRecon Avantajları&lt;/h1&gt;
-&lt;div class=&#34;r-hstack&#34;&gt;
-&lt;div&gt;
-&lt;p&gt;✓ Durum izleme ve bildirimler&lt;/p&gt;
-&lt;p&gt;✓ E-posta uyarı sistemi&lt;/p&gt;
-&lt;/div&gt;
-&lt;div&gt;
-&lt;p&gt;✓ Finansal denetim uyumluluğu&lt;/p&gt;
-&lt;p&gt;✓ KVKK uyumlu altyapı&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;✓ Yüksek güvenlik standartları&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background=&#34;#002b36&#34;
-  &gt;
-
-&lt;h1 id=&#34;hızlı-kurulum&#34;&gt;Hızlı Kurulum&lt;/h1&gt;
+&lt;h4 id=&#34;360-derece-finansal-sistem-koruması---2&#34;&gt;360 derece finansal sistem koruması - 2&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Mevcut sistemlerle kolay entegrasyon&lt;/li&gt;
-&lt;li&gt;Minimum IT desteği&lt;/li&gt;
-&lt;li&gt;Hızlı devreye alma&lt;/li&gt;
-&lt;li&gt;Uzman destek ekibi&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Verilerin toplanması entegrasyon gerektirmez, doğrudan ağ altyapısından alınır&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kayıtlar kablodan geçen verinin şifresi çözülerek toplanır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kayıtlar toplanırken sunucular ve sistemlerde ek yük oluşturmaz dolayısıyla ağ performansı düşmez.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Teknik olarak, ağ cihazlarının port yansıtma özelliği kullanılır. Her aşamadaki trafik, analiz sunucusuna yansıtılır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yakalanan işlemler izlemeye düşürülür ya da FİNANSAL GÜVENLİK DUVARI ile engellenir&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- Bize danışabilirsiniz. --&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;öneri&#34;&gt;Öneri&lt;/h3&gt;
+&lt;p&gt;Tek bir çözümle finansal ağın uçtan uca izlenmesi, tüm işlemlerin her birinin uygunluk kontrollerinin kural bazlı ve yapay zeka bazlı olarak yapılması.&lt;/p&gt;
+&lt;p&gt;Böylece henüz tespit edilmemiş zararlı yazılımların ATM&amp;rsquo;den para çekilmesi gibi tehditlerine karşı koruma sağlanmış olur&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;inetco-bullzai&#34;&gt;INETCO BullzAI&lt;/h3&gt;
+&lt;p&gt;ile&lt;/p&gt;
+&lt;h4 id=&#34;span-stylecolororangebankacılık-ağlarını-güvence-altına-almak-span&#34;&gt;&lt;span style=&#34;color:orange;&#34;&gt;Bankacılık Ağlarını Güvence Altına Almak &lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;FASTCash Dolandırıcılığına Karşı Koruma sağlamak mümkündür&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;harekete-geçin&#34;&gt;Harekete Geçin!&lt;/h1&gt;
-&lt;p&gt;BTRANS ve benzeri raporlama ihtiyaçlarınız için:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Profesyonel çözüm&lt;/li&gt;
-&lt;li&gt;Uzman destek&lt;/li&gt;
-&lt;li&gt;Kolay yönetim&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Finansal altyapılarınızı APT gibi karmaşık tehditlere karşı INETCO ürünlerini kullanarak koruyabilirsiniz.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Detaylı bilgi için bizimle iletişime geçin&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;İletişim formu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WhatsApp sohbeti &lt;a href=&#34;https://wa.me/message/Q64CBO6X4W3OC1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;başlatın&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Diğer iletişim seçeneklerini &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;görüntüleyin&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -423,7 +520,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Recon Consulting&#34; srcset=&#34;
                /media/logo_hu5270443620787686767.webp 400w,
                /media/logo_hu7388783298510269954.webp 760w,
                /media/logo_hu2847687087327708382.webp 1200w&#34;
@@ -433,59 +530,6 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;resmi-raporlama-çözümü&#34;&gt;Resmi Raporlama Çözümü&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;ReportRecon&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Resmi raporlama, titizlikle yürütülmesi gereken bir süreçtir.&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;resmi-rapor-hazırlama-ihtiyacı&#34;&gt;Resmi rapor hazırlama ihtiyacı&lt;/h2&gt;
-&lt;p&gt;Regülasyona tabi birçok kuruluş,&lt;/p&gt;
-&lt;p&gt;Her gün çeşitli raporlar hazırlamaktadırlar.&lt;/p&gt;
-&lt;p&gt;Hazırlanan raporları düzenleyici kurumlarla paylaşmaktadırlar.&lt;/p&gt;
-&lt;h4 id=&#34;içeriklerin-doğru-ve-kurallara-uygun-olması-gerekmektedir&#34;&gt;İçeriklerin doğru ve kurallara uygun olması gerekmektedir&lt;/h4&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;resmi-raporlarda-titiz-kontrol-gereksinimi&#34;&gt;Resmi raporlarda titiz kontrol gereksinimi&lt;/h2&gt;
-&lt;p&gt;Verilerin hazırlanması aşamasında dikkat ve efor gerekmektedir.&lt;/p&gt;
-&lt;p&gt;Verilerin kontrol edilmesi gerekmektedir.&lt;/p&gt;
-&lt;h4 id=&#34;içeriğin-kurallara-uygun-olması-ve-kurumun-tanımladığı-validasyondan-geçmesi-sağlanmalıdır&#34;&gt;İçeriğin kurallara uygun olması ve kurumun tanımladığı validasyondan geçmesi sağlanmalıdır.&lt;/h4&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;içeriklerde-uyumsuzluk-olması-durumunda&#34;&gt;İçeriklerde uyumsuzluk olması durumunda&lt;/h3&gt;
-&lt;p&gt;Verilerin resmi kurumun istediği standartlarda olmaması hatalara sebep olabilmektedir.&lt;/p&gt;
-&lt;p&gt;Bu süreçlerde ekipler tarafından verilerin kontrolü, elle resmi kurum sunucularına iletmeleri efor gerektirir.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;manuel-kontrollerde-hatalar-olması-durumunda&#34;&gt;Manuel kontrollerde hatalar olması durumunda&lt;/h3&gt;
-&lt;p&gt;Raporlama ile ilgili çalışan kişilerin gün içerisinde kurum SFTP sunucularında kontrol yapmak ve hata düzeltmeleriyle ilgilenmeleri, düzeltilen kayıtların akıbetini takip etmeleri gerekmektedir.&lt;/p&gt;
-&lt;p&gt;Gözden kaçan kayıtlar olursa bunların yansıması müşterilerin çeşitli resmi süreçlerini etkileyebilir.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;verilerin-saklanmasına-dair-beklentiler&#34;&gt;Verilerin saklanmasına dair beklentiler&lt;/h3&gt;
-&lt;p&gt;Resmi kurumlar, raporlanan verilerin saklanmasını, öngörülen 10 yıl boyunca raporlama yapılan kayıtlara erişilebilir olmasını talep edebilmektedirler.&lt;/p&gt;
-&lt;p&gt;Bazı raporlamaların mali sonuçlar doğurabilmesinden dolayı, itiraz süreçlerinde kanıt olarak saklanabilmesi amacıyla, kayıtların gönderen kuruluş tarafında kolayca takip edilebilecek şekilde tutulması önerilmektedir.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;verilerin-saklanmasına-dair-beklentiler-1&#34;&gt;Verilerin saklanmasına dair beklentiler&lt;/h3&gt;
-&lt;p&gt;Raporlanan verilerin işlendiğine dair durum (status) bilgilerinin otomatik olarak işlenerek saklanması, bu değerlere göre eğer hata varsa ilgili verilerin kaynağında düzeltilmesini sağlamak ve hatalı kayıtlarla ilgili düzeltme göndermek gereklidir.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;raporlama-otomasyonu&#34;&gt;Raporlama otomasyonu&lt;/h2&gt;
-&lt;p&gt;Dolayısıyla raporlama ve takip süreci, çift taraflı veri akışı ve güncelleme gerektiren bir kurgu gerektirmektedir.&lt;/p&gt;
-&lt;p&gt;Böyle bir kurgu otomasyon olmaksızın çok zorlayıcı olacaktır.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;ReportRecon&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ReportRecon&lt;/strong&gt;, aşağıdaki özelliklere sahiptir&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Günlük otomatik rapor oluşturma&lt;/li&gt;
-&lt;li&gt;Raporların kurum validasyon kriterlerine uygunluğunun sağlanması&lt;/li&gt;
-&lt;li&gt;Raporları web üzerinden önizleme&lt;/li&gt;
-&lt;li&gt;Otomatik SFTP sunucusuna yükleme&lt;/li&gt;
-&lt;li&gt;Gönderilen raporlara ait akıbeti izleme&lt;/li&gt;
-&lt;li&gt;Gönderim sorunları ve akıbetle ilgili e-posta bildirimleri&lt;/li&gt;
-&lt;li&gt;Finansal denetim kriterlerine ve KVKK gibi regülasyonlara uygunluk&lt;/li&gt;
-&lt;li&gt;Yüksek veri güvenliği&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;kurulum-ve-devreye-alma&#34;&gt;Kurulum ve devreye alma&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;ReportRecon&lt;/strong&gt;, sunucularınıza kurularak kısa sürede devreye alınabilmektedir.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;hemen-harekete-geçin&#34;&gt;Hemen Harekete Geçin&lt;/h2&gt;
-&lt;p&gt;BTRANS gibi düzenli resmi raporlama ihtiyacınız varsa, siz de hemen ReportRecon kullanmaya başlayın, raporlama süreçlerinizi uzman desteği ile kolayca kurgulayın ve yönetin.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -504,51 +548,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/logo_hu5270443620787686767.webp 400w,
-               /media/logo_hu7388783298510269954.webp 760w,
-               /media/logo_hu2847687087327708382.webp 1200w&#34;
-               src=&#34;https://recon.com.tr/media/logo_hu5270443620787686767.webp&#34;
-               width=&#34;700&#34;
-               height=&#34;40&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;INETCO&#34;
+           src=&#34;https://recon.com.tr/media/inetco-logo.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/logo_hu5270443620787686767.webp 400w,
-               /media/logo_hu7388783298510269954.webp 760w,
-               /media/logo_hu2847687087327708382.webp 1200w&#34;
-               src=&#34;https://recon.com.tr/media/logo_hu5270443620787686767.webp&#34;
-               width=&#34;700&#34;
-               height=&#34;40&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Teklif almak için bilgilerinizi bırakın, sizi arayalım.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mail: &lt;a href=&#34;mailto:info@recon.com.tr&#34;&gt;info@recon.com.tr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;WhatsApp: &lt;a href=&#34;https://wa.me/message/Q64CBO6X4W3OC1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;+90 850 309 0 123&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;İletişim formu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

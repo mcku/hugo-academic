@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var slides = { "auto-animate": true, diagram: true, highlight_style: "dracula", theme: "black", title: "ReportRecon", transition: "slide" };
+  var slides = { highlight_style: "dracula", theme: "black" };
 
   // <stdin>
   var enabledPlugins = [RevealMarkdown, RevealSearch, RevealNotes, RevealMath.KaTeX, RevealZoom];
