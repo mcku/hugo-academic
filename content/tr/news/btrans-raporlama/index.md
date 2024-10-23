@@ -36,6 +36,7 @@ tags:
 
 categories:
   # - Haberler
+slides: btrans-sunum
 ---
 
 ## Giriş

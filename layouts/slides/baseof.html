@@ -3,6 +3,8 @@
 <html lang="{{ site.LanguageCode | default "en-us" }}">
 <head>
 
+ {{ partial "blox_seo" . }}
+
   {{/* Asset versions */}}
   {{ $cdn_url_reveal := "https://cdn.jsdelivr.net/npm/reveal.js@5.0.4" }}
   {{ $mermaid_version := "9.1.3" }}

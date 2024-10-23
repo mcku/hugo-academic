@@ -1,6 +1,6 @@
 ---
 title: "BTRANS raporlama otomasyonu"
-summary: BTRANS raporlamalarının otomatik olarak hazırlanması, GİB'e gönderilmesi, durum takibinin yapılması
+summary: BTRANS raporlamalarının otomatik olarak hazırlanması, GİB'e gönderilmesi, durum takibinin yapılması, resmi raporlama
 tags:
   - Fintek
   - Raporlama
