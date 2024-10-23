@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustafa Kuşçu | Recon Technology Consulting</title>
+    <link>http://localhost:1313/en/authors/admin-copy/</link>
+      <atom:link href="http://localhost:1313/en/authors/admin-copy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mustafa Kuşçu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/en/authors/admin-copy/avatar_hu13187832061163885988.png</url>
+      <title>Mustafa Kuşçu</title>
+      <link>http://localhost:1313/en/authors/admin-copy/</link>
+    </image>
+    
+  </channel>
+</rss>
