@@ -3,6 +3,166 @@
 <html lang="tr">
 <head>
 
+ 
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-85T4VZE2QZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-85T4VZE2QZ', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5BC8KV4W');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Recon Technology Consulting" />
+
+
+
+
+
+  
+
+<meta name="description" content="Raporların hazırlanması, gönderilmesi ve akıbet takibi" />
+
+
+
+<link rel="alternate" hreflang="tr" href="https://recon.com.tr/slides/btrans-sunum/" />
+<link rel="canonical" href="https://recon.com.tr/slides/btrans-sunum/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu17542137736495211104.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu5550081672525880955.png" />
+
+<meta name="theme-color" content="#fff" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://recon.com.tr/media/sharing.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Recon Technology Consulting" />
+<meta property="og:url" content="https://recon.com.tr/slides/btrans-sunum/" />
+<meta property="og:title" content="ReportRecon resmi raporlama çözümü | Recon Technology Consulting" />
+<meta property="og:description" content="Raporların hazırlanması, gönderilmesi ve akıbet takibi" /><meta property="og:image" content="https://recon.com.tr/media/sharing.png" /><meta property="og:locale" content="tr" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2024-10-21T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2024-10-21T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
   
   
   
