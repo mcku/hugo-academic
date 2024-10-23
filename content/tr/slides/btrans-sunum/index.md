@@ -28,11 +28,13 @@ slides:
 
 _Raporlama süreçlerinizde mükemmel uyum_
 
+![](/logo.png)
+
 ---
 
 {{<slide auto-animate="true" background-gradient="linear-gradient(to bottom, #283048, #655348)">}}
 
-# Kurumsal Raporlama İhtiyacı
+### Kurumsal Raporlama İhtiyacı
 
 - Regülasyona tabi kuruluşlar için zorunlu raporlamalar <!-- .element: class="fragment" -->
 - Düzenleyici kurumlarla günlük veri paylaşımı <!-- .element: class="fragment" -->
@@ -43,7 +45,7 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 {{<slide auto-animate="true" background-gradient="linear-gradient(to bottom, #283048, #655348)">}}
 
-# Raporlama Süreçlerinde Hassasiyet
+### Raporlama Süreçlerinde Hassasiyet
 
 - Veri hazırlama sürecinde yüksek dikkat ihtiyacı
 - Detaylı kontrol gereksinimleri
@@ -55,7 +57,7 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 {{<slide auto-animate="true" transition="zoom" background="#9A4042">}}
 
-# Manuel Süreçlerin Zorlukları
+### Manuel Süreçlerin Zorlukları
 
 <div class="r-hstack">
 {{<fragment class="fade-in" >}}
@@ -70,7 +72,7 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 {{<slide auto-animate="true" background="#7A5042">}}
 
-# Veri Saklama Gereksinimleri
+### Veri Saklama Gereksinimleri
 
 - 10 yıllık yasal saklama süresi
 - Mali denetim gereksinimleri
@@ -81,7 +83,7 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 {{<slide auto-animate="true" background="#7A5042">}}
 
-# Veri İzleme Gereksinimleri
+### Veri İzleme Gereksinimleri
 
 - Otomatik durum (status) takibi
 - Hatalı kayıtların tespiti
@@ -92,7 +94,7 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 {{<slide auto-animate="true" background="#4A90E2">}}
 
-# Neden Otomasyon Gerekli?
+### Neden Otomasyon Gerekli?
 
 - Çift yönlü veri akışı
 - Sürekli güncelleme ihtiyacı
@@ -103,7 +105,7 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 {{<slide auto-animate="true" background="#3A7032">}}
 
-# ReportRecon Çözümü
+### ReportRecon Çözümü
 
 ✓ Günlük otomatik rapor oluşturma
 
@@ -117,7 +119,7 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 {{<slide auto-animate="true" background="#3A7032">}}
 
-# ReportRecon Avantajları
+### ReportRecon Avantajları
 
 <div class="r-hstack">
 <div>
@@ -142,7 +144,7 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 {{<slide background="#002b36">}}
 
-# Hızlı Kurulum
+### Hızlı Kurulum
 
 - Mevcut sistemlerle kolay entegrasyon
 - Düşük IT kaynak gereksinimi
@@ -151,7 +153,7 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 ---
 
-# Harekete Geçin!
+### Harekete Geçin!
 
 BTRANS ve benzeri raporlama ihtiyaçlarınız için:
 
