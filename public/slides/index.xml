@@ -213,6 +213,9 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
+      data-auto-animate=&#34;true&#34;
+  
+      
       data-background=&#34;#002b36&#34;
   &gt;
 
@@ -224,6 +227,16 @@
 &lt;li&gt;Uzman destek ekibi ile güncellemeler&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate=&#34;true&#34;
+  
+      
+      data-background=&#34;#002b36&#34;
+  &gt;
+
 &lt;h3 id=&#34;harekete-geçin&#34;&gt;Harekete Geçin!&lt;/h3&gt;
 &lt;p&gt;BTRANS ve benzeri raporlama ihtiyaçlarınız için:&lt;/p&gt;
 &lt;ul&gt;
@@ -677,9 +690,10 @@ Böyle bir onay gelmeden ATM para verdiyse alarm üretmek&lt;/p&gt;
   &gt;
 
 &lt;h3 id=&#34;inetco-bullzai-ile&#34;&gt;INETCO BullzAI ile&lt;/h3&gt;
-&lt;p&gt;Tüm finansal işlemleri, yeni ortaya çıkmaya başlayan&lt;/p&gt;
+&lt;p&gt;Tüm finansal işlemleri,&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-  &lt;h3 id=&#34;sahtecilik-yöntemleri&#34;&gt;Sahtecilik yöntemleri&lt;/h3&gt;
+  &lt;p&gt;yeni ortaya çıkmaya başlayan&lt;/p&gt;
+&lt;h3 id=&#34;sahtecilik-yöntemleri&#34;&gt;Sahtecilik yöntemleri&lt;/h3&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
   &lt;h3 id=&#34;kara-para-aklama&#34;&gt;Kara para aklama&lt;/h3&gt;
@@ -792,7 +806,7 @@ Böyle bir onay gelmeden ATM para verdiyse alarm üretmek&lt;/p&gt;
       data-transition=&#34;zoom&#34;
   &gt;
 
-&lt;p&gt;Yeni tehditleri gerçek zamanlı olarak tespit eder&lt;/p&gt;
+&lt;p&gt;⏱️🛰️⚠️ Yeni tehditleri gerçek zamanlı olarak tespit eder&lt;/p&gt;
 &lt;p&gt;Her işlemi uçtan uca takip ederek anında ödeme sahteciliği,
 kara para aklama ve siber saldırıları tespit edin.&lt;/p&gt;
 &lt;hr&gt;
@@ -806,7 +820,7 @@ kara para aklama ve siber saldırıları tespit edin.&lt;/p&gt;
       data-transition=&#34;zoom&#34;
   &gt;
 
-&lt;p&gt;Yapay zeka destekli saldırıları önler&lt;/p&gt;
+&lt;p&gt;🤖🛡️🚫 Yapay zeka desteklidir, saldırıları önler&lt;/p&gt;
 &lt;p&gt;Her bir müşteri, kart ve cihaz için ayrı bağımsız davranışsal analiz sayesinde risk skorlama doğruluğunu artırır&lt;/p&gt;
 &lt;hr&gt;
 
@@ -816,9 +830,13 @@ kara para aklama ve siber saldırıları tespit edin.&lt;/p&gt;
       data-auto-animate=&#34;true&#34;
   
       
+      data-background=&#34;#002b36&#34;
+  
+      
       data-transition=&#34;zoom&#34;
   &gt;
 
+&lt;h3 id=&#34;bazı-güçlü-yönler&#34;&gt;Bazı güçlü yönler&lt;/h3&gt;
 &lt;p&gt;✅ Müşteriler korunurken, en aza indirilen yanlış pozitifler&lt;/p&gt;
 &lt;p&gt;✅ Kendi kendini eğiten güçlü AI modelleri&lt;/p&gt;
 &lt;p&gt;✅ Otomatik vaka yönetimi&lt;/p&gt;
@@ -931,9 +949,7 @@ kara para aklama ve siber saldırıları tespit edin.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;bullzai-farkını-deneyimleyin&#34;&gt;BullzAI farkını deneyimleyin&lt;/h2&gt;
 &lt;p&gt;Finansal işlemleri, müşterilerinizi ve altyapıları INETCO ürünlerini kullanarak koruyabilirsiniz.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Sizi arayalım.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;WhatsApp sohbeti &lt;a href=&#34;https://wa.me/message/Q64CBO6X4W3OC1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;başlatın&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Diğer iletişim seçeneklerini &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;görüntüleyin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;0850 309 0 123 | &lt;a href=&#34;https://wa.me/message/Q64CBO6X4W3OC1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WhatsApp&lt;/a&gt; | &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;web form&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 
 
