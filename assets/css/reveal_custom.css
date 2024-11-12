@@ -13,11 +13,21 @@
   z-index: 1000;
 }
 
-.reveal p {
-  margin: 0 0 20px 0;
+.reveal p,
+.reveal span,
+.reveal li {
+   {
+     {
+      /* margin: 0 0 20px 0; */
+    }
+  }
   color: #eee8d5;
   font-family: B612, sans-serif;
-  font-size: 0.8em;
+   {
+     {
+      /* font-size: 0.8em; */
+    }
+  }
   letter-spacing: 0.02em;
   text-transform: none;
   text-shadow: none;
@@ -29,7 +39,11 @@
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  margin: 0 0 20px 0;
+   {
+     {
+      /* margin: 0 0 20px 0; */
+    }
+  }
   color: #eee8d5;
   font-family: Jura, sans-serif;
 

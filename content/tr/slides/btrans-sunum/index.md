@@ -142,7 +142,7 @@ _Raporlama süreçlerinizde mükemmel uyum_
 
 ---
 
-{{<slide background="#002b36">}}
+{{<slide auto-animate="true" background="#002b36">}}
 
 ### Hızlı Kurulum
 
@@ -152,6 +152,8 @@ _Raporlama süreçlerinizde mükemmel uyum_
 - Uzman destek ekibi ile güncellemeler
 
 ---
+
+{{<slide auto-animate="true" background="#002b36">}}
 
 ### Harekete Geçin!
 
