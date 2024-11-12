@@ -1,0 +1,795 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+
+ 
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-85T4VZE2QZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-85T4VZE2QZ', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5BC8KV4W');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Recon Technology Consulting" />
+
+
+
+
+
+  
+
+<meta name="description" content="INETCO BullzAI 360 derece yaklaşımı, yapay zekalı finansal ağ geçidi uygulanması" />
+
+
+
+<link rel="alternate" hreflang="tr" href="https://recon.com.tr/slides/finance-fraud-360/" />
+<link rel="canonical" href="https://recon.com.tr/slides/finance-fraud-360/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu17542137736495211104.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu5550081672525880955.png" />
+
+<meta name="theme-color" content="#fff" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://recon.com.tr/media/sharing.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Recon Technology Consulting" />
+<meta property="og:url" content="https://recon.com.tr/slides/finance-fraud-360/" />
+<meta property="og:title" content="Inetco BullzAI farkı | Recon Technology Consulting" />
+<meta property="og:description" content="INETCO BullzAI 360 derece yaklaşımı, yapay zekalı finansal ağ geçidi uygulanması" /><meta property="og:image" content="https://recon.com.tr/media/sharing.png" /><meta property="og:locale" content="tr" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2024-10-15T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2024-10-15T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Hugo Blox Builder 5.9.7">
+
+  
+    <link rel="manifest" href="/manifest.webmanifest">
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu17542137736495211104.png">
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu15170699741941291020.png">
+
+  <link rel="canonical" href="https://recon.com.tr/slides/finance-fraud-360/">
+
+  <title>Inetco BullzAI farkı | Recon Technology Consulting</title>
+
+  
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=B612+Mono&family=B612:wght@400;700&family=Jura:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=B612+Mono&family=B612:wght@400;700&family=Jura:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/theme/black.min.css">
+
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css">
+  
+
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/reveal_custom.min.css">
+  
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-background-gradient="linear-gradient(to bottom, #283048, #655348)"
+  >
+
+<h3 id="finansal-işlemlere-360-derece-koruma">Finansal işlemlere 360 derece koruma</h3>
+<p>Finansal ve siber tehditlere bütünleşik karşı koyma</p>
+<p><a href="https://www.inetco.com" target="_blank" rel="noopener">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt=""
+           src="/media/inetco-logo.svg"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+</a></p>
+<p><a href="https://www.recon.com.tr" target="_blank" rel="noopener"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="️"
+           src="/media/logo_oneline.svg"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+ </a></p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<p>Her ödemenin güvenli olduğu,</p>
+<span class="fragment " >
+  Her işlemin korunduğu,
+</span>
+<br>
+<span class="fragment " >
+  Müşterilerin uyumlu ve güvende kaldığı
+</span>
+<br>
+<span class="fragment " >
+  <h2 id="bir-dünya-hayal-edin">BİR DÜNYA HAYAL EDİN</h2>
+</span>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<h3 id="inetco-bullzai-ile">INETCO BullzAI ile</h3>
+<p>Tüm finansal işlemleri, yeni ortaya çıkmaya başlayan</p>
+<span class="fragment " >
+  <h3 id="sahtecilik-yöntemleri">Sahtecilik yöntemleri</h3>
+</span>
+<span class="fragment " >
+  <h3 id="kara-para-aklama">Kara para aklama</h3>
+</span>
+<span class="fragment " >
+  <h3 id="siber-saldırılar">Siber saldırılar</h3>
+<p>etkilerine karşı, müşteri deneyiminden ödün vermeksizin koruyun</p>
+</span>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<h3 id="inetco-bullzai">INETCO BullzAI</h3>
+<p>👮 Veriyi gerçek zamanlı yakalar</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<p>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<video controls  autoplay loop  >
+  <source src="/media/videos/capture_real_time.mp4" type="video/mp4">
+</video>
+
+✅ Her işlemin her aşamasını görerek, sıradışı paternleri, eksik adımları, işlem yollarındaki sapmaları, mesaj manipülasyonlarını, ele geçirilmiş bileşenleri bulur</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+<p>
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+✅ Yeni sahtecilik taktiklerini anında kritik unsurlarıyla beraber tanımlar</p>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<video controls  autoplay loop  >
+  <source src="/media/videos/advanced_insights.mp4" type="video/mp4">
+</video>
+
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<p>👮 Diğer sistemlerin tespit edemediği saldırılara karşı korur</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<p>Yeni tehditleri gerçek zamanlı olarak tespit eder</p>
+<p>Her işlemi uçtan uca takip ederek anında ödeme sahteciliği,
+kara para aklama ve siber saldırıları tespit edin.</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<p>Yapay zeka destekli saldırıları önler</p>
+<p>Her bir müşteri, kart ve cihaz için ayrı bağımsız davranışsal analiz sayesinde risk skorlama doğruluğunu artırır</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<p>✅ Müşteriler korunurken, en aza indirilen yanlış pozitifler</p>
+<p>✅ Kendi kendini eğiten güçlü AI modelleri</p>
+<p>✅ Otomatik vaka yönetimi</p>
+<p>✅ Detay seviyesindeki veri alanları kullanarak zararlı işlemleri hassasiyetle durdurma</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<h2 id="-güvenebileceğiniz-temel-koruma-özellikleri">🛡️ Güvenebileceğiniz temel koruma özellikleri</h2>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<h3 id="-kara-para-aklamayla-mücadele">🚫💵♻️ Kara para aklamayla mücadele</h3>
+<p>🕵️‍♀️📋 Uygunsuz kaydolma</p>
+<p>🌐🚩 Sınır ötesi faaliyetler</p>
+<p>💵🐾 Para aktarıcılar</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<h3 id="-ödeme-sahteciliği">💸 Ödeme sahteciliği</h3>
+<p>💳/📲 Kart mevcut / mevcut değil durumları</p>
+<p>👤🔒➡️🔓 Hesap ele geçirme</p>
+<p>🔐💳 Çalıntı kart</p>
+<p>🏦💳💰🚨 Direct debit ve payment card sahteciliği</p>
+<p>🕵️‍♂️💳 Skimming</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<h3 id="-iç-sahtecilik">🏢🕶️ İç Sahtecilik</h3>
+<p>💸➡️💳 Para transferleri</p>
+<p>✍️🔄💬 İşlem mesaj bilgileri manipülasyonu</p>
+<p>🖥️🐛🌐 Uzaktan malware zararlı yazılım dağıtım ve kontrolü</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<h3 id="-gelişmiş-kalıcı-tehditler-apt">🎯🕵️‍♂️💻 Gelişmiş Kalıcı Tehditler (APT)</h3>
+<p>🔗🕴️🔗 Ortadaki adam saldırıları</p>
+<p>🏧💵💳 Para çekme saldırıları</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-transition="zoom"
+  >
+
+<h3 id="siber-suçlar">Siber suçlar</h3>
+<p>BIN saldırıları</p>
+<p>🖥️💥 Terminal saldırıları</p>
+<p>🧑‍💻🔐📄 Kimlik doldurma saldırıları (veri ihlali kaynaklı, vb)</p>
+<p>DDOS saldırıları</p>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate="true"
+  
+      
+      data-background-gradient="linear-gradient(to bottom, #283048, #655348)"
+  
+      
+      data-transition="zoom"
+  >
+
+<p>Ödeme hizmetlerinin ihtiyacı olan innovasyonu yapmaya hazır</p>
+<p>Çünkü yapabiliyor</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="bullzai-farkını-deneyimleyin">BullzAI farkını deneyimleyin</h2>
+<p>Finansal işlemleri, müşterilerinizi ve altyapıları INETCO ürünlerini kullanarak koruyabilirsiniz.</p>
+<p><em>Sizi arayalım.</em></p>
+<p>WhatsApp sohbeti <a href="https://wa.me/message/Q64CBO6X4W3OC1" target="_blank" rel="noopener">başlatın</a></p>
+<p>Diğer iletişim seçeneklerini <a href="/contact">görüntüleyin</a></p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Recon Consulting" srcset="
+               /media/logo_hu5270443620787686767.webp 400w,
+               /media/logo_hu7388783298510269954.webp 760w,
+               /media/logo_hu2847687087327708382.webp 1200w"
+               src="/media/logo_hu5270443620787686767.webp"
+               width="700"
+               height="40"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="INETCO"
+           src="/media/inetco-logo.svg"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/plugin/search/search.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/plugin/math/math.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
+
+  
+  
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/plugin.js" integrity="sha256-M6JwAjnRAWmi+sbXURR/yAhWZKYhAw7YXnnLvIxrdGs=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.js" integrity="sha256-l14dklFcW5mWar6w/9KaW0fWVerf3mYr7Wt0+rXzFAA=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.css" integrity="sha256-0fU8HKLaTjgzfaV9CgSqbsN8ilA3zo6zK1M6rlgULd8=" crossorigin="anonymous">
+  
+
+  
+  
+
+  
+  
+  <script src="/js/wowchemy-slides.js"></script>
+
+</body>
+</html>
