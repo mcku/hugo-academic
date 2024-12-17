@@ -1,6 +1,6 @@
 ---
-title: Finansal sahtecilik tespit aracı
-summary: Temel finansal sahtecilik tespit çözümü. Tanımlanan kurallara göre işlem izlemeyi ve sahte olabilecek işlemleri yakalamayı & durdurmayı sağlar.
+title: Temel finansal sahtecilik tespit aracı
+summary: Tanımlanan kurallara göre işlem izlemeyi ve sahte olabilecek işlemleri yakalamayı & durdurmayı sağlar. Kendimiz geliştiriyoruz.
 tags:
   - Fintek
   - Fraud

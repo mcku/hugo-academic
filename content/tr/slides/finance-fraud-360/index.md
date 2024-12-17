@@ -17,6 +17,22 @@ slides:
   highlight_style: dracula
 ---
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+  const isTouchDevice = window.screen.width < 769 || 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+
+  if (isTouchDevice) {
+    // Dokunmatik cihazlarda "desktop-only" içeriğini gizle
+    document.querySelectorAll('.desktop-only').forEach(el => el.style.display = 'none');
+    document.querySelectorAll('.mobile-only').forEach(el => el.style.display = 'block');
+  } else {
+    // Masaüstü cihazlarda "mobile-only" içeriğini gizle
+    document.querySelectorAll('.mobile-only').forEach(el => el.style.display = 'none');
+    document.querySelectorAll('.desktop-only').forEach(el => el.style.display = 'block');
+  }
+});
+</script>
+
 {{<slide auto-animate="true"  background-gradient="linear-gradient(to bottom, #283048, #655348)">}}
 
 ### Finansal işlemlere 360 derece koruma
@@ -24,8 +40,10 @@ slides:
 Finansal ve siber tehditlere bütünleşik karşı koyma
 
 [![](/inetco-logo.svg)](https://www.inetco.com)
+[![️](/logo_oneline.svg) ](https://www.recon.com.tr)
 
-[ ![️](/logo_oneline.svg) ](https://www.recon.com.tr)
+<h5 class="mobile-only" >Devam etmek için içeriği kaydırın.</h5>
+<h5 class="desktop-only" >Devam etmek için yönlendirme oklarını kullanın 👉</h5>
 
 ---
 
@@ -33,23 +51,15 @@ Finansal ve siber tehditlere bütünleşik karşı koyma
 
 Her ödemenin güvenli olduğu,
 
-{{% fragment %}}
-
 Her işlemin korunduğu,
 
-{{% /fragment %}}
 <br>
-{{% fragment %}}
 
 Müşterilerin uyumlu ve güvende kaldığı
 
-{{% /fragment %}}
 <br>
-{{% fragment %}}
 
 ## BİR DÜNYA HAYAL EDİN
-
-{{% /fragment %}}
 
 ---
 
@@ -59,26 +69,15 @@ Müşterilerin uyumlu ve güvende kaldığı
 
 Tüm finansal işlemleri,
 
-{{% fragment %}}
 yeni ortaya çıkmaya başlayan
 
 ### Sahtecilik yöntemleri
 
-{{% /fragment %}}
-
-{{% fragment %}}
-
 ### Kara para aklama
-
-{{% /fragment %}}
-
-{{% fragment %}}
 
 ### Siber saldırılar
 
 etkilerine karşı, müşteri deneyiminden ödün vermeksizin koruyun
-
-{{% /fragment %}}
 
 ---
 
@@ -127,7 +126,7 @@ Her bir müşteri, kart ve cihaz için ayrı bağımsız davranışsal analiz sa
 
 ---
 
-{{<slide auto-animate="true" transition="zoom" background="#002b36">}}
+{{<slide auto-animate="true" autoslide="6000" transition="zoom" background="#002b36">}}
 
 ### Bazı güçlü yönler
 
@@ -159,7 +158,7 @@ Her bir müşteri, kart ve cihaz için ayrı bağımsız davranışsal analiz sa
 
 ---
 
-{{<slide auto-animate="true" transition="zoom" >}}
+{{<slide auto-animate="true" autoslide="6000" transition="zoom" >}}
 
 ### 💸 Ödeme sahteciliği
 
@@ -175,7 +174,7 @@ Her bir müşteri, kart ve cihaz için ayrı bağımsız davranışsal analiz sa
 
 ---
 
-{{<slide auto-animate="true" transition="zoom" >}}
+{{<slide auto-animate="true" autoslide="6000" transition="zoom" >}}
 
 ### 🏢🕶️ İç Sahtecilik
 
@@ -197,7 +196,7 @@ Her bir müşteri, kart ve cihaz için ayrı bağımsız davranışsal analiz sa
 
 ---
 
-{{<slide auto-animate="true" transition="zoom" >}}
+{{<slide auto-animate="true" autoslide="4000" transition="zoom" >}}
 
 ### Siber suçlar
 

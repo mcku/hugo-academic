@@ -128,8 +128,11 @@ security:
 
 slides:
   reveal_options:
-    auto_slide: 3000
-    menu_enabled: true
-    embedded: true
+    auto_slide: 3300
+    # menu_enabled: undefined
+    # embedded: true
+    controls_tutorial: true
+    help: true
+    viewDistance: 0
 # enableReveal: true
 

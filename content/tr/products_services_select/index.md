@@ -29,6 +29,8 @@ sections:
           tag: "*"
         - name: Fraud
           tag: Fraud
+        - name: Ödeme
+          tag: Ödeme
         - name: Cüzdan
           tag: Cüzdan
         - name: Raporlama
