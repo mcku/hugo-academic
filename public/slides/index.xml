@@ -663,6 +663,9 @@ Böyle bir onay gelmeden ATM para verdiyse alarm üretmek&lt;/p&gt;
       data-auto-animate=&#34;true&#34;
   
       
+      data-autoslide=&#34;1500&#34;
+  
+      
       data-transition=&#34;zoom&#34;
   &gt;
 
@@ -723,6 +726,9 @@ Böyle bir onay gelmeden ATM para verdiyse alarm üretmek&lt;/p&gt;
       data-auto-animate=&#34;true&#34;
   
       
+      data-autoslide=&#34;8000&#34;
+  
+      
       data-transition=&#34;zoom&#34;
   &gt;
 
@@ -757,7 +763,10 @@ Böyle bir onay gelmeden ATM para verdiyse alarm üretmek&lt;/p&gt;
       data-auto-animate=&#34;true&#34;
   
       
-      data-transition=&#34;zoom&#34;
+      data-autoslide=&#34;8000&#34;
+  
+      
+      data-slidetransition=&#34;zoom&#34;
   &gt;
 
 ✅ Yeni sahtecilik taktiklerini anında kritik unsurlarıyla beraber tanımlar&lt;/p&gt;
@@ -947,9 +956,22 @@ kara para aklama ve siber saldırıları tespit edin.&lt;/p&gt;
 &lt;p&gt;Ödeme hizmetlerinin ihtiyacı olan innovasyonu yapmaya hazır&lt;/p&gt;
 &lt;p&gt;Çünkü yapabiliyor&lt;/p&gt;
 &lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-auto-animate=&#34;true&#34;
+  
+      
+      data-autoslide=&#34;15000&#34;
+  
+      
+      data-transition=&#34;zoom&#34;
+  &gt;
+
 &lt;h2 id=&#34;bullzai-farkını-deneyimleyin&#34;&gt;BullzAI farkını deneyimleyin&lt;/h2&gt;
 &lt;p&gt;Finansal işlemleri, müşterilerinizi ve altyapıları INETCO ürünlerini kullanarak koruyabilirsiniz.&lt;/p&gt;
-&lt;p&gt;0850 309 0 123 | &lt;a href=&#34;https://wa.me/message/Q64CBO6X4W3OC1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WhatsApp&lt;/a&gt; | &lt;a href=&#34;https://recon.com.tr/contact&#34;&gt;web form&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;0850 309 0 123 | &lt;a href=&#34;https://wa.me/message/Q64CBO6X4W3OC1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WhatsApp&lt;/a&gt; | &lt;a href=&#34;https://recon.com.tr/contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web form&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 
 
