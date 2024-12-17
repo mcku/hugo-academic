@@ -39,8 +39,6 @@ categories:
 slides: btrans-sunum
 ---
 
-## Giriş
-
 Ülkemizde TCMB lisanslı ödeme hizmetleri ve elektronik para kuruluşlarının düzenli olarak yapmaları gereken çeşitli raporlamalar bulunmaktadır.
 Ödeme hizmetlerinin operasyonel iş yükü ve mevzuatın regülasyon yoğunluğu göz önünde bulundurulunduğunda, zaten kısıtlı olan karlılık, yüksek maliyetler ve zorluklar karşısında, yeni raporlamaları gerçekleştirmek firmalar üzerinde ağır ek yük ve sorumluluklar doğurmaktadır.
 

@@ -11,4 +11,7 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+  - path: github.com/ericswpark/hugo-iframe
+    disable: false
+  - path: github.com/anvithks/hugo-embed-pdf-shortcode
 replacements: "github.com/HugoBlox/hugo-blox-builder/modules/blox-core -> hugo-blox-builder/modules/blox-core, github.com/HugoBlox/hugo-blox-builder/modules/blox-seo -> hugo-blox-builder/modules/blox-seo, github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms -> hugo-blox-builder/modules/blox-plugin-decap-cms, github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal -> hugo-blox-builder/modules/blox-plugin-reveal, github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify -> hugo-blox-builder/modules/blox-plugin-netlify, github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 -> hugo-blox-builder/modules/blox-bootstrap"

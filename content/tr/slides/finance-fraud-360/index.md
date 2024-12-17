@@ -7,6 +7,9 @@ tags: []
 categories: []
 date: "2024-10-15T00:00:00Z"
 slides:
+  reveal_options:
+    auto_slide: 3000
+    loop: true
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
@@ -14,7 +17,7 @@ slides:
   highlight_style: dracula
 ---
 
-{{<slide auto-animate="true" background-gradient="linear-gradient(to bottom, #283048, #655348)">}}
+{{<slide auto-animate="true"  background-gradient="linear-gradient(to bottom, #283048, #655348)">}}
 
 ### Finansal işlemlere 360 derece koruma
 
@@ -26,7 +29,7 @@ Finansal ve siber tehditlere bütünleşik karşı koyma
 
 ---
 
-{{<slide auto-animate="true" transition="zoom" >}}
+{{<slide auto-animate="true" autoslide="1500" transition="zoom" >}}
 
 Her ödemenin güvenli olduğu,
 
@@ -87,14 +90,14 @@ etkilerine karşı, müşteri deneyiminden ödün vermeksizin koruyun
 
 ---
 
-{{<slide auto-animate="true" transition="zoom" >}}
+{{<slide auto-animate="true" autoslide="8000" transition="zoom" >}}
 
 {{< video src="videos/capture_real_time.mp4" autoplay="true" controls="yes">}}
 ✅ Her işlemin her aşamasını görerek, sıradışı paternleri, eksik adımları, işlem yollarındaki sapmaları, mesaj manipülasyonlarını, ele geçirilmiş bileşenleri bulur
 
 ---
 
-{{<slide auto-animate="true" transition="zoom" >}}
+{{<slide auto-animate="true" autoslide="8000" slidetransition="zoom" >}}
 ✅ Yeni sahtecilik taktiklerini anında kritik unsurlarıyla beraber tanımlar
 
 {{< video src="videos/advanced_insights.mp4" autoplay="true" controls="yes">}}
@@ -216,11 +219,13 @@ DDOS saldırıları
 
 ---
 
+{{<slide auto-animate="true" transition="zoom" autoslide="15000" >}}
+
 ## BullzAI farkını deneyimleyin
 
 Finansal işlemleri, müşterilerinizi ve altyapıları INETCO ürünlerini kullanarak koruyabilirsiniz.
 
-0850 309 0 123 | [WhatsApp](https://wa.me/message/Q64CBO6X4W3OC1) | [web form](/contact)
+0850 309 0 123 | [WhatsApp](https://wa.me/message/Q64CBO6X4W3OC1) | [web form](https://recon.com.tr/contact)
 
 ![Recon Consulting](/logo.png)
 
