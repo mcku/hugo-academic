@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var slides = { highlight_style: "dracula", reveal_options: { auto_slide: 3e3, loop: true }, theme: "black" };
+  var slides = { highlight_style: "dracula", theme: "black" };
 
   // <stdin>
   var enabledPlugins = [RevealMarkdown, RevealSearch, RevealNotes, RevealMath.KaTeX, RevealZoom];
@@ -38,7 +38,6 @@
     pluginOptions.menu_enabled = true;
   }
   if (pluginOptions.menu_enabled) {
-    enabledPlugins.push(RevealMenu);
   }
   pluginOptions["plugins"] = enabledPlugins;
   Reveal.initialize(pluginOptions);

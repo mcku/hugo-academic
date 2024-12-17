@@ -236,7 +236,22 @@
     
     
     
-      
+      <script>
+  document.addEventListener("DOMContentLoaded", function () {
+  const isTouchDevice = window.screen.width < 769 || 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+
+  if (isTouchDevice) {
+    // Dokunmatik cihazlarda "desktop-only" içeriğini gizle
+    document.querySelectorAll('.desktop-only').forEach(el => el.style.display = 'none');
+    document.querySelectorAll('.mobile-only').forEach(el => el.style.display = 'block');
+  } else {
+    // Masaüstü cihazlarda "mobile-only" içeriğini gizle
+    document.querySelectorAll('.mobile-only').forEach(el => el.style.display = 'none');
+    document.querySelectorAll('.desktop-only').forEach(el => el.style.display = 'block');
+  }
+});
+</script>
+
 <section data-noprocess data-shortcode-slide
   
       
@@ -270,8 +285,8 @@
            src="/media/inetco-logo.svg"
            loading="lazy" data-zoomable /></div>
   </div></figure>
-</a></p>
-<p><a href="https://www.recon.com.tr" target="_blank" rel="noopener"> 
+</a>
+<a href="https://www.recon.com.tr" target="_blank" rel="noopener">
 
 
 
@@ -294,6 +309,8 @@
            loading="lazy" data-zoomable /></div>
   </div></figure>
  </a></p>
+<h5 class="mobile-only" >Devam etmek için içeriği kaydırın.</h5>
+<h5 class="desktop-only" >Devam etmek için yönlendirme oklarını kullanın 👉</h5>
 
     </section>
     
@@ -316,17 +333,11 @@
   >
 
 <p>Her ödemenin güvenli olduğu,</p>
-<span class="fragment " >
-  Her işlemin korunduğu,
-</span>
+<p>Her işlemin korunduğu,</p>
 <br>
-<span class="fragment " >
-  Müşterilerin uyumlu ve güvende kaldığı
-</span>
+<p>Müşterilerin uyumlu ve güvende kaldığı</p>
 <br>
-<span class="fragment " >
-  <h2 id="bir-dünya-hayal-edin">BİR DÜNYA HAYAL EDİN</h2>
-</span>
+<h2 id="bir-dünya-hayal-edin">BİR DÜNYA HAYAL EDİN</h2>
 
     </section>
     
@@ -347,17 +358,11 @@
 
 <h3 id="inetco-bullzai-ile">INETCO BullzAI ile</h3>
 <p>Tüm finansal işlemleri,</p>
-<span class="fragment " >
-  <p>yeni ortaya çıkmaya başlayan</p>
+<p>yeni ortaya çıkmaya başlayan</p>
 <h3 id="sahtecilik-yöntemleri">Sahtecilik yöntemleri</h3>
-</span>
-<span class="fragment " >
-  <h3 id="kara-para-aklama">Kara para aklama</h3>
-</span>
-<span class="fragment " >
-  <h3 id="siber-saldırılar">Siber saldırılar</h3>
+<h3 id="kara-para-aklama">Kara para aklama</h3>
+<h3 id="siber-saldırılar">Siber saldırılar</h3>
 <p>etkilerine karşı, müşteri deneyiminden ödün vermeksizin koruyun</p>
-</span>
 
     </section>
     
@@ -541,6 +546,9 @@ kara para aklama ve siber saldırıları tespit edin.</p>
       data-auto-animate="true"
   
       
+      data-autoslide="6000"
+  
+      
       data-background="#002b36"
   
       
@@ -608,6 +616,9 @@ kara para aklama ve siber saldırıları tespit edin.</p>
       data-auto-animate="true"
   
       
+      data-autoslide="6000"
+  
+      
       data-transition="zoom"
   >
 
@@ -630,6 +641,9 @@ kara para aklama ve siber saldırıları tespit edin.</p>
   
       
       data-auto-animate="true"
+  
+      
+      data-autoslide="6000"
   
       
       data-transition="zoom"
@@ -673,6 +687,9 @@ kara para aklama ve siber saldırıları tespit edin.</p>
   
       
       data-auto-animate="true"
+  
+      
+      data-autoslide="4000"
   
       
       data-transition="zoom"

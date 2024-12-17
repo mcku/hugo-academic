@@ -5,12 +5,26 @@
     <link>https://recon.com.tr/products_services/</link>
       <atom:link href="https://recon.com.tr/products_services/index.xml" rel="self" type="application/rss+xml" />
     <description>Ürün ve Hizmetler</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://recon.com.tr/media/sharing.png</url>
       <title>Ürün ve Hizmetler</title>
       <link>https://recon.com.tr/products_services/</link>
     </image>
+    
+    <item>
+      <title>Üye işyeri ödeme yönetimi</title>
+      <link>https://recon.com.tr/products_services/payout_management/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/products_services/payout_management/</guid>
+      <description>&lt;p&gt;Lisanslı ödeme hizmet sağlayıcılarının tahsilat sonrası payout süreçlerini kolayca yönetebilecekler. RECON, lisanslı kuruluşlara yönelik çözümler geliştirmeye devam ediyor.&lt;/p&gt;
+&lt;p&gt;Ödeme hizmet sağlayıcıları yani PF&amp;rsquo;ler, fiziksel POS, mobil POS, sanal POS, ya da farklı yeni özgün yöntemler aracılığıyla tahsilat kanalları sunarlar. Bu kanallar üzerinden üye işyerlerinden tahsilat yapılır. Bu tahsilatlar, müşterilerin ödeme araçlarından alınan ödemeler halinde, PF sistemine ulaşır.&lt;/p&gt;
+&lt;p&gt;PF&amp;rsquo;ler, bu POS&amp;rsquo;ları ve benzer kanalları sağlamakla ödeme işlemlerini kolaylaştırır ve yönetirler. Fakat bu sadece işin bir kısmıdır.&lt;/p&gt;
+&lt;p&gt;PF&amp;rsquo;ler POS üzerinden gerçekleşen işlemlerden komisyon veya hizmet ücreti alarak gelir elde ederken, üye işyerleri adına tahsil ettikleri tutarları netleştirip onlara aktarırlar.&lt;/p&gt;
+&lt;p&gt;Eğer bir PF iseniz ve birden fazla ödeme ve tahsilat kanalına, birden fazla banka ile çalışıyorsanız, size ait bir çözüme ihtiyaç duyarsınız. Bu çözümü sıfırdan geliştirebileceğiniz ve bir yazılım ekibi barındırabileceğiniz gibi, uyarlanabilen bir modül olarak alıp sadece entegrasyon ve parametrelerin düzenlenmesiyle hızlıca devreye alabilirsiniz.&lt;/p&gt;
+&lt;p&gt;Bankalardan ve sanal poslardan gelen verilerle ilgilenirken rahat edin. PF payout çözümümüz bu ihtiyaçlar düşünülerek geliştirildi.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>INETCO BullzAI</title>
@@ -20,7 +34,7 @@
       <description>&lt;p&gt;BullzAI, INETCO gerçek zamanlı veri platformundan beslenerek sahte ödeme işlemlerini diğer çözümlerin yakalayamayacağı şekilde yakalar ve engeller. Veriler, sunucular ve switch üzerinde yük oluşturmayacak şekilde ağdan toplanır.&lt;/p&gt;
 &lt;h2 id=&#34;360-derece-yaklaşım-nasıl-işliyor&#34;&gt;360 derece yaklaşım nasıl işliyor&lt;/h2&gt;
 &lt;p&gt;İşleme ilişkin her noktadan gelen verinin birbiriyle ilişkilendirilerek yapıldığı gerçek zamanlı analiz sonucunda yapay zeka tarafından fraud tespit edilmesi durumunda alarm üretilir ya da sadece ilgili işlemler &amp;ldquo;Finansal Güvenlik Duvarı&amp;rdquo; tarafından kesilir. Bu yaklaşım INETCO&amp;rsquo;nun ortaya koyduğu benzersiz bir yaklaşımdır.&lt;/p&gt;
-&lt;p&gt;AI modeli her kart, müşteri için ayrı ayrı otomatik ve kesintisi olmaksızın canlı olarak eğitilir. Yaklaşımın bilimsel olarak açıklanmış bir özelliği olarak, 3-4 işlemin kaydının oluşması, eğitim için yeterli olmaktadır. Dolayısıyla, bu yapıyı ayakta tutmak için gerekli insan kaynağı son derece azdır.&lt;/p&gt;
+&lt;p&gt;AI modeli her kart, müşteri için ayrı ayrı otomatik ve kesinti olmaksızın canlı olarak eğitilir. Yaklaşımın bilimsel olarak açıklanmış bir özelliği olarak, 3-4 işlemin kaydının oluşması, eğitim için yeterli olmaktadır. Dolayısıyla, bu yapıyı ayakta tutmak için gerekli insan kaynağı son derece azdır.&lt;/p&gt;
 &lt;p&gt;AI modeli ve bütünleşik yaklaşım o derece başarılıdır ki, global olarak birçok uygulamada, ödeme ağındaki farkedilemeyen teknik problemlerin belirlenmesini ve kalıcı olarak çözülmesini sağlayacak bir güç olarak konumlandırılmaktadır. Veri kalitesi forensik denetimlere yönelik gereksinimleri karşılayacak kadar güvenilirdir.&lt;/p&gt;
 &lt;p&gt;PCI DSS uyumludur. Tüm hassas verilerin işlenmesinde, saklanmasında ve gösteriminde bu uyumluluk sağlanmıştır.&lt;/p&gt;
 &lt;p&gt;
@@ -45,8 +59,65 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;neden-farklı&#34;&gt;Neden farklı?&lt;/h2&gt;
-&lt;iframe width=&#34;100%&#34; target=&#34;_top&#34; height=&#34;400px&#34; src=&#34;https://recon.com.tr/slides/finance-fraud-360&#34;&gt;&lt;/iframe&gt;
-&lt;h2 id=&#34;ürün-broşürü&#34;&gt;Ürün Broşürü&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./slide11_tr.png&#34; alt=&#34;360 derece&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Gerçek zamanlı ödeme sahtekarlığı tespiti, engelleme ve siber güvenlik koruması&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diğer çözümlerin tespit edemediği sahte ödeme işlemlerini algılar ve engeller.&lt;/li&gt;
+&lt;li&gt;Meşru işlemleri engellemeden sıfır gün saldırılarını ve gelişmiş siber saldırıları tespit eder ve engeller.&lt;/li&gt;
+&lt;li&gt;Kendi kendine öğrenen makine öğrenimi, yanlış pozitifleri azaltmak için kullanıcı, kuruluş, cihaz ve kart bazında bireysel profiller oluşturur.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gerçek zamanlı olarak ağ ve uygulama yük bilgilerini yakalayan, çözen, ilişkilendiren ve analiz eden bir sensör ağı kullanır.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Makine öğrenimi, her etkileşimde bulunan kullanıcı, cihaz ve varlık için benzersiz bir davranış profili oluşturur. Davranışları desen dışına çıktığında, INETCO BullzAI, diğer çözümlerden çok daha hızlı bir şekilde yeni ve ortaya çıkan trendleri yakalayabilir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;INETCO BullzAI uygulama güvenlik duvarı, IP adresi ve port seviyesinde değil, mesaj seviyesinde otomatik olarak engelleme (veya hız sınırlama) yapabilir. Kötü niyetli trafik engellenir; meşru işlemler engellenmez.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kurallara dayalı risk puanlaması ve denetimli ve denetimsiz makine öğrenimi anomali tespiti kullanır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BullzAI tarafından yakalanan tüm veriler, her iki risk motoruna yönlendirilir. Risk puanları 10&amp;rsquo;larca milisaniye içinde döndürülür – genellikle işlem, Yetkilendirme Sunucusuna ulaşmadan önce.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;INETCO BullzAI, tüm uçtan uca ağ ve uygulama işlem verilerini korelasyonlar ve gerçek zamanlı olarak uçtan uca işlemler için tek bir görünüm oluşturur – ağ ACK&amp;rsquo;leri ve zamanlamalar dahil.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Her işlemi, istemciden yetkilendirme sunucusuna ve geri istemciye kadar (ve aradaki tüm noktalar) bağlantı, hizmet, uygulama ve iş seviyesi perspektiflerinden birleştirir ve görüntüler.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- &lt;iframe width=&#34;100%&#34; target=&#34;_top&#34; height=&#34;400px&#34; src=&#34;https://recon.com.tr/slides/finance-fraud-360&#34;&gt;&lt;/iframe&gt; --&gt;
+&lt;p&gt;BullzAI lansman videosunu izleyin.&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vTaAntbu49c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;Ürün broşürünü görüntüleyebilirsiniz.&lt;/p&gt;
 &lt;script type=&#34;text/javascript&#34; src= &#39;/js/pdf-js/build/pdf.js&#39;&gt;&lt;/script&gt;
 
 &lt;style&gt;
@@ -295,15 +366,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-7
     })();
 &lt;/script&gt;
 
-&lt;!-- 
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vTaAntbu49c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
- --&gt;
-&lt;h2 id=&#34;pci-dss-uyum&#34;&gt;PCI DSS Uyum&lt;/h2&gt;
+&lt;p&gt;PCI DSS uyum beyanını görüntüleyebilirsiniz.&lt;/p&gt;
 &lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-38b4d6db&#34;&gt;
     &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-38b4d6db&#34;&gt;
         &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-38b4d6db&#34;&gt;&lt;/div&gt;
@@ -936,7 +999,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-3
     </item>
     
     <item>
-      <title>Finansal sahtecilik tespit aracı</title>
+      <title>Temel finansal sahtecilik tespit aracı</title>
       <link>https://recon.com.tr/products_services/wallet_fraud/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://recon.com.tr/products_services/wallet_fraud/</guid>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ödeme | Recon Technology Consulting</title>
+    <link>https://recon.com.tr/tag/odeme/</link>
+      <atom:link href="https://recon.com.tr/tag/odeme/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ödeme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>tr</language><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://recon.com.tr/media/sharing.png</url>
+      <title>Ödeme</title>
+      <link>https://recon.com.tr/tag/odeme/</link>
+    </image>
+    
+    <item>
+      <title>Üye işyeri ödeme yönetimi</title>
+      <link>https://recon.com.tr/products_services/payout_management/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://recon.com.tr/products_services/payout_management/</guid>
+      <description>&lt;p&gt;Lisanslı ödeme hizmet sağlayıcılarının tahsilat sonrası payout süreçlerini kolayca yönetebilecekler. RECON, lisanslı kuruluşlara yönelik çözümler geliştirmeye devam ediyor.&lt;/p&gt;
+&lt;p&gt;Ödeme hizmet sağlayıcıları yani PF&amp;rsquo;ler, fiziksel POS, mobil POS, sanal POS, ya da farklı yeni özgün yöntemler aracılığıyla tahsilat kanalları sunarlar. Bu kanallar üzerinden üye işyerlerinden tahsilat yapılır. Bu tahsilatlar, müşterilerin ödeme araçlarından alınan ödemeler halinde, PF sistemine ulaşır.&lt;/p&gt;
+&lt;p&gt;PF&amp;rsquo;ler, bu POS&amp;rsquo;ları ve benzer kanalları sağlamakla ödeme işlemlerini kolaylaştırır ve yönetirler. Fakat bu sadece işin bir kısmıdır.&lt;/p&gt;
+&lt;p&gt;PF&amp;rsquo;ler POS üzerinden gerçekleşen işlemlerden komisyon veya hizmet ücreti alarak gelir elde ederken, üye işyerleri adına tahsil ettikleri tutarları netleştirip onlara aktarırlar.&lt;/p&gt;
+&lt;p&gt;Eğer bir PF iseniz ve birden fazla ödeme ve tahsilat kanalına, birden fazla banka ile çalışıyorsanız, size ait bir çözüme ihtiyaç duyarsınız. Bu çözümü sıfırdan geliştirebileceğiniz ve bir yazılım ekibi barındırabileceğiniz gibi, uyarlanabilen bir modül olarak alıp sadece entegrasyon ve parametrelerin düzenlenmesiyle hızlıca devreye alabilirsiniz.&lt;/p&gt;
+&lt;p&gt;Bankalardan ve sanal poslardan gelen verilerle ilgilenirken rahat edin. PF payout çözümümüz bu ihtiyaçlar düşünülerek geliştirildi.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://recon.com.tr/tag/fintek/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://recon.com.tr/tag/odeme/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://recon.com.tr/tags/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/tags/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/products_services/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://recon.com.tr/en/products_services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://recon.com.tr/products_services/"
+                />
+  </url><url>
+    <loc>https://recon.com.tr/products_services/payout_management/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://recon.com.tr/authors/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,10 +55,6 @@
                 hreflang="tr"
                 href="https://recon.com.tr/authors/"
                 />
-  </url><url>
-    <loc>https://recon.com.tr/tag/fintek/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://recon.com.tr/tag/fraud/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
@@ -66,20 +102,6 @@
                 href="https://recon.com.tr/authors/admin/"
                 />
   </url><url>
-    <loc>https://recon.com.tr/tags/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://recon.com.tr/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://recon.com.tr/tags/"
-                />
-  </url><url>
     <loc>https://recon.com.tr/products_services/inetco_bullzai/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -87,20 +109,6 @@
     <loc>https://recon.com.tr/products_services/inetco_insight/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://recon.com.tr/products_services/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://recon.com.tr/en/products_services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://recon.com.tr/products_services/"
-                />
   </url><url>
     <loc>https://recon.com.tr/slides/btrans-sunum/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
