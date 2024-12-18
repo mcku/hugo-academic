@@ -1,4 +1,5 @@
-HUGO=hugo134
+#HUGO=hugo134.1
+HUGO=hugo
 build:
 	rm -rf public
 	$(HUGO)
