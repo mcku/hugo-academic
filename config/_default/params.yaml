@@ -114,9 +114,7 @@ features:
 # Extensions
 
 extensions:
-  cms:
-    branch: main
-    local_backend: false
+  decap_cms_config: false
   academicons:
     enable: true
 
