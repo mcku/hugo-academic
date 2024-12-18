@@ -1,22 +1,22 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-12-18
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Doğru çözümler için iş ortağınız
+      title: Doğruyu seçmek uzmanlık ister
 
-      # image:
-      #   filename: acade/home/user/mcku-projects/2023/recon_web_2023/wowchemy-hugo-themes/modules/wowchemy/i18nmic.png
-      cta_alt:
-        label: "Hızlı soru sor"
-        url: https://wa.me/message/Q64CBO6X4W3OC1
-      cta:
-        label: "İletişime geç"
-        url: "/contact"
+      # # image:
+      # #   filename: acade/home/user/mcku-projects/2023/recon_web_2023/wowchemy-hugo-themes/modules/wowchemy/i18nmic.png
+      # cta_alt:
+      #   label: "Hızlı soru sor"
+      #   url: https://wa.me/message/Q64CBO6X4W3OC1
+      # cta:
+      #   label: "İletişime geç"
+      #   url: "/contact"
       text: |-
         <br/>
           Finansal teknoloji alanındaki deneyimimizle müşterilerimize benzersiz ve özelleştirilebilir çözümler sunmaktayız. 
